@@ -770,3 +770,10 @@ shahed4u.team##div.container.page-content:nth-child(7) > div.page-head:first-chi
 shahed4u.team##div.container.page-content:nth-child(7) > div.btns-bar:nth-child(3)
 m.arabseed.sbs##a.ads-aa:nth-child(7) > img
 m.arabseed.sbs##footer:nth-child(12)
+playerwatchlm83.xyz###app > header.ht-header.MoviesPlay:first-child
+playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
+playerwatchlm83.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
+playerwatchlm83.xyz###app > footer.ht-footer:nth-child(7)
+playerwatchlm83.xyz###app > a.telegram-link:nth-child(10) > img
+playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > a.go-back-to-main.xs-hidden:first-child
+playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > h1.bd-hd:last-child
