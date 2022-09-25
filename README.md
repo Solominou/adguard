@@ -749,3 +749,24 @@ playerwatchlm81.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-
 playerwatchlm81.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
 playerwatchlm81.xyz###app > footer.ht-footer:nth-child(7)
 playerwatchlm81.xyz###app > a.telegram-link:nth-child(10) > img
+playerwatchlm82.xyz###app > header.ht-header.ShowsPlay:first-child
+playerwatchlm82.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12
+playerwatchlm82.xyz###app > a.telegram-link:nth-child(7) > img
+playerwatchlm82.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:nth-child(2) > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie.watch-tvshow > div.player-external-controls:last-child
+playerwatchlm82.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child
+playerwatchlm82.xyz###app > footer.ht-footer:nth-child(4)
+m.arabseed.sbs##div.singleMaster:nth-child(6) > div.container:nth-child(2) > div.rightSingle:first-child > div.hold:nth-child(2)
+m.arabseed.sbs##div.singleMaster:nth-child(6) > div.container:nth-child(2) > div.leftSingle:last-child
+m.arabseed.sbs##div.singleMaster:nth-child(6) > div.container:nth-child(2) > div.rightSingle:first-child > div.BreadCrumbs:first-child
+m.arabseed.sbs##div.singleMaster:nth-child(6) > div.container:nth-child(2) > div.rightSingle:first-child > div.WatchButtons:last-child > a.downloadBTn:last-child
+rulefloor.com
+playerwatchlm83.xyz###app > a.telegram-link:nth-child(10) > img
+shahed4u.team##header.tornado-header.main-header:nth-child(3)
+shahed4u.team##div.tags-cloud:nth-child(5)
+shahed4u.team##div.tornado-header.main-header.endfooter:nth-child(6)
+shahed4u.team##header.tornado-header.main-header:nth-child(4)
+shahed4u.team##div.container.page-content:nth-child(8) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.btns:nth-child(2) > a.btns-play.download-btn.success.btn:nth-child(2)
+shahed4u.team##div.container.page-content:nth-child(7) > div.page-head:first-child
+shahed4u.team##div.container.page-content:nth-child(7) > div.btns-bar:nth-child(3)
+m.arabseed.sbs##a.ads-aa:nth-child(7) > img
+m.arabseed.sbs##footer:nth-child(12)
