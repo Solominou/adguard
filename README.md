@@ -792,3 +792,12 @@ shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-c
 shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.shortlink:nth-child(7)
 shahed4u.team##div.tags-cloud:nth-child(8)
 shahed4u.team##div.tornado-header.main-header.endfooter:nth-child(9)
+w.tuktukcinema.net##div.watch--area.is--series.seasons--find:nth-child(7) > div.watch--servers--list:first-child > span:first-child
+w.tuktukcinema.net##footer:nth-child(9) > div.Content--Wrapper:first-child
+mycimaa.work##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.MycimaonSocialnetwork:nth-child(3)
+mycimaa.work##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection > div.Watch--Mycima--Single > div.Download--Mycima--Single:last-child
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information:nth-child(4) > div.Singular--ActionsBtn:last-child > div.DownloadBtn.active__link:nth-child(2)
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information:nth-child(4) > div.Singular--ActionsBtn:last-child > a.SeriesDownloadLink:last-child
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Footer--Info:last-child
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information:nth-child(4) > div.Poster--Single:nth-child(2)
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.adsLionz:nth-child(5)
