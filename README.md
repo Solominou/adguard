@@ -777,3 +777,18 @@ playerwatchlm83.xyz###app > footer.ht-footer:nth-child(7)
 playerwatchlm83.xyz###app > a.telegram-link:nth-child(10) > img
 playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > a.go-back-to-main.xs-hidden:first-child
 playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > h1.bd-hd:last-child
+playerwatchlm83.xyz###app > header.ht-header.MoviesPlay:first-child
+playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
+playerwatchlm83.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
+playerwatchlm83.xyz###app > footer.ht-footer:nth-child(7)
+playerwatchlm83.xyz###app > a.telegram-link:nth-child(10) > img
+playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > a.go-back-to-main.xs-hidden:first-child
+playerwatchlm83.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > h1.bd-hd:last-child
+fmovies.to###logo > img
+shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.btns:nth-child(2) > a.btns-play.download-btn.success.btn:nth-child(2)
+shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.row.no-gutter.col-12:last-child
+shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > ul.half-tags:nth-child(5)
+shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.tax-list.media-p:nth-child(6)
+shahed4u.team##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.shortlink:nth-child(7)
+shahed4u.team##div.tags-cloud:nth-child(8)
+shahed4u.team##div.tornado-header.main-header.endfooter:nth-child(9)
