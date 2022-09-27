@@ -117,6 +117,61 @@ eegybest.xyz###download-links > div.linktabs:first-child
 eegybest.xyz###download
 eegybest.xyz###single > div.content:nth-child(4) > div.sheader:first-child
 eegybest.xyz###single > div.content:nth-child(4) > div.single_tabs:nth-child(4)
+m.arabseed.sbs##section.HeroSecion:nth-child(6)
+m.arabseed.sbs##a:nth-child(8)
+m.arabseed.sbs##div.HomeSections:nth-child(9) > div.SectionMaster:first-child > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerPrev:first-child
+m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.rightSingle:first-child > div.hold:nth-child(2) > div.infoPosterTwo:last-child
+m.arabseed.sbs##div.HomeSections:nth-child(9) > div.SectionMaster:first-child > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerNext:nth-child(2)
+m.arabseed.sbs##div.HomeSections:nth-child(9) > div.SectionMaster:nth-child(2) > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerNext:nth-child(2)
+m.arabseed.sbs##div.HomeSections:nth-child(9) > div.SectionMaster:nth-child(2) > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerPrev:first-child
+m.arabseed.sbs##section.HeroSecion.TaxHero:nth-child(8)
+m.arabseed.sbs##section.HeroSecion:nth-child(10)
+m.arabseed.sbs##a:nth-child(12)
+m.arabseed.sbs##div.HomeSections:nth-child(13) > div.SectionMaster:last-child > div.TitleCenteral:first-child > h3:first-child
+m.arabseed.sbs##div.HomeSections:nth-child(13) > div.SectionMaster:last-child > div.TitleCenteral:first-child > p:nth-child(2)
+m.arabseed.sbs##footer:nth-child(14)
+m.arabseed.sbs##div.singleMaster:nth-child(10) > div.container:nth-child(2) > div.rightSingle:first-child > div.BreadCrumbs:first-child
+m.arabseed.sbs##div.singleMaster:nth-child(10) > div.container:nth-child(2) > div.rightSingle:first-child > div.WatchButtons:nth-child(3) > a.downloadBTn:last-child
+m.arabseed.sbs##div.relatedPosts:nth-child(12) > div.container > div.TitleCenteral:first-child > h3:first-child
+m.arabseed.sbs##header.PageHeader:nth-child(9) > div.container > div.HeaderLogo:nth-child(2)
+m.arabseed.sbs##div.TaxPagePosts:nth-child(11) > div.container > div.TitleCenteral:first-child > h3:first-child
+m.arabseed.sbs##footer:nth-child(17)
+m.arabseed.sbs##div.relatedPosts:nth-child(9) > div.container > div.TitleCenteral:first-child
+m.arabseed.sbs##div.relatedPosts:nth-child(9)
+m.arabseed.sbs##header.PageHeader:nth-child(5) > div.container > div.HeaderLogo:nth-child(2)
+m.arabseed.sbs###main-menu > li.menu-item.menu-item-type-post_type.menu-item-object-post.menu-item-372186:last-child > a.HoverBefore
+m.arabseed.sbs##section.HeroSecion:nth-child(9)
+m.arabseed.sbs##a:nth-child(11) > img
+m.arabseed.sbs##header.PageHeader:nth-child(8) > div.container > div.LeftHeader:last-child > div.UserArea:last-child > div.LoggedINUser > div.LoggedINUserBtn:first-child
+m.arabseed.sbs##footer:nth-child(13)
+m.arabseed.sbs##header.PageHeader:nth-child(8) > div.container > div.HeaderLogo:nth-child(2)
+m.arabseed.sbs##section.HeroSecion.TaxHero:nth-child(11)
+m.arabseed.sbs##div.TaxPagePosts:nth-child(14) > div.container > div.TitleCenteral:first-child > h3:first-child
+m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.rightSingle:first-child > div.WatchButtons:nth-child(3) > a.downloadBTn:last-child
+m.arabseed.sbs##footer:nth-child(12)
+m.arabseed.sbs##a:nth-child(12) > img
+m.arabseed.sbs###main-menu > li.menu-item.menu-item-type-taxonomy.menu-item-object-category.menu-item-366790:nth-child(6) > a.HoverBefore
+m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.rightSingle:first-child > div.BreadCrumbs:first-child
+m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.leftSingle:last-child > div.HoldINfo:first-child > div.topBarSingle:last-child
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.BreadCRumbs:first-child
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > singular--header:nth-child(2) > div.Orignal--Post:first-child > h1:first-child
+w.arlionz.vip##a.telegram-anchor:nth-child(11)
+w.arlionz.vip###PageChangedr > rootinside > div.Mobile--Header:nth-child(3) > div.logo:nth-child(2) > a > div.HeaderLogo
+w.arlionz.vip###PageChangedr > rootinside > div.adsLionz:nth-child(4) > a > img
+w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > div.MainMenus:nth-child(2) > custom--menu--master > ul > li.ChildrenMenu:last-child > a
+w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.fa__play:last-child > a
+w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.fa__play:last-child
+w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.twitter:nth-child(3)
+w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.facebook:nth-child(2)
+w.arlionz.vip##a.telegram-anchor:nth-child(10)
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > a:nth-child(5) > img.alignnone.wp-image-310689.size-full
+w.arlionz.vip##footer:nth-child(3) > span.desingedBY
+w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information.Opened:nth-child(4) > div.ChangeingsArea.showin:first-child > div.contents:last-child > div.Serv--PopOvers.serv--watch--box.shows_full > div.Placing--Popv--Title.Tit--watch:first-child
+w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.fa__play:last-child
+w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.twitter:nth-child(3)
+w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.facebook:nth-child(2)
+w.arlionz.vip###PageChangedr > rootinside > a:nth-child(4) > img.alignnone.wp-image-310689.size-full
+w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > div.MainMenus:nth-child(2) > custom--menu--master > ul > li.ChildrenMenu:last-child > a
 mycima.tube##root:first-child > rootinside > header.visible.double--header:first-child > div.LeftSideFlex:last-child > div.LeftSideFlex--user
 mycima.tube##root:first-child > rootinside > footer:last-child
 cima4u.cloud###SliderShapeSVGs
@@ -165,14 +220,6 @@ moviesland.eu##div.container-fluid:first-child > div.row.main-row > div.sidebar:
 moviesland.eu##div.container-fluid:first-child > div.row.main-row > div.sidebar:first-child > nav.navbar.bg-light.left-navbar.bottom-navbar:last-child > ul.navbar-nav:last-child
 moviesland.eu###lightmode > i.fas.fa-sun
 w.arlionz.vip###PageChangedr > rootinside > arablionz--boxed--roots.ArabLionz--Boxed--Roots.Widgets--Roots:last-child > section--titles.Section--Titles.First--Style:first-child
-w.arlionz.vip##a.telegram-anchor:nth-child(11)
-w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > div.MainMenus:nth-child(2) > custom--menu--master > ul > li.ChildrenMenu:last-child > a
-w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.fa__play:last-child > a
-w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.fa__play:last-child
-w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.twitter:nth-child(3)
-w.arlionz.vip###PageChangedr > rootinside > header.fixed:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.facebook:nth-child(2)
-w.arlionz.vip##a.telegram-anchor:nth-child(10)
-w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > div.MainMenus:nth-child(2) > custom--menu--master > ul > li.ChildrenMenu:last-child > a
 w.tuktukcinema.net##div.News--Bar:nth-child(6) > div.Content--Wrapper > div.News--Content:first-child
 w.tuktukcinema.net##div.News--Bar:nth-child(6) > div.Content--Wrapper > div.Left--Anchors:last-child
 w.tuktukcinema.net##header.Main--Header:nth-child(4) > div.Content--Wrapper > div.Header--Social:last-child
@@ -198,25 +245,12 @@ one.akwam.cc###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-
 mycima.fun##root:first-child > rootinside > header:first-child > div.RightSideFlex:first-child > a > div.HeaderLogo
 mycima.fun##root:first-child > rootinside > header:first-child > div.LeftSideFlex:last-child > div.LeftSideFlex--user > a.hoverable.activable.LoginButton
 mycima.fun###menu-item-273057 > a.activable.hoverable
-m.arabseed.sbs###main-menu > li.menu-item.menu-item-type-post_type.menu-item-object-post.menu-item-372186:last-child > a.HoverBefore
-m.arabseed.sbs##section.HeroSecion:nth-child(9)
-m.arabseed.sbs##a:nth-child(11) > img
-m.arabseed.sbs##header.PageHeader:nth-child(8) > div.container > div.LeftHeader:last-child > div.UserArea:last-child > div.LoggedINUser > div.LoggedINUserBtn:first-child
-m.arabseed.sbs##footer:nth-child(13)
-m.arabseed.sbs##header.PageHeader:nth-child(8) > div.container > div.HeaderLogo:nth-child(2)
-m.arabseed.sbs##section.HeroSecion.TaxHero:nth-child(11)
-m.arabseed.sbs##div.TaxPagePosts:nth-child(14) > div.container > div.TitleCenteral:first-child > h3:first-child
-m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.rightSingle:first-child > div.WatchButtons:nth-child(3) > a.downloadBTn:last-child
 cima-club.cfd##header.tornado-header.main-header:first-child > div.bottom-navigation:first-child > div.container > div.btns:last-child
 cima-club.cfd##header.tornado-header.main-header:first-child > div.container:last-child > form.form-ui.search:last-child > div.sociaLinks:last-child
 cima-club.cfd##header.tornado-header.main-header:first-child > div.container:last-child > a.logo:first-child
 cima-club.cfd##footer.tornado-header.main-header:nth-child(6) > div.container:last-child
-w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > a:nth-child(5) > img.alignnone.wp-image-310689.size-full
-w.arlionz.vip##footer:nth-child(3) > span.desingedBY
-w.arlionz.vip###PageChangedr > rootinside > a:nth-child(4) > img.alignnone.wp-image-310689.size-full
 w.tuktukcinema.net##div.watch--area:nth-child(7) > div.watch--servers--list:first-child > div.downloadBTN:nth-child(3)
 lodynet.ink##div.MainSingleCover:nth-child(7) > div.container > div.SingleCoverFirstSection:last-child > center:nth-child(4) > aside:first-child > a > img
-w.arlionz.vip###PageChangedr > rootinside > div.Mobile--Header:nth-child(3) > div.logo:nth-child(2) > a > div.HeaderLogo
 w.tuktukcinema.net##header.Main--Header:nth-child(4) > div.Content--Wrapper > div.Logo--Area:nth-child(3) > a
 w.tuktukcinema.net##div.HomeSlider:nth-child(9)
 w.tuktukcinema.net##section.Footer--Filter:nth-child(10)
@@ -249,7 +283,6 @@ re.akwam.news##div.site-container:nth-child(15) > div.page-download > div.conten
 re.akwam.news##div.site-container:nth-child(15) > div.page-download > div.content:last-child > a.download-link:nth-child(6)
 two.akwam.cz##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child > a.btn.btn-orange.btn-pill.d-flex.align-items-center.text-white.mt-2:nth-child(2)
 two.akwam.cz##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child > div.mt-auto.pt-3:last-child > div.movie-rating.d-flex.justify-content-center.align-items-center
-m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.rightSingle:first-child > div.hold:nth-child(2) > div.infoPosterTwo:last-child
 w.tuktukcinema.net##section.Single--Container:nth-child(6) > div.Content--Wrapper > div.MainSingle > div.MasterSingleMeta:last-child > div.MediaQueryRight:nth-child(4) > div.catssection:first-child
 w.tuktukcinema.net##footer:nth-child(11) > div.Content--Wrapper:first-child
 two.akwam.cz##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:nth-child(2) > div.font-size-14.text-muted.mt-3:nth-child(9)
@@ -265,10 +298,6 @@ start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.
 mycima.fun##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.MycimaonSocialnetwork:nth-child(3)
 mycima.fun##root:first-child > rootinside > mycima:nth-child(2) > mycimaslider:first-child > div.Slider--Grid:last-child > div.Items--Slider--Grid.owl-rtl.owl-loaded.owl-drag
 mycima.fun##root:first-child > rootinside > mycima:nth-child(2) > mycimaslider:first-child > div.Breadcrumb--UX:first-child
-w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information.Opened:nth-child(4) > div.ChangeingsArea.showin:first-child > div.contents:last-child > div.Serv--PopOvers.serv--watch--box.shows_full > div.Placing--Popv--Title.Tit--watch:first-child
-w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.fa__play:last-child
-w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.twitter:nth-child(3)
-w.arlionz.vip###PageChangedr > rootinside > header:nth-child(2) > middle--header:last-child > ul.SocialAndSearching > li.facebook:nth-child(2)
 lodynet.ink##div.MainSingleCover:nth-child(5) > div.container > div.SingleCoverFirstSection:nth-child(2) > div.Poster:first-child > img:first-child
 lodynet.ink##div.MainSingleCover:nth-child(5)
 lodynet.ink##div.MainSingleCover:nth-child(7) > div.container > h2.WatchTitle:first-child
@@ -279,11 +308,9 @@ w.arlionz.vip###PageChangedr > rootinside > div.adsLionz:nth-child(4) > a:first-
 w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.adsLionz:nth-child(5) > a:first-child > img
 elahmad.com###postbid_if_1661230317056
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
-w.arlionz.vip###PageChangedr > rootinside > div.adsLionz:nth-child(4) > a > img
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 w.tuktukcinema.net##footer:nth-child(8) > div.Content--Wrapper:first-child
 mycima.fun##root:first-child > rootinside > footer:last-child
-m.arabseed.sbs##footer:nth-child(12)
 asia2tv.cn###wrapper-layout > div.footer-top:nth-child(9)
 c-drama.net##footer.footer.pt-5.pb-5:nth-child(11)
 c-drama.net##div.copyright:nth-child(12)
@@ -374,10 +401,6 @@ cima-club.shop##div.container-xl.page-content:nth-child(2) > div.section-head:nt
 cima-club.shop##div.container-xl.page-content:nth-child(2) > div.downloads.row.gutter-medium:nth-child(6)
 cima-club.shop##header.tornado-header.main-header:first-child > div.container:last-child > form.form-ui.search:last-child > div.sociaLinks:last-child
 cima-club.shop##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.btns:nth-child(2) > a.btns-play.download-btn.primary.btn
-m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.rightSingle:first-child > div.BreadCrumbs:first-child
-m.arabseed.sbs##div.singleMaster:nth-child(9) > div.container:nth-child(2) > div.leftSingle:last-child > div.HoldINfo:first-child > div.topBarSingle:last-child
-w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.BreadCRumbs:first-child
-w.arlionz.vip###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > singular--header:nth-child(2) > div.Orignal--Post:first-child > h1:first-child
 w.tuktukcinema.net##div.News--Bar:nth-child(7) > div.Content--Wrapper
 w.tuktukcinema.net##header.Main--Header:nth-child(5) > div.Content--Wrapper > div.Header--Social:last-child
 w.tuktukcinema.net##div.Content--Wrapper:nth-child(6) > section.MasterArchiveSection.loadFilter.ArcArc > div.MasterLoadMore.allBlocks:first-child > div.archiveTitle:first-child
@@ -444,8 +467,6 @@ tv.cima4u.world##div:nth-child(6) > div.Sin
 cima4u.world##footer:nth-child(14) > div.DesignedBy
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page > header.header.widget-page__header.header_transparent:first-child
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page > main.widget-page__main:last-child > div.widget-page__searchbar.widget-page__searchbar_allowed:first-child
-m.arabseed.sbs##a:nth-child(12) > img
-m.arabseed.sbs###main-menu > li.menu-item.menu-item-type-taxonomy.menu-item-object-category.menu-item-366790:nth-child(6) > a.HoverBefore
 cima4u.world##div.RelatedsOnSingle:nth-child(5)
 cima4u.world##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > div.StatsMain:first-child
 cima4u.world##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > div.ImportantButtons:last-child
@@ -460,15 +481,6 @@ start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body 
 w.tuktukcinema.net##div.News--Bar:nth-child(8)
 w.tuktukcinema.net##section.Channels--Tv:nth-child(11)
 w.tuktukcinema.net##header.Main--Header:nth-child(6) > div.Content--Wrapper > div.Header--Social:last-child
-m.arabseed.sbs##section.HeroSecion:nth-child(10)
-m.arabseed.sbs##a:nth-child(12)
-m.arabseed.sbs##div.HomeSections:nth-child(13) > div.SectionMaster:last-child > div.TitleCenteral:first-child > h3:first-child
-m.arabseed.sbs##div.HomeSections:nth-child(13) > div.SectionMaster:last-child > div.TitleCenteral:first-child > p:nth-child(2)
-m.arabseed.sbs##footer:nth-child(14)
-m.arabseed.sbs##div.singleMaster:nth-child(10) > div.container:nth-child(2) > div.rightSingle:first-child > div.BreadCrumbs:first-child
-m.arabseed.sbs##div.singleMaster:nth-child(10) > div.container:nth-child(2) > div.rightSingle:first-child > div.WatchButtons:nth-child(3) > a.downloadBTn:last-child
-m.arabseed.sbs##div.relatedPosts:nth-child(12) > div.container > div.TitleCenteral:first-child > h3:first-child
-m.arabseed.sbs##header.PageHeader:nth-child(9) > div.container > div.HeaderLogo:nth-child(2)
 tv.cima4u.world##div:last-child > header:first-child > div.container.dflex > div.container-r:nth-child(2)
 tv.cima4u.world##div:last-child > header:first-child > div.container.dflex > div.social:nth-child(4)
 tv.cima4u.world##div:last-child > header:first-child > div.container.dflex > div.container-l:last-child
@@ -676,14 +688,6 @@ w.tuktukcinema.net##section.Single--Container:nth-child(7) > div.Content--Wrappe
 w.tuktukcinema.net##section.Single--Container:nth-child(7) > div.Content--Wrapper > div.MainSingle > div.MasterSingleMeta:last-child > div.MediaQueryLeft:last-child > div.right:first-child > div.trl.WatcHTrailer:last-child
 w.tuktukcinema.net##section.Single--Container:nth-child(9) > div.Content--Wrapper
 tubepornclassic.com###app > div.content:nth-child(2) > div.container:last-child > div.content-block > div.videos-page > div.listing:first-child > div.listing-videos:last-child > div.listing__content > div.videos-tube-friends:last-child
-playerwatchlm77.xyz###app > ul.social-share:nth-child(5)
-playerwatchlm79.xyz###app > header.ht-header.MoviesPlay:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation > a.go-back-to-main.xs-hidden:first-child
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(10) > img
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(7)
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
-playerwatchlm79.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
-playerwatchlm79.xyz##div.page-single-2:first-child > div.container > div.row > div.middle-content > a:first-child > img.md-logo
 asia2tv.cn###cookie_tyysoynghmgnefk8
 asia2tv.cn###cookie_8qdfy88vgw4d2aa4
 asia2tv.cn###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.block-bgcolor-att.pt-5.pb-3:last-child
