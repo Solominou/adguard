@@ -7,6 +7,7 @@ faselhd.club###siteMenu > div.headerItems.mr-4.ml-auto:nth-child(2) > a.promoLin
 faselhd.club###blockList > div > div.goldenHead:first-child
 faselhd.club###blockList > div > div.goldenList:nth-child(2)
 faselhd.club###blockList > div > div.goldenBtn:last-child
+ww.egybest.bid###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
 egybest.kim###left
 egybest.kim###mainLoad > div:first-child > div.mbox:nth-child(4)
 egybest.kim###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
