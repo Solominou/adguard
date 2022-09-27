@@ -351,7 +351,6 @@ asia2tv.cn###cookie_tyysoynghmgnefk8
 asia2tv.cn###cookie_8qdfy88vgw4d2aa4
 asia2tv.cn###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.block-bgcolor-att.pt-5.pb-3:last-child
 asia2tv.cn##div.vertical-menu:first-child
-asia2tv.cn###header
 asia2tv.cn###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-top:first-child > div.row.align-items-center > div.col-lg-8.align-self-center.mb-3.d-flex:first-child > div.d-inline-block.ml-3.single-title:first-child > h4.mb-0:last-child
 asia2tv.cn###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-watch:last-child > div.row > div.col-lg-8:nth-child(2) > div.row:first-child > div.col-md-6:first-child > div.single-episode-watch-server > ul.server-list-menu.embed-player-tabs > li:last-child
 asia2tv.cn###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-watch:last-child > div.row > div.col-lg-8:nth-child(2) > div.row:first-child > div.col-md-6:last-child > div.single-episode-watch-tools
