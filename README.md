@@ -125,6 +125,11 @@ faselhd.club###header2 > div.container > nav.navbar.navbar-expand-lg.headerNav >
 w.egybest.kim###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child > a.logo.vam:last-child
 w.arlionz.vip###PageChangedr > rootinside > div.Mobile--Header:nth-child(3) > div.logo:nth-child(2) > a > div.HeaderLogo
 w.tuktukcinema.net##header.Main--Header:nth-child(4) > div.Content--Wrapper > div.Logo--Area:nth-child(3) > a
+w.tuktukcinema.net##div.HomeSlider:nth-child(9)
+w.tuktukcinema.net##section.Footer--Filter:nth-child(10)
+w.tuktukcinema.net##section.Footer--Filter:nth-child(7)
+w.tuktukcinema.net##div.HomeSlider:nth-child(11)
+w.tuktukcinema.net##section.Footer--Filter:nth-child(12)
 one.akwam.cc##div.site-container:nth-child(5) > header.main-header:nth-child(2) > div.container:first-child > div.row.align-items-center > div.col-auto:first-child > h2.main-logo.m-0 > a.d-inline-flex > img.img-fluid
 shahed4u.mx##div.container.page-content:nth-child(4) > a.indexLogo:first-child > img
 shahed4u.mx##div.container.page-content:nth-child(4) > div.boxSocial:last-child
