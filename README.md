@@ -283,6 +283,16 @@ cima4u.world##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5
 cima4u.world##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > div.ImportantButtons:last-child
 cima4u.world##footer:nth-child(12)
 tv.cima4u.world##div:nth-child(6) > div.SingleContext:nth-child(3)
+cima4u.world##div.SingleContext:nth-child(5) > div.SinglePoster:nth-child(3)
+cima4u.world##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > div.StatsMain:first-child
+cima4u.world##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > a:nth-child(2) > div.WatchingArea.TrailerColorButton.Hoverable > span.WatchNow
+cima4u.world##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > a:nth-child(2) > div.WatchingArea.TrailerColorButton.Hoverable
+cima4u.world##div.SingleContext:nth-child(5) > div.SingleContent:nth-child(4)
+cima4u.world##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > div.ImportantButtons:last-child
+cima4u.world##div.SingleContext:nth-child(5) > div.Keywords:last-child
+cima4u.world##div.RelatedsOnSingle:nth-child(7) > div.PageTitle.InnerPages:first-child
+cima4u.world##div.RelatedsOnSingle:nth-child(7) > div.container.HasFilterBlocks:last-child
+cima4u.world##div.RelatedsOnSingle:nth-child(6) > div.PageTitle.InnerPages:first-child
 cima4u.world##div.PinSlider.InnerPages:nth-child(5)
 cima4u.world##div.MultiFilter.InnerPages:nth-child(4)
 cima4u.world##div.SingleContext:nth-child(4) > div.Keywords:last-child
