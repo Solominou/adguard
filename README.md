@@ -431,6 +431,7 @@ playerwatchlm79.*###app > a.telegram-link:nth-child(7) > img
 playerwatchlm79.*###app > footer.ht-footer:nth-child(4)
 playerwatchlm79.*###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child
 playerwatchlm79.*###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:nth-child(2) > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie.watch-tvshow > div.player-external-controls:last-child
+playerwatchlm79.*###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation
 c-drama.*##div.single-page:nth-child(7) > div.content-single-serise.mt-4:first-child > div.single-info > div.container
 c-drama.*##div.container:nth-child(7)
 c-drama.*##div.about.mb-4:nth-child(8) > div.container > div.row:first-child
