@@ -437,13 +437,4 @@ c-drama.*##div.about.mb-4:nth-child(8) > div.container > div.row:first-child
 c-drama.*##div.container:nth-child(15) > div.bg-white.box-shadow.p-4.mb-5
 c-drama.*##footer.footer.pt-5.pb-5:nth-child(19)
 c-drama.*##div.copyright:nth-child(20)
-playerwatchlm79.xyz###app > header.ht-header.MoviesPlay:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
-playerwatchlm79.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
-playerwatchlm79.xyz###app > header.ht-header.MoviesView:first-child
-playerwatchlm79.xyz###overview > div.row:last-child > div.col-md-4.col-sm-12.col-xs-12.hidden-md.hidden-lg:last-child > div.movie-img > p.movie__poster.lozad
-playerwatchlm79.xyz###overview
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:nth-child(3) > div.col-md-8.col-sm-12.col-xs-12:last-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.movie-items.movies-items__category:last-child > div.container > div.row.ipad-width2 > div.col-md-12
-playerwatchlm79.xyz###app > header.ht-header.MoviesSearch:first-child
 
