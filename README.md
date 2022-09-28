@@ -16,12 +16,6 @@ playerwatchlm79.xyz###app > footer.ht-footer:nth-child(7)
 playerwatchlm79.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
 playerwatchlm79.xyz###app > a.telegram-link:nth-child(7) > img
 playerwatchlm79.xyz###app > a.telegram-link:nth-child(10) > img
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > div.flex-column__header:first-child
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > h1.title:nth-child(2)
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text:nth-child(3)
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text.text-bottom:last-child
-playerwatchlm79.xyz###app > header.ht-header.ShowsSearch:first-child
-
 playerwatchlm79.xyz###app > div.container.shows-items__category:nth-child(6) > div.row
 playerwatchlm79.xyz###app > header.ht-header.ShowsPlay:first-child
 playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child
