@@ -1,3 +1,34 @@
+playerwatchlm79.xyz/assets/5099abbd/img/logo.png
+playerwatchlm79.xyz###app > header.ht-header.MoviesSearch:first-child
+playerwatchlm79.xyz###app > a.telegram-link:nth-child(6) > img
+playerwatchlm79.xyz###app > div.page-single:nth-child(2) > div.container:nth-child(2) > div.row:first-child
+playerwatchlm79.xyz###app > div.page-single:nth-child(2) > div.container:nth-child(2) > div.row:nth-child(2) > div.col-sm-12 > div.controls.search-controls > form
+playerwatchlm79.xyz###app > footer.ht-footer:nth-child(3)
+playerwatchlm79.xyz###app > header.ht-header.MoviesView:first-child
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:nth-child(3)
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.movie-items.movies-items__category:last-child > div.container > div.row.ipad-width2
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:last-child > div.col-sm-12
+playerwatchlm79.xyz###app > footer.ht-footer:nth-child(4)
+playerwatchlm79.xyz###app > header.ht-header.MoviesPlay:first-child
+playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation
+playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
+playerwatchlm79.xyz###app > footer.ht-footer:nth-child(7)
+playerwatchlm79.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
+playerwatchlm79.xyz###app > a.telegram-link:nth-child(7) > img
+playerwatchlm79.xyz###app > a.telegram-link:nth-child(10) > img
+playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > div.flex-column__header:first-child
+playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > h1.title:nth-child(2)
+playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text:nth-child(3)
+playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text.text-bottom:last-child
+playerwatchlm79.xyz###app > header.ht-header.ShowsSearch:first-child
+playerwatchlm79.xyz###app > header.ht-header.ShowsView:first-child
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container.internal-page-container:last-child > div.row.ipad-width2:nth-child(2)
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container.internal-page-container:last-child > div.row:last-child > div.col-sm-12
+playerwatchlm79.xyz###app > div.container.shows-items__category:nth-child(6) > div.row
+playerwatchlm79.xyz###app > header.ht-header.ShowsPlay:first-child
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:nth-child(2) > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie.watch-tvshow > div.player-external-controls:last-child
+playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.Single-begin:first-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.AsideContext:nth-child(2)
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single:nth-child(2) > div.WatchServers:first-child > titleshape:first-child
@@ -420,25 +451,3 @@ c-drama.*##div.about.mb-4:nth-child(8) > div.container > div.row:first-child
 c-drama.*##div.container:nth-child(15) > div.bg-white.box-shadow.p-4.mb-5
 c-drama.*##footer.footer.pt-5.pb-5:nth-child(19)
 c-drama.*##div.copyright:nth-child(20)
-playerwatchlm79.xyz/assets/5099abbd/img/logo.png
-playerwatchlm79.xyz###app > header.ht-header.MoviesSearch:first-child
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(6) > img
-playerwatchlm79.xyz###app > div.page-single:nth-child(2) > div.container:nth-child(2) > div.row:first-child
-playerwatchlm79.xyz###app > div.page-single:nth-child(2) > div.container:nth-child(2) > div.row:nth-child(2) > div.col-sm-12 > div.controls.search-controls > form
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(3)
-playerwatchlm79.xyz###app > header.ht-header.MoviesView:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:nth-child(3)
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.movie-items.movies-items__category:last-child > div.container > div.row.ipad-width2
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:last-child > div.col-sm-12
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(4)
-playerwatchlm79.xyz###app > header.ht-header.MoviesPlay:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(7)
-playerwatchlm79.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(7) > img
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(10) > img
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > div.flex-column__header:first-child
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > h1.title:nth-child(2)
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text:nth-child(3)
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text.text-bottom:last-child
