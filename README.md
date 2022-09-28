@@ -1,7 +1,3 @@
-one.akwam.cx##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child
-one.akwam.cx##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(2)
-one.akwam.cx##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4)
-one.akwam.cx##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > div.d-flex:last-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.Single-begin:first-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.AsideContext:nth-child(2)
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single:nth-child(2) > div.WatchServers:first-child > titleshape:first-child
@@ -12,6 +8,9 @@ mycimaa.*##root:first-child > rootinside > footer:last-child
 mycimaa.*##root:first-child > rootinside > header.visible:first-child > div.RightSideFlex:first-child > a > div.HeaderLogo
 mycimaa.*##root:first-child > rootinside > header.visible:first-child > div.LeftSideFlex:last-child
 mycimaa.*###menu-item-273057 > a.activable.hoverable
+mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:first-child > mycima.separated--top > singlerelated:last-child
+mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > div.MycimaonSocialnetwork:nth-child(2)
+mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(3) > singlesection > div.Watch--Mycima--Single:nth-child(2) > div.Download--Mycima--Single:last-child
 mycimaa.*##root:first-child > rootinside > div.LeftUI:nth-child(4) > mycimaactivities:first-child
 mycimaa.*##root:first-child > rootinside > header:first-child > div.RightSideFlex:first-child > a > div.HeaderLogo
 mycimaa.*##root:first-child > rootinside > mycima:nth-child(2) > mycimaslider:first-child > div.Slider--Grid:last-child > div.Items--Slider--Grid.owl-rtl.owl-loaded.owl-drag > div.owl-stage-outer:first-child
@@ -37,7 +36,10 @@ faselhd.*###streamBox > div.form-row:last-child > div.col-xl-12.col-lg-12.col-md
 faselhd.*##div:nth-child(9) > div.singlePage:last-child > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 faselhd.*##div.singlePage:nth-child(9) > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 vs-mirror/vidstream.to/img/vidstream.png
+ww.egybest.*###watch_dl > div.msg_box.warn.table.full:nth-child(3)
+ww.egybest.*###watch_dl > table.dls_table.btns.full.mgb:nth-child(4)
 ww.egybest.*###mainLoad > div:first-child > div.mbox:nth-child(6)
+ww.egybest.*##div.shareb.sharet.ar:nth-child(5)
 ww.egybest.*###main > h1:first-child
 ww.egybest.*###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
 ww.egybest.*###left
@@ -263,6 +265,8 @@ w.tuktukcinema.*##section.Single--Container:nth-child(7) > div.Content--Wrapper 
 w.tuktukcinema.*##section.Single--Container:nth-child(9) > div.Content--Wrapper
 w.tuktukcinema.*##div.watch--area.is--series.seasons--find:nth-child(7) > div.watch--servers--list:first-child > span:first-child
 w.tuktukcinema.*##footer:nth-child(9) > div.Content--Wrapper:first-child
+w.tuktukcinema.*##header.Main--Header:nth-child(5) > div.Content--Wrapper > div.Logo--Area:nth-child(3)
+w.tuktukcinema.*##div.watch--area:nth-child(8) > div.watch--servers--list:first-child > span:first-child
 asia2tv.*###cookie_tyysoynghmgnefk8
 asia2tv.*###cookie_8qdfy88vgw4d2aa4
 asia2tv.*###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.block-bgcolor-att.pt-5.pb-3:last-child
@@ -310,6 +314,7 @@ cima-club.*##div.container-xl.page-content:nth-child(2) > div.SeriesSection:nth-
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.row.no-gutter.col-12:last-child
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.poster-wraper.col-12.col-m-3:first-child
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.media-p:nth-child(3) > p.Scroll-list
+cima-club.*##div.container-xl.page-content:nth-child(2) > div.SeriesSection:nth-child(3)
 c-drama.*##div.header-top:first-child > div.container > div.float-left:first-child > ul.reset-ul.list-inline-block.social-links
 c-drama.*###menu-item-220 > a.nav-link
 c-drama.*###menu-item-219 > a.nav-link
@@ -318,6 +323,7 @@ c-drama.*##div.copyright:nth-child(12)
 c-drama.*##footer.footer.pt-5.pb-5:nth-child(12)
 c-drama.*##div.single-page:nth-child(7) > div.content-single-serise.mt-4:first-child > div.single-info > div.container > div.content.bg-white.box-shadow-w.p-3.mb-4:last-child > div.row > div.col-sm-3:last-child > div.download:last-child > a.click-to-download:first-child
 e.lodynet.*##div.Mainheader:first-child > div.Logo:first-child > a > img
+lodynet.*##div.MainSingleCover:nth-child(4)
 lodynet.*##div.MainSingleCover:nth-child(7) > div.container > div.SingleCoverFirstSection:last-child > center:nth-child(4) > aside:first-child > a > img
 w.lodynet.*##header:nth-child(2) > div.container > div.LeftHeader > div.SocialArea:last-child
 lodynet.*##header:nth-child(2) > div.container > div.LeftHeader > div.SocialArea:last-child
@@ -365,6 +371,11 @@ one.akwam.*##div.site-container:nth-child(5) > header.main-header:nth-child(2) >
 one.akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > a.akoam-old:nth-child(2) > img.img-fluid
 one.akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:nth-child(2) > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:last-child > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child > div.mt-auto.pt-3:last-child > div.movie-rating.d-flex.justify-content-center.align-items-center
 one.akwam.*###downloads
+one.akwam.*##div.site-container:nth-child(5) > nav.mb-5:nth-child(5)
+one.akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child
+one.akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(2)
+one.akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4)
+one.akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > div.d-flex:last-child
 one.akwam.*###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child > a.link-btn.link-download.d-flex.align-items-center.px-3
 one.akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child > a.btn.btn-orange.btn-pill.d-flex.align-items-center.text-white.mt-2:first-child
 one.akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.py-4.mb-4:first-child > div.container > h1.font-size-22.font-size-md-38.font-weight-bold.text-white:nth-child(2)
@@ -420,3 +431,10 @@ playerwatchlm79.*###app > a.telegram-link:nth-child(7) > img
 playerwatchlm79.*###app > footer.ht-footer:nth-child(4)
 playerwatchlm79.*###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child
 playerwatchlm79.*###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:nth-child(2) > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie.watch-tvshow > div.player-external-controls:last-child
+c-drama.*##div.single-page:nth-child(7) > div.content-single-serise.mt-4:first-child > div.single-info > div.container
+c-drama.*##div.container:nth-child(7)
+c-drama.*##div.about.mb-4:nth-child(8) > div.container > div.row:first-child
+c-drama.*##div.container:nth-child(15) > div.bg-white.box-shadow.p-4.mb-5
+c-drama.*##footer.footer.pt-5.pb-5:nth-child(19)
+c-drama.*##div.copyright:nth-child(20)
+
