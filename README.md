@@ -481,10 +481,9 @@ asia.kporama.*###Tp-Wp > footer.Footer:last-child > div.Top.Container:first-chil
 asia.kporama.*###Tp-Wp > footer.Footer:last-child > div.Bot.Container:last-child > div.WebDescription
 asia.kporama.*###dsq-app*
 asia.kporama.*###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Container > div.TpRwCont.TpLCol > main > article.TPost.Single.Episode:first-child > header:first-child > div.TpTvSw:first-child > ul.ListPOpt:nth-child(2)
-r.laroza.one##div.container-fluid.no-padding:nth-child(2) > header.header-bg:first-child > div.pm-top-head:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child
-r.laroza.one##div.container-fluid.no-padding:nth-child(2) > header.header-bg:first-child
-r.laroza.one##div.container-fluid.no-padding:nth-child(2) > div.mastcontent-wrap:last-child > div.pm-section-highlighted:first-child > div.container-fluid > div.row > div.container:last-child > div.row.pm-video-heading:first-child
-r.laroza.one###content-main > div.row > div.col-xs-12.col-sm-12.col-md-12.pm-video-watch-sidebar:nth-child(2) > div.pm-sidebar-playlist
-r.laroza.one##div.container-fluid.container-footer:nth-child(3) > footer:last-child
+*.laroza.*##div.container-fluid.no-padding:nth-child(2) > header.header-bg:first-child > div.pm-top-head:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child
+*.laroza.*##div.container-fluid.no-padding:nth-child(2) > header.header-bg:first-child
+*.laroza.*##div.container-fluid.no-padding:nth-child(2) > div.mastcontent-wrap:last-child > div.pm-section-highlighted:first-child > div.container-fluid > div.row > div.container:last-child > div.row.pm-video-heading:first-child
+*.laroza.*###content-main > div.row > div.col-xs-12.col-sm-12.col-md-12.pm-video-watch-sidebar:nth-child(2) > div.pm-sidebar-playlist
+*.laroza.*##div.container-fluid.container-footer:nth-child(3) > footer:last-child
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
-
