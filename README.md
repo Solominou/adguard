@@ -300,35 +300,6 @@ w.tuktukcinema.*##div.watch--area.is--series.seasons--find:nth-child(7) > div.wa
 w.tuktukcinema.*##footer:nth-child(9) > div.Content--Wrapper:first-child
 w.tuktukcinema.*##header.Main--Header:nth-child(5) > div.Content--Wrapper > div.Logo--Area:nth-child(3)
 w.tuktukcinema.*##div.watch--area:nth-child(8) > div.watch--servers--list:first-child > span:first-child
-asia2tv.*###cookie_tyysoynghmgnefk8
-asia2tv.*###cookie_8qdfy88vgw4d2aa4
-asia2tv.*###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.block-bgcolor-att.pt-5.pb-3:last-child
-asia2tv.*##div.vertical-menu:first-child
-asia2tv.*###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-top:first-child > div.row.align-items-center > div.col-lg-8.align-self-center.mb-3.d-flex:first-child > div.d-inline-block.ml-3.single-title:first-child > h4.mb-0:last-child
-asia2tv.*###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-watch:last-child > div.row > div.col-lg-8:nth-child(2) > div.row:first-child > div.col-md-6:first-child > div.single-episode-watch-server > ul.server-list-menu.embed-player-tabs > li:last-child
-asia2tv.*###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-watch:last-child > div.row > div.col-lg-8:nth-child(2) > div.row:first-child > div.col-md-6:last-child > div.single-episode-watch-tools
-asia2tv.*##div.modal-backdrop.fade.show:nth-child(18)
-asia2tv.*###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.block-bgcolor-att.ep.pt-5.pb-3:nth-child(2)
-asia2tv.*###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.pt-5.pb-3:last-child
-asia2tv.*###wrapper-layout > div.single-page.single-episode:nth-child(6) > div.container:first-child > div.single-episode-watch:last-child > div.row > div.col-md-12:last-child > div.row.mt-0.mb-5 > div.col-lg-8.pl-0:last-child > div.row > div.col-md-12.col-lg-6.text-left.position-relative.pt-lg-0.pt-md-0.pt-sm-2:last-child
-asia2tv.*###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.container:first-child > div.row > div.col-lg-4:nth-child(2) > div.info-detail-single
-asia2tv.*###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.container:first-child > div.row > div.col-lg-4:first-child > div.single-episode-info.mt--10.text-center:nth-child(2)
-asia2tv.*###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.container:first-child > div.row > div.col-lg-4:first-child > div.single-episode-info.mt--10.text-center:nth-child(3)
-asia2tv.*###wrapper-layout > div.single-page.single-episode.pb-0:nth-child(8) > div.container:first-child > div.row > div.col-lg-4:first-child > div.info-comviewfav.float-none.text-center:last-child
-asia2tv.*###wrapper-layout > div.single-page:nth-child(6) > div.container > div.row:nth-child(3) > div.col-md-2:last-child > div.lmore
-asia2tv.*###wrapper-layout > div.single-page:nth-child(6) > div.container > div.row:nth-child(3)
-asia2tv.*###cookie_tyysoynghmgnefk8
-asia2tv.*###cookie_8qdfy88vgw4d2aa4
-asia2tv.*###wrapper-layout > footer.footer:nth-child(8) > div.container
-asia2tv.*###wrapper-layout > footer.footer:nth-child(10) > div.container
-asia2tv.*###wrapper-layout > div.footer-top:nth-child(7)
-asia2tv.*###dropdownuserpro > span
-asia2tv.*###wrapper-layout > div.footer-top:nth-child(9)
-asia2tv.*###wrapper-layout > div.single-page:nth-child(6) > div.container > div.row:first-child
-asia2tv.*###cookie_tyysoynghmgnefk8
-asia2tv.*###cookie_8qdfy88vgw4d2aa4
-asia2tv.*###wrapper-layout > div.footer-top:nth-child(7)
-asia2tv.*###wrapper-layout > footer.footer:last-child
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > ul.SingleContentTerms:nth-child(4)
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.poster-wraper.col-12.col-m-3:first-child > a.poster-image:nth-child(2)
 cima-club.*##header.tornado-header.main-header:first-child > div.container:last-child > a.logo:first-child
@@ -487,15 +458,3 @@ r.laroza.one##div.container-fluid.no-padding:nth-child(2) > div.mastcontent-wrap
 r.laroza.one###content-main > div.row > div.col-xs-12.col-sm-12.col-md-12.pm-video-watch-sidebar:nth-child(2) > div.pm-sidebar-playlist
 r.laroza.one##div.container-fluid.container-footer:nth-child(3) > footer:last-child
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
-
-www.google.com###rso > div.MjjYud > .tF2Cxc.vt6azd.Ww4FFb.g > .UK95Uc.BToiNc.kvH3mc > div.UK95Uc.Z26q7c > .lEBKkf.lyLwlc.yDYNvb.MUxGbd.yXK7lf.VwiC3b
-www.google.com##div.UK95Uc.Z26q7c > .WZ8Tjf.wuQ4Ob.MUxGbd
-www.google.com##.sfbg
-www.google.com##.yIbDgf.Q3DXx
-www.google.com##.yg51vc
-www.google.com##.dodTBe
-www.google.com##.appbar
-www.google.com###rso > div.MjjYud > .tF2Cxc.vt6azd.Ww4FFb.g > .UK95Uc.BToiNc.kvH3mc > .jGGQ5e.UK95Uc.Z26q7c > .yuRUbf > [href] > .NJjxre.TbwUpd
-www.google.com###rso > div.MjjYud > .tF2Cxc.vt6azd.Ww4FFb.g > .UK95Uc.BToiNc.kvH3mc > .jGGQ5e.UK95Uc.Z26q7c > .yuRUbf > .B6fmyf > .csDOgf > div > div > .eY4mx.lUn2nc.GUHazd.iTPLzd > .D6lY4c > .SaPW2b.z1asCe.IjabWd.xTFaxe > svg
-www.google.com###fbarcnt
-www.google.com##.a1DBFd
