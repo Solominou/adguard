@@ -8,6 +8,7 @@ playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-
 playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.movie-items.movies-items__category:last-child > div.container > div.row.ipad-width2
 playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:last-child > div.col-sm-12
 playerwatchlm79.xyz###app > footer.ht-footer:nth-child(4)
+playerwatchlm79.xyz##.social-share > li
 playerwatchlm79.xyz###app > header.ht-header.MoviesPlay:first-child
 playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation
 playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
@@ -104,6 +105,7 @@ egybest.*###mainLoad > div:first-child > div.mbox:nth-child(6)
 egybest.*###main > h1:first-child
 egybest.*###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
 egybest.*###left
+ww.egybest.*##.ar.sharer
 egybest.*###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2) > div.td.vat:last-child > table.movieTable.full
 egybest.*###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2)
 egybest.*###mainLoad > div:first-child > div.mbox:nth-child(3)
@@ -424,7 +426,6 @@ cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.poster-wraper.col-12.col-m-3:first-child
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.media-p:nth-child(3) > p.Scroll-list
 cima-club.*##div.container-xl.page-content:nth-child(2) > div.SeriesSection:nth-child(3)
-
 c-drama.*##div.header-top:first-child > div.container > div.float-left:first-child > ul.reset-ul.list-inline-block.social-links
 c-drama.*###menu-item-220 > a.nav-link
 c-drama.*###menu-item-219 > a.nav-link
@@ -518,5 +519,43 @@ asia2tv.*###wrapper-layout > div.footer-top:nth-child(9)
 asia2tv.*###wrapper-layout > footer.footer:last-child
 le.cima-light.com###category-header
 le.cima-light.com##div.container-fluid.no-padding:nth-child(2) > header.pm-top-head.header-bg:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child > div.header-logo:last-child > a > img
+akwam.*##.px-sm-0.px-4.mb-sm-0.mb-4.col-sm-8.col-md-5.pr-lg-4.col-lg-7
+||akwam.*/style/assets/images/AKWAM-Notifications.png$image
+akwam.*##.text-white.font-weight-bold.font-size-md-38.font-size-22
+akwam.*##.main-header
+akwam.*##.site-container > nav
+akwam.*##.px-3.align-items-center.d-flex.link-download.link-btn
+re2.akwam.news##.page-download > div:nth-of-type(2)
+re2.akwam.news##.content > .container
+akwam.*##.py-4.row
+akwam.*##h2 > .font-size-18.text-white
+akwam.*##.widget-body > .d-flex
+akwam.*###downloads > .mb-0.font-weight-bold.font-size-18.header-title > .text-white.header-link
+akwam.*##div.mb-5.widget-style-1.widget:nth-of-type(2)
+||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##.container > div.mb-5.widget-style-1.widget > .mb-4.border-0.widget-header > .mb-0.font-weight-bold.font-size-18.header-title > .text-white.header-link
+||akwam.*/style/assets/images/AKWAM-Notifications.png$image
+akwam.*##.mb-5.pb-4
+akwam.*##.font-size-22.mb-4
+akwam.*##.py-5.main-footer
+e.fosta-tv.net##.pm-video-watch-main.col-md-12.col-sm-12.col-xs-12
+e.fosta-tv.net##.btn-primary.btn-small.btn
+e.fosta-tv.net##i.fa-long-arrow-down.fa:nth-of-type(2)
+e.fosta-tv.net##i.fa-long-arrow-down.fa:nth-of-type(1)
+e.fosta-tv.net##.header-bg.pm-top-head
+e.fosta-tv.net##.pm-video-heading.row
+www.tayyar.org##.wrapInnerModal
+www.tayyar.org##.bootstrapModal.fade.modal
+tubepornclassic.com###app > div.content:nth-child(2) > div.container:last-child > div.content-block > div.videos-page > div.listing:first-child > div.listing-videos:last-child > div.listing__content > div.videos-tube-friends:last-child
+tubepornclassic.com###app > header.header:first-child > div.header__network:nth-child(2)
+tubepornclassic.com###app > header.header:first-child > div.header__container:last-child > div.header__wrapper > a.logo.header__logo:first-child
+tubepornclassic.com###app > header.header:first-child > div.header__container:last-child > div.header__wrapper > div.search.header__search:nth-child(2) > div.search__input:last-child > input.input:first-child
+tubepornclassic.com###app > header.header:first-child > div.header__container:last-child > div.header__wrapper > div.search.header__search:nth-child(2) > div.search__input:last-child
+tubepornclassic.com###app > header.header:first-child > div.header__container:last-child > div.header__wrapper > div.header__userpanel:nth-child(4)
+tubepornclassic.com###app > header.header:first-child > div.header__container:last-child > div.header__wrapper > div.change-lang.header__change-lang:nth-child(3) > div.change-lang__title
+tubepornclassic.com###app > header.header:first-child > div.header__container:last-child > div.header__wrapper > nav.header__nav:last-child > ul.header__list > li.header__list-item.header__item-upload:last-child > a.header__upload
+tubepornclassic.com###app > div.content:nth-child(2) > div:last-child > div.container:first-child > div.content-block > div.video-page > div.video-page__wrapper > div.video-page__tags.video-page__tags_hidden:nth-child(2)
+tubepornclassic.com###app > footer.footer:last-child > div.container > div.footer__wrapper:last-child
+tubepornclassic.com###app > div.content:nth-child(2) > div:last-child > div.container:last-child > div.content-block > div.video-page > div.video-page__wrapper > div.video-page__comments:first-child > div.comments > div.comments__wrapper
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
