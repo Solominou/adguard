@@ -573,5 +573,6 @@ faselhd.*###header2 > a.dwnApp:first-child
 cima-club.*##div.container.page-content:nth-child(2) > h2.area-title:first-child
 akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(5)
 ww.egybest.*###mainLoad > div.mbox._rs.mgb:first-child > div.movie_title.tam > h1
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.my-3.text-center.d-sm-none:first-child
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
