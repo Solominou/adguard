@@ -553,8 +553,6 @@ akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-chi
 akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child
 akwam.*###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
 akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4
-akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(4)
-akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child
 akwam.*###downloads > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
 akwam.*###downloads > img.header-img:last-child
 akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > div.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
