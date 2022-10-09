@@ -557,5 +557,26 @@ tubepornclassic.com###app > header.header:first-child > div.header__container:la
 tubepornclassic.com###app > div.content:nth-child(2) > div:last-child > div.container:first-child > div.content-block > div.video-page > div.video-page__wrapper > div.video-page__tags.video-page__tags_hidden:nth-child(2)
 tubepornclassic.com###app > footer.footer:last-child > div.container > div.footer__wrapper:last-child
 tubepornclassic.com###app > div.content:nth-child(2) > div:last-child > div.container:last-child > div.content-block > div.video-page > div.video-page__wrapper > div.video-page__comments:first-child > div.comments > div.comments__wrapper
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(10)
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(8)
+akwam.*##div.site-container:nth-child(6) > footer.main-footer.py-5:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(11)
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > img.header-img:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###tab-5 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.py-4.mb-4:first-child > div.container > h1.font-size-22.font-size-md-38.font-weight-bold.text-white:nth-child(2)
+akwam.*##div.site-container:nth-child(6) > a.akoam-old:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-3.col-md-4.text-center.mb-5.mb-md-0:first-child > a > picture > img.img-fluid
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child
+akwam.*###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(4)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child
+akwam.*###downloads > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###downloads > img.header-img:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > div.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > img.header-img:last-child
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
