@@ -562,5 +562,10 @@ akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > d
 akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(8)
 akwam.*##div.site-container:nth-child(5) > nav.mb-5:nth-child(5)
 akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.container:last-child > div.mb-4.font-size-22:first-child > a.highlight.text-warning.mr-3:last-child
+cima-club.*##div.container-xl.page-content:nth-child(2) > div.media-details:nth-child(2) > div.row.no-gutter
+r.laroza.one###category-header > div.pm-category-highlight > h1
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > div.d-flex:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18 > p:first-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
