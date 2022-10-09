@@ -519,25 +519,6 @@ asia2tv.*###wrapper-layout > div.footer-top:nth-child(9)
 asia2tv.*###wrapper-layout > footer.footer:last-child
 le.cima-light.com###category-header
 le.cima-light.com##div.container-fluid.no-padding:nth-child(2) > header.pm-top-head.header-bg:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child > div.header-logo:last-child > a > img
-akwam.*##.px-sm-0.px-4.mb-sm-0.mb-4.col-sm-8.col-md-5.pr-lg-4.col-lg-7
-||akwam.*/style/assets/images/AKWAM-Notifications.png$image
-akwam.*##.text-white.font-weight-bold.font-size-md-38.font-size-22
-akwam.*##.main-header
-akwam.*##.site-container > nav
-akwam.*##.px-3.align-items-center.d-flex.link-download.link-btn
-re2.akwam.news##.page-download > div:nth-of-type(2)
-re2.akwam.news##.content > .container
-akwam.*##.py-4.row
-akwam.*##h2 > .font-size-18.text-white
-akwam.*##.widget-body > .d-flex
-akwam.*###downloads > .mb-0.font-weight-bold.font-size-18.header-title > .text-white.header-link
-akwam.*##div.mb-5.widget-style-1.widget:nth-of-type(2)
-||akwam.*/style/assets/images/icn-w-header.png$image
-akwam.*##.container > div.mb-5.widget-style-1.widget > .mb-4.border-0.widget-header > .mb-0.font-weight-bold.font-size-18.header-title > .text-white.header-link
-||akwam.*/style/assets/images/AKWAM-Notifications.png$image
-akwam.*##.mb-5.pb-4
-akwam.*##.font-size-22.mb-4
-akwam.*##.py-5.main-footer
 e.fosta-tv.net##.pm-video-watch-main.col-md-12.col-sm-12.col-xs-12
 e.fosta-tv.net##.btn-primary.btn-small.btn
 e.fosta-tv.net##i.fa-long-arrow-down.fa:nth-of-type(2)
