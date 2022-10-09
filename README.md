@@ -557,5 +557,10 @@ akwam.*###downloads > h2.header-title.font-size-18.font-weight-bold.mb-0:first-c
 akwam.*###downloads > img.header-img:last-child
 akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > div.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
 akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > img.header-img:last-child
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(7)
+akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.pb-4.mb-5:first-child
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(8)
+akwam.*##div.site-container:nth-child(5) > nav.mb-5:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.container:last-child > div.mb-4.font-size-22:first-child > a.highlight.text-warning.mr-3:last-child
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
