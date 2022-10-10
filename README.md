@@ -577,3 +577,10 @@ akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth
 w.tuktukcinema.net##div.watch--area:nth-child(8) > div.watch--servers--list:first-child > div.downloadBTN:nth-child(3)
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
+akwam.*##div.site-container:nth-child(6) > header.main-header:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > header.main-header:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > nav:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget-4.widget.widget-style-1.more.mb-4:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.col-lg-8.col-md-10:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(11)
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(3) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
