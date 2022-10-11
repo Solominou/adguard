@@ -488,7 +488,6 @@ akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-chi
 akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(4)
 shahed4u.*##div.container.page-content:nth-child(7) > div.media-stream:last-child > div.row.no-gutter:first-child > div.col-12.col-m-6.col-l-2:first-child > h3.title.tx-align-center:first-child
 faselhd.*###header2 > a.dwnApp:first-child
-cima-club.*##div.container.page-content:nth-child(2) > h2.area-title:first-child
 akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(5)
 ww.egybest.*###mainLoad > div.mbox._rs.mgb:first-child > div.movie_title.tam > h1
 akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.my-3.text-center.d-sm-none:first-child
