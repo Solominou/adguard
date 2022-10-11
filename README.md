@@ -591,3 +591,8 @@ e.fosta-tv.net###category-header
 r.laroza.one##div.container-fluid.no-padding:nth-child(2) > header.header-bg:first-child > div.pm-top-head:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child > div.header-logo > a > img
 tayyar.org###webpushr-card-notification
 tayyar.org###webpushr-bell-optin > promptbox3.webpushr-bell-theme-dark.Bottom.Left_prompt_popup.webpushr-bell-style-Rounded:last-child > prompticon3.webpushr-toggle-bell-popup._Bell.Bottom.Left_bell:first-child
+fmovies.*###comment
+fmovies.*###servers > div.note:first-child
+fmovies.*###controls > div.items:first-child > div.ctl.report:last-child
+fmovies.*###controls > div.items:first-child > div:nth-child(5)
+fmovies.*##footer:nth-child(3)
