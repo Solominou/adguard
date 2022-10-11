@@ -443,12 +443,6 @@ asia2tv.*###wrapper-layout > div.footer-top:nth-child(9)
 asia2tv.*###wrapper-layout > footer.footer:last-child
 le.cima-light.com###category-header
 le.cima-light.com##div.container-fluid.no-padding:nth-child(2) > header.pm-top-head.header-bg:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child > div.header-logo:last-child > a > img
-e.fosta-tv.net##.pm-video-watch-main.col-md-12.col-sm-12.col-xs-12
-e.fosta-tv.net##.btn-primary.btn-small.btn
-e.fosta-tv.net##i.fa-long-arrow-down.fa:nth-of-type(2)
-e.fosta-tv.net##i.fa-long-arrow-down.fa:nth-of-type(1)
-e.fosta-tv.net##.header-bg.pm-top-head
-e.fosta-tv.net##.pm-video-heading.row
 www.tayyar.org##.wrapInnerModal
 www.tayyar.org##.bootstrapModal.fade.modal
 tubepornclassic.com###app > div.content:nth-child(2) > div.container:last-child > div.content-block > div.videos-page > div.listing:first-child > div.listing-videos:last-child > div.listing__content > div.videos-tube-friends:last-child
@@ -584,3 +578,16 @@ r.laroza.one###content-main > div.row > div.col-xs-12.col-sm-12.col-md-12.pm-vid
 r.laroza.one###content-main > div.row > div.DownloadServer
 r.laroza.one###video-control > div.row.pm-video-control > div.col-xs-8.col-sm-7.col-md-6:last-child
 r.laroza.one###video-control > div.row.pm-video-control > div.col-xs-4.col-sm-5.col-md-6:first-child > span.pm-video-views:first-child
+arlionztv.*###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information:nth-child(4) > div.Singular--ActionsBtn:last-child > div.DownloadBtn.active__link:nth-child(2)
+arlionztv.*###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Information:nth-child(4) > div.Singular--ActionsBtn:last-child > a.SeriesDownloadLink:last-child
+arlionztv.*###PageChangedr > rootinside > singlecontainer.Conteainer__Paddings.container:last-child > single--container.RightSingularBar:first-child > div.Contaner--Master--Cover > div.Singular--Cover > div.Singular--Footer--Info:last-child > div.Index--Tax:nth-child(3)
+le.cima-light.com###pm-servers > ul.WatchList:first-child > p:first-child
+arabseed.*##div.singleMaster:nth-child(6) > div.container:nth-child(2) > div.rightSingle:first-child > div.WatchButtons:nth-child(3) > a.downloadBTn:last-child
+e.fosta-tv.net##div.container-fluid.no-padding:nth-child(2) > div.mastcontent-wrap:last-child > div.pm-section-highlighted:first-child > div.container-fluid > div.row > div.container > div.row.pm-video-heading:first-child > div.col-xs-12.col-sm-12.col-md-8:first-child > ul.breadcrumbNav:first-child
+e.fosta-tv.net##div.container-fluid.no-padding:nth-child(2) > div.mastcontent-wrap:last-child > div:nth-child(2) > a:last-child
+e.fosta-tv.net###content-main > div.row:first-child > div.col-xs-12.col-sm-12.col-md-12.pm-video-watch-main
+e.fosta-tv.net##div.container-fluid.no-padding:nth-child(2) > div.mastcontent-wrap:last-child > div.pm-section-highlighted:first-child > div.container-fluid > div.row > div.container > div.row.pm-video-heading:first-child > div.col-xs-12.col-sm-12.col-md-8:first-child > ul.breadcrumbNav:nth-child(2)
+e.fosta-tv.net###category-header
+r.laroza.one##div.container-fluid.no-padding:nth-child(2) > header.header-bg:first-child > div.pm-top-head:first-child > div.row > div.col-xs-7.col-sm-4.col-md-4:first-child > div.header-logo > a > img
+tayyar.org###webpushr-card-notification
+tayyar.org###webpushr-bell-optin > promptbox3.webpushr-bell-theme-dark.Bottom.Left_prompt_popup.webpushr-bell-style-Rounded:last-child > prompticon3.webpushr-toggle-bell-popup._Bell.Bottom.Left_bell:first-child
