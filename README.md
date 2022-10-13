@@ -591,3 +591,9 @@ fmovies.*###servers > div.note:first-child
 fmovies.*###controls > div.items:first-child > div.ctl.report:last-child
 fmovies.*###controls > div.items:first-child > div:nth-child(5)
 fmovies.*##footer:nth-child(3)
+cima4u.*##div:nth-child(7) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.DownloadServers:nth-child(3)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:last-child > a.akoam-old:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:last-child > div.movie-cover.mb-4.without-cover:first-child > div.container:nth-child(2) > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:last-child
+shahed4u.*##div.container.page-content:nth-child(8) > div.page-head:first-child > div.breadcrumb
+mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single:nth-child(2) > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:nth-child(8) > btn.hoverable.activable > strong:last-child
+mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single:nth-child(2) > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:nth-child(9) > btn.hoverable.activable > strong:last-child
