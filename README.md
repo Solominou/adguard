@@ -114,6 +114,7 @@ egybest.*###mainLoad > div:first-child > div.mbox:last-child
 egybest.*###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
 egybest.*###mainLoad > div.full_movie.table.full.mgb:nth-child(2)
 egybest.*###watch_dl > div.mbox:last-child
+vs-mirror/vidstream.to/img/vidstream.png
 arabseed.*##section.HeroSecion:nth-child(6)
 arabseed.*##a:nth-child(8)
 arabseed.*##div.HomeSections:nth-child(9) > div.SectionMaster:first-child > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerPrev:first-child
