@@ -597,3 +597,5 @@ akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:last-ch
 shahed4u.*##div.container.page-content:nth-child(8) > div.page-head:first-child > div.breadcrumb
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single:nth-child(2) > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:nth-child(8) > btn.hoverable.activable > strong:last-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single:nth-child(2) > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:nth-child(9) > btn.hoverable.activable > strong:last-child
+||akwam.*/style/assets/images/akoam-old.png$image
+||img.akwam.link/uploads/G8Kpa.webp$image
