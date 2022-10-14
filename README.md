@@ -84,7 +84,6 @@ faselhd.*###streamBox > div.form-row:last-child > div.col-xl-12.col-lg-12.col-md
 faselhd.*###streamBox > div.form-row:last-child > div.col-xl-12.col-lg-12.col-md-12.col-sm-12:nth-child(2) > div.postElse > div.shortLink:last-child
 faselhd.*##div:nth-child(9) > div.singlePage:last-child > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 faselhd.*##div.singlePage:nth-child(9) > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
-vs-mirror/vidstream.to/img/vidstream.png
 ww.egybest.*###watch_dl > div.msg_box.warn.table.full:nth-child(3)
 ww.egybest.*###watch_dl > table.dls_table.btns.full.mgb:nth-child(4)
 ww.egybest.*###mainLoad > div:first-child > div.mbox:nth-child(6)
