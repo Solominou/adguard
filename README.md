@@ -608,3 +608,4 @@ egybest.*###Shadow
 egybest.*###GlobalFrame
 egybest.*##.api.fb.sharp.share
 egybest.*##.api.tw.sharp.share
+start.me##.widget-page__ads
