@@ -603,3 +603,8 @@ akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.conta
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > div.InnerContent:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:first-child
+egybest.*##.HxyYG8R15vh37uK.tam.full.error.msg_box
+egybest.*###Shadow
+egybest.*###GlobalFrame
+egybest.*##.api.fb.sharp.share
+egybest.*##.api.tw.sharp.share
