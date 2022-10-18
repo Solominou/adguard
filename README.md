@@ -609,3 +609,13 @@ egybest.*###GlobalFrame
 egybest.*##.api.fb.sharp.share
 egybest.*##.api.tw.sharp.share
 start.me##.widget-page__ads
+||akwam.*/style/assets/images/akoam-old.png$image
+||img.akwam.link/uploads/G8Kpa.webp$image
+shahed4u.*##.boxSocial
+||shahed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
+shahed4u.*##.glide-swipeable.glide-carousel.glide-rtl.home-slider
+||shahed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/header-min.png$image
+shahed4u.*##.endfooter.main-header.tornado-header
+shahed4u.*##.btns-bar
+c-drama.net##.pb-5.pt-5.footer
+c-drama.net##.copyright
