@@ -86,6 +86,27 @@ faselhd.*##div:nth-child(9) > div.singlePage:last-child > div.singleHeader:nth-c
 faselhd.*##div.singlePage:nth-child(9) > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 vs-mirror/vidstream.to/img/vidstream.png
 ww.egybest.bid/vs-mirror/vidstream.to/img/vidstream.png
+ww.egybest.*###watch_dl > div.msg_box.warn.table.full:nth-child(3)
+ww.egybest.*###watch_dl > table.dls_table.btns.full.mgb:nth-child(4)
+ww.egybest.*###mainLoad > div:first-child > div.mbox:nth-child(6)
+ww.egybest.*##div.shareb.sharet.ar:nth-child(5)
+ww.egybest.*###main > h1:first-child
+ww.egybest.*###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
+ww.egybest.*###left
+ww.egybest.*###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2) > div.td.vat:last-child > table.movieTable.full
+ww.egybest.*###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2)
+ww.egybest.*###mainLoad > div:first-child > div.mbox:nth-child(3)
+ww.egybest.*###mainLoad > div:first-child > div.mbox:nth-child(4)
+ww.egybest.*###mainLoad > div:first-child > div.mbox:nth-child(5)
+ww.egybest.*###mainLoad > div:first-child > div.mbox:last-child
+ww.egybest.*###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
+ww.egybest.*###mainLoad > div.full_movie.table.full.mgb:nth-child(2)
+ww.egybest.*###watch_dl > div.mbox:last-child
+egybest.*###mainLoad > div:first-child > div.mbox:nth-child(6)
+egybest.*###main > h1:first-child
+egybest.*###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
+egybest.*###left
+ww.egybest.*##.ar.sharer
 arabseed.*##section.HeroSecion:nth-child(6)
 arabseed.*##a:nth-child(8)
 arabseed.*##div.HomeSections:nth-child(9) > div.SectionMaster:first-child > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerPrev:first-child
