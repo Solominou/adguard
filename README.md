@@ -86,15 +86,6 @@ faselhd.*##div:nth-child(9) > div.singlePage:last-child > div.singleHeader:nth-c
 faselhd.*##div.singlePage:nth-child(9) > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 vs-mirror/vidstream.to/img/vidstream.png
 
-egybest.*###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2) > div.td.vat:last-child > table.movieTable.full
-egybest.*###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2)
-egybest.*###mainLoad > div:first-child > div.mbox:nth-child(3)
-egybest.*###mainLoad > div:first-child > div.mbox:nth-child(4)
-egybest.*###mainLoad > div:first-child > div.mbox:nth-child(5)
-egybest.*###mainLoad > div:first-child > div.mbox:last-child
-egybest.*###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
-egybest.*###mainLoad > div.full_movie.table.full.mgb:nth-child(2)
-egybest.*###watch_dl > div.mbox:last-child
 arabseed.*##section.HeroSecion:nth-child(6)
 arabseed.*##a:nth-child(8)
 arabseed.*##div.HomeSections:nth-child(9) > div.SectionMaster:first-child > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerPrev:first-child
@@ -583,11 +574,6 @@ akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.conta
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > div.InnerContent:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:first-child
-egybest.*##.HxyYG8R15vh37uK.tam.full.error.msg_box
-egybest.*###Shadow
-egybest.*###GlobalFrame
-egybest.*##.api.fb.sharp.share
-egybest.*##.api.tw.sharp.share
 start.me##.widget-page__ads
 ||akwam.*/style/assets/images/akoam-old.png$image
 ||img.akwam.link/uploads/G8Kpa.webp$image
