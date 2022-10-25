@@ -85,7 +85,7 @@ faselhd.*###streamBox > div.form-row:last-child > div.col-xl-12.col-lg-12.col-md
 faselhd.*##div:nth-child(9) > div.singlePage:last-child > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 faselhd.*##div.singlePage:nth-child(9) > div.singleHeader:nth-child(2) > div.container > div.row.align-items-center
 vs-mirror/vidstream.to/img/vidstream.png
-
+ww.egybest.bid/vs-mirror/vidstream.to/img/vidstream.png
 arabseed.*##section.HeroSecion:nth-child(6)
 arabseed.*##a:nth-child(8)
 arabseed.*##div.HomeSections:nth-child(9) > div.SectionMaster:first-child > div.SectionContent:last-child > div.SliderInSection.show:last-child > div.SlideerPrev:first-child
