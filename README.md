@@ -619,3 +619,48 @@ shahed4u.*##.endfooter.main-header.tornado-header
 shahed4u.*##.btns-bar
 c-drama.net##.pb-5.pt-5.footer
 c-drama.net##.copyright
+akwam.*##.col-md-10.col-lg-8
+
+! 2022-10-24 https://mycimaa.sbs
+
+mycimaa.*##.WatchServersList .activable.hoverable > strong
+
+mycimaa.*##singlecontainerleft > .PostItemStats > li > .InnerButton
+
+mycimaa.*##.PostHead
+
+! 2022-10-24 https://shahed4u.makeup
+
+shahed4u.*##.breadcrumb
+
+shahed4u.*##.tx-align-center.title
+
+shahed4u.*##.tags-cloud > .container
+
+! 2022-10-24 https://on.akwam.cz
+
+akwam.*###tab-3 > .align-items-center.flex-wrap.row.qualities > .row.col-lg-6 > div.col.col-lg-6 > .px-3.align-items-center.d-flex.link-download.link-btn
+
+akwam.*##div.col.col-lg-6:nth-of-type(2)
+
+! 2022-10-24 https://ww.egybest.bid
+
+ww.egybest.bid##._cp.p.a
+
+! 2022-10-25 https://watch.movizland.cyou
+
+watch.movizland.*##.DownloadsTable
+
+watch.movizland.*##slider--news
+
+watch.movizland.*##footer
+
+watch.movizland.*##footer
+
+watch.movizland.*##.ReportedUI
+
+watch.movizland.*##.ServersEmbeds > .BackToPost
+
+watch.movizland.*##.stroy-btn
+
+
