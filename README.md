@@ -663,4 +663,7 @@ egybest.kim###main > h1:first-child
 egybest.kim###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
 egybest.kim###left
 w.egybest.kim##.ar.sharer
-
+ww.egybest.bid###GlobalFrame > div.msg_box.error.full.tam.HxyYG8R15vh37uK:first-child
+ww.egybest.bid###mainLoad > div.msg_box.error.full.tam
+ww.egybest.bid###GlobalFrame
+ww.egybest.bid###Shadow
