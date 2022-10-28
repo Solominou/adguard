@@ -667,3 +667,25 @@ ww.egybest.bid###GlobalFrame > div.msg_box.error.full.tam.HxyYG8R15vh37uK:first-
 ww.egybest.bid###mainLoad > div.msg_box.error.full.tam
 ww.egybest.bid###GlobalFrame
 ww.egybest.bid###Shadow
+w.egybest.kim/vs-mirror/vidstream.to/img/vidstream.png
+w.egybest.kim###watch_dl > div.msg_box.warn.table.full:nth-child(3)
+w.egybest.kim###watch_dl > table.dls_table.btns.full.mgb:nth-child(4)
+w.egybest.kim###mainLoad > div:first-child > div.mbox:nth-child(6)
+w.egybest.kim##div.shareb.sharet.ar:nth-child(5)
+w.egybest.kim###main > h1:first-child
+w.egybest.kim###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
+w.egybest.kim###left
+w.egybest.kim###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2) > div.td.vat:last-child > table.movieTable.full
+w.egybest.kim###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2)
+w.egybest.kim###mainLoad > div:first-child > div.mbox:nth-child(3)
+w.egybest.kim###mainLoad > div:first-child > div.mbox:nth-child(4)
+w.egybest.kim###mainLoad > div:first-child > div.mbox:nth-child(5)
+w.egybest.kim###mainLoad > div:first-child > div.mbox:last-child
+w.egybest.kim###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
+w.egybest.kim###mainLoad > div.full_movie.table.full.mgb:nth-child(2)
+w.egybest.kim###watch_dl > div.mbox:last-child
+egybest.kim###mainLoad > div:first-child > div.mbox:nth-child(6)
+egybest.kim###main > h1:first-child
+egybest.kim###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
+egybest.kim###left
+w.egybest.kim##.ar.sharer
