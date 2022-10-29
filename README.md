@@ -703,3 +703,10 @@ www.google.com##div.hdtb-mitem:nth-of-type(6) > [href^="/search"]
 www.google.com##[href^="https://www.google.com/flights"]
 www.google.com##[href^="https://www.google.com/finance"]
 www.google.com###hdtb-tls
+! 2022-10-29 https://honadrama.us
+honadrama.*##header
+honadrama.*###newsNine > div
+honadrama.*##.w-100SinglePost
+honadrama.*##.downloadToggleTitle
+||imgur.com/zkjHhwR.jpeg$image
+honadrama.*##.footer
