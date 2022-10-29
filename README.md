@@ -710,3 +710,10 @@ honadrama.*##.w-100SinglePost
 honadrama.*##.downloadToggleTitle
 ||imgur.com/zkjHhwR.jpeg$image
 honadrama.*##.footer
+! 2022-10-29 https://l.cima-light.com
+||l.cima-light.com/watch.png$image
+||l.cima-light.com/*.png$image
+||1.bp.blogspot.com/-2Thal-IRfgo/YNfvwmh8NeI/AAAAAAAAAak/8bIN5DGHMGYxcyZsiDGKnnC7Cm5bn1C_QCLcBGAsYHQ/s0/download_orig.png$image
+l.cima-light.com##.WatchList > p
+l.cima-light.com##.breadcrumbNav
+l.cima-light.com##.btn-primary.btn-small.btn
