@@ -689,3 +689,17 @@ egybest.kim###main > h1:first-child
 egybest.kim###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
 egybest.kim###left
 w.egybest.kim##.ar.sharer
+! 2022-10-29 https://www.google.com
+www.google.com##.lEBKkf.yDYNvb.MUxGbd.VwiC3b > span
+www.google.com##.qzEoUe.yKd8Hd
+www.google.com##div.UK95Uc.Z26q7c > .WZ8Tjf.wuQ4Ob.MUxGbd
+||www.google.com/images/nav_logo325_hr.webp$image
+www.google.com##.TshKde.card
+||www.google.com/images/nav_logo325_hr.webp$image
+www.google.com##[href^="https://maps.google.com/maps"]
+www.google.com##div.hdtb-mitem:nth-of-type(3) > [href^="/search"]
+www.google.com##div.hdtb-mitem:nth-of-type(4) > [href^="/search"]
+www.google.com##div.hdtb-mitem:nth-of-type(6) > [href^="/search"]
+www.google.com##[href^="https://www.google.com/flights"]
+www.google.com##[href^="https://www.google.com/finance"]
+www.google.com###hdtb-tls
