@@ -717,3 +717,6 @@ honadrama.*##.footer
 l.cima-light.com##.WatchList > p
 l.cima-light.com##.breadcrumbNav
 l.cima-light.com##.btn-primary.btn-small.btn
+l.cima-light.com##.container > .pm-ads-banner
+l.cima-light.com##.breadcrumbNav
+||1.bp.blogspot.com/-2Thal-IRfgo/YNfvwmh8NeI/AAAAAAAAAak/8bIN5DGHMGYxcyZsiDGKnnC7Cm5bn1C_QCLcBGAsYHQ/s0/download_orig.png$image
