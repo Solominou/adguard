@@ -723,3 +723,4 @@ l.cima-light.com##.breadcrumbNav
 akwam.*##.selected
 akwam.*##[href="#tab-3"]
 ||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##.container > .text-left
