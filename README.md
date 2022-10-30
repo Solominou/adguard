@@ -724,3 +724,7 @@ akwam.*##.selected
 akwam.*##[href="#tab-3"]
 ||akwam.*/style/assets/images/icn-w-header.png$image
 akwam.*##.container > .text-left
+akwam.*##[href="#tab-3"]
+akwam.*##[href="#tab-4"]
+akwam.*##.selected
+||akwam.*/style/assets/images/icn-w-header.png$image
