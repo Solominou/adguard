@@ -711,13 +711,13 @@ honadrama.*##.downloadToggleTitle
 ||imgur.com/zkjHhwR.jpeg$image
 honadrama.*##.footer
 ! 2022-10-29 https://l.cima-light.com
-||l.cima-light.com/watch.png$image
-||l.cima-light.com/*.png$image
-l.cima-light.com##.WatchList > p
-l.cima-light.com##.breadcrumbNav
-l.cima-light.com##.btn-primary.btn-small.btn
-l.cima-light.com##.container > .pm-ads-banner
-l.cima-light.com##.breadcrumbNav
+||cima-light.com/watch.png$image
+||cima-light.com/*.png$image
+cima-light.com##.WatchList > p
+cima-light.com##.breadcrumbNav
+cima-light.com##.btn-primary.btn-small.btn
+cima-light.com##.container > .pm-ads-banner
+cima-light.com##.breadcrumbNav
 ||1.bp.blogspot.com/-2Thal-IRfgo/YNfvwmh8NeI/AAAAAAAAAak/8bIN5DGHMGYxcyZsiDGKnnC7Cm5bn1C_QCLcBGAsYHQ/s0/download_orig.png$image
 ! 2022-10-29 https://on1.akwam.cz
 akwam.*##.selected
