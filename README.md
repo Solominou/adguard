@@ -728,3 +728,27 @@ akwam.*##[href="#tab-3"]
 akwam.*##[href="#tab-4"]
 akwam.*##.selected
 ||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##[href="#tab-3"]
+akwam.*##.selected
+akwam.*##.mb-4.border-0.widget-header
+akwam.*##.container > .text-left
+
+! 2022-10-31 https://cima4u.sbs
+cima4u.*##.DesignedBy
+
+! 2022-10-31 https://m.laroza.one
+||m.laroza.one/uploads/custom-logo.png?$image
+
+! 2022-10-31 https://www.faselhd.club
+www.faselhd.*##.social-block
+||www.faselhd.club/wp-content/uploads/2022/06/logo-1.png$image
+www.faselhd.*##.ml-auto.promoLink
+www.faselhd.*##.postShare
+
+! 2022-10-31 https://on2.akwam.cz
+akwam.*##[href="#tab-4"]
+||on2.akwam.cz/style/assets/images/AKWAM-Notifications.png$image
+akwam.*##.py-4.row
+akwam.*##.py-5.main-footer
+
+
