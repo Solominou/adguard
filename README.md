@@ -748,5 +748,11 @@ akwam.*##[href="#tab-4"]
 ||on2.akwam.cz/style/assets/images/AKWAM-Notifications.png$image
 akwam.*##.py-4.row
 akwam.*##.py-5.main-footer
+! 2022-11-03 https://start.me
+||c.start.me/packs/media/images/logo-white-diap-d83121d7.png$image
+start.me##.widget-page__ads
+start.me##.widget-page__searchbar_allowed.widget-page__searchbar
 
-
+! 2022-11-03 https://www.faselhd.club
+||www.faselhd.*/wp-content/uploads/2021/02/1_lvk4IwDg8BntHHl3zoT88Q.jpeg$image
+www.faselhd.*###e46lkg52ibc81667509979719
