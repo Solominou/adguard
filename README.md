@@ -487,8 +487,6 @@ shahed4u.*##div.container.page-content:nth-child(7) > div.media-stream:last-chil
 faselhd.*###header2 > a.dwnApp:first-child
 ww.egybest.*###mainLoad > div.mbox._rs.mgb:first-child > div.movie_title.tam > h1
 w.tuktukcinema.net##div.watch--area:nth-child(8) > div.watch--servers--list:first-child > div.downloadBTN:nth-child(3)
-start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body > div.widget-page.widget-page_has-ads > header.header.widget-page__header.header_transparent:first-child > div.header__main-bar
-start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body.app__body_reduced:last-child > div.widget-page > header.header.widget-page__header.header_transparent.header_mobile:first-child > div.header__main-bar
 cima4u.*##header:nth-child(2) > div.container.dflex:first-child > div.social:nth-child(4)
 cima4u.*##div.PageContent:nth-child(7) > ul.Cima4uBlocks:nth-child(3) > div.NewsListArea:nth-child(11)
 cima4u.*##div.PageTitle.InnerPages:nth-child(6) > h1:nth-child(2)
