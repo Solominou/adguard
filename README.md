@@ -756,3 +756,7 @@ start.me##.widget-page__searchbar_allowed.widget-page__searchbar
 ! 2022-11-03 https://www.faselhd.club
 ||www.faselhd.*/wp-content/uploads/2021/02/1_lvk4IwDg8BntHHl3zoT88Q.jpeg$image
 www.faselhd.*###e46lkg52ibc81667509979719
+
+! 2022-11-02 https://egybest.mx
+egybest.mx##.full.movieTable
+egybest.mx##div#watch_dl:nth-of-type(4)
