@@ -769,23 +769,17 @@ egy.best##.mgb.full.table.full_movie
 egy.best##.mgb.full.btns.dls_table
 egy.best###watch_dl > div.mbox:nth-of-type(3)
 egy.best###GlobalFrame
-shaheed4u.*##header.tornado-header.main-header:nth-child(3)
-shaheed4u.*##div.tags-cloud:nth-child(5)
-shaheed4u.*##div.tornado-header.main-header.endfooter:nth-child(6)
-shaheed4u.*##header.tornado-header.main-header:nth-child(4)
-shaheed4u.*##div.container.page-content:nth-child(8) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.btns:nth-child(2) > a.btns-play.download-btn.success.btn:nth-child(2)
-shaheed4u.*##div.container.page-content:nth-child(7) > div.page-head:first-child
-shaheed4u.*##div.container.page-content:nth-child(7) > div.btns-bar:nth-child(3)
-shaheed4u.*##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.btns:nth-child(2) > a.btns-play.download-btn.success.btn:nth-child(2)
-shaheed4u.*##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.row.no-gutter.col-12:last-child
-shaheed4u.*##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > ul.half-tags:nth-child(5)
-shaheed4u.*##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.tax-list.media-p:nth-child(6)
-shaheed4u.*##div.container.page-content:nth-child(7) > div.media-details:nth-child(2) > div.row.no-gutter > div.details.col-12.col-m-9:last-child > div.shortlink:nth-child(7)
-shaheed4u.*##div.tags-cloud:nth-child(8)
-shaheed4u.*##div.tornado-header.main-header.endfooter:nth-child(9)
-shaheed4u.*##.boxSocial
-||shaheed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
-shaheed4u.*##.glide-swipeable.glide-carousel.glide-rtl.home-slider
+! 2022-11-07 https://shaheed4u.*
 ||shaheed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/header-min.png$image
+||shaheed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
 shaheed4u.*##.endfooter.main-header.tornado-header
+shaheed4u.*##.tags-cloud
+shaheed4u.*##.btn.success.download-btn.btns-play
+||shaheed4u.*/wp-content/uploads/2022/10/BQgvA_4f-384x550.jpg$image
+shaheed4u.*##.col-m-3.col-12.poster-wraper
+shaheed4u.*##.col-m-9.col-12.details > .half-tags
+shaheed4u.*##div.col-m-6.col-12 > .half-tags
+shaheed4u.*##.shortlink
+shaheed4u.*##.breadcrumb
+shaheed4u.*##.proUser
 shaheed4u.*##.btns-bar
