@@ -770,3 +770,28 @@ egy.best##.mgb.full.btns.dls_table
 egy.best###watch_dl > div.mbox:nth-of-type(3)
 egy.best###GlobalFrame
 
+! 2022-11-07 https://egy.best
+egy.best##.vat.td.viewport_left
+egy.best##div.mbox:nth-of-type(7)
+egy.best##div.mbox:nth-of-type(5)
+egy.best##div.mbox:nth-of-type(4)
+egy.best##.ar.sharer
+egy.best###mainLoad > div:nth-of-type(1) > div.mbox:nth-of-type(3)
+egy.best##div.mbox:nth-of-type(6)
+egy.best###main > h1
+egy.best##.mgb.full.table.full_movie
+egy.best##.mgb.full.btns.dls_table
+egy.best###watch_dl > div.mbox:nth-of-type(3)
+egy.best###GlobalFrame
+
+shaheed4u.lol##.endfooter.main-header.tornado-header
+shaheed4u.lol##.tags-cloud
+shaheed4u.lol##.btn.success.download-btn.btns-play
+||shaheed4u.lol/wp-content/uploads/2022/10/BQgvA_4f-384x550.jpg$image
+shaheed4u.lol##.col-m-3.col-12.poster-wraper
+shaheed4u.lol##.col-m-9.col-12.details > .half-tags
+shaheed4u.lol##div.col-m-6.col-12 > .half-tags
+shaheed4u.lol##.shortlink
+shaheed4u.lol##.breadcrumb
+shaheed4u.lol##.proUser
+shaheed4u.lol##.btns-bar
