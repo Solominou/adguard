@@ -783,15 +783,3 @@ egy.best##.mgb.full.table.full_movie
 egy.best##.mgb.full.btns.dls_table
 egy.best###watch_dl > div.mbox:nth-of-type(3)
 egy.best###GlobalFrame
-
-shaheed4u.lol##.endfooter.main-header.tornado-header
-shaheed4u.lol##.tags-cloud
-shaheed4u.lol##.btn.success.download-btn.btns-play
-||shaheed4u.lol/wp-content/uploads/2022/10/BQgvA_4f-384x550.jpg$image
-shaheed4u.lol##.col-m-3.col-12.poster-wraper
-shaheed4u.lol##.col-m-9.col-12.details > .half-tags
-shaheed4u.lol##div.col-m-6.col-12 > .half-tags
-shaheed4u.lol##.shortlink
-shaheed4u.lol##.breadcrumb
-shaheed4u.lol##.proUser
-shaheed4u.lol##.btns-bar
