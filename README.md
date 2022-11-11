@@ -808,3 +808,6 @@ www.google.com##.GOE98c
 ! 2022-11-11 https://q.laroza.one
 laroza.*##.DownloadServer
 ||laroza.*/uploads/custom-logo.png?$image
+! 2022-11-11 https://q.laroza.one
+q.laroza.*##.DownloadServer
+||q.laroza.*/uploads/custom-logo.png?$image
