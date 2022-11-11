@@ -805,3 +805,6 @@ www.google.com###botstuff
 www.google.com##.TrMVnc.f6F9Be
 www.google.com##div.hdtb-mitem:nth-of-type(5) > [href^="/search"]
 www.google.com##.GOE98c
+! 2022-11-11 https://q.laroza.one
+laroza.*##.DownloadServer
+||laroza.*/uploads/custom-logo.png?$image
