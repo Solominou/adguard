@@ -585,11 +585,7 @@ tayyar.org###wrapperTx > div.bgEEEBE3.topPartMode.ng-scope:nth-child(5) > div.wr
 ww.egybest.bid###NotificationsAskMsg
 elahmad.com###myBtn
 elahmad.com##a:nth-child(7)
-akwam.*##a.akoam-old:nth-child(3)
-akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.container.py-5.my-5:last-child > div.home-site-btn-container.mt-5:first-child
-akwam.*/uploads/G8Kpa.webp$image
-akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(2)
-akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.container.py-5.my-5:last-child > div.widget-2.widget.mb-4:nth-child(2) > div.widget-body.row > div.col-lg-8.mx-auto > form.form.d-flex.no-gutters.mb-20:first-child > div.col.pl-12:first-child > label.m-0:nth-child(2) > span.label:first-child
+
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > div.InnerContent:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:first-child
