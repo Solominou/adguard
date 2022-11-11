@@ -718,18 +718,7 @@ cima-light.com##.container > .pm-ads-banner
 cima-light.com##.breadcrumbNav
 ||1.bp.blogspot.com/-2Thal-IRfgo/YNfvwmh8NeI/AAAAAAAAAak/8bIN5DGHMGYxcyZsiDGKnnC7Cm5bn1C_QCLcBGAsYHQ/s0/download_orig.png$image
 ! 2022-10-29 https://on1.akwam.cz
-akwam.*##.selected
-akwam.*##[href="#tab-3"]
-||akwam.*/style/assets/images/icn-w-header.png$image
-akwam.*##.container > .text-left
-akwam.*##[href="#tab-3"]
-akwam.*##[href="#tab-4"]
-akwam.*##.selected
-||akwam.*/style/assets/images/icn-w-header.png$image
-akwam.*##[href="#tab-3"]
-akwam.*##.selected
-akwam.*##.mb-4.border-0.widget-header
-akwam.*##.container > .text-left
+
 
 ! 2022-10-31 https://cima4u.sbs
 cima4u.*##.DesignedBy
