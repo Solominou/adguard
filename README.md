@@ -798,3 +798,10 @@ shaheed4u.lol##.shortlink
 shaheed4u.lol##.breadcrumb
 shaheed4u.lol##.proUser
 shaheed4u.lol##.btns-bar
+! 2022-11-11 https://www.google.com
+||www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png$image
+www.google.com###searchform
+www.google.com###botstuff
+www.google.com##.TrMVnc.f6F9Be
+www.google.com##div.hdtb-mitem:nth-of-type(5) > [href^="/search"]
+www.google.com##.GOE98c
