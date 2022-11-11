@@ -449,7 +449,40 @@ tubepornclassic.com###app > header.header:first-child > div.header__container:la
 tubepornclassic.com###app > div.content:nth-child(2) > div:last-child > div.container:first-child > div.content-block > div.video-page > div.video-page__wrapper > div.video-page__tags.video-page__tags_hidden:nth-child(2)
 tubepornclassic.com###app > footer.footer:last-child > div.container > div.footer__wrapper:last-child
 tubepornclassic.com###app > div.content:nth-child(2) > div:last-child > div.container:last-child > div.content-block > div.video-page > div.video-page__wrapper > div.video-page__comments:first-child > div.comments > div.comments__wrapper
-
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(10)
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(8)
+akwam.*##div.site-container:nth-child(6) > footer.main-footer.py-5:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(11)
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > img.header-img:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###tab-5 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.py-4.mb-4:first-child > div.container > h1.font-size-22.font-size-md-38.font-weight-bold.text-white:nth-child(2)
+akwam.*##div.site-container:nth-child(6) > a.akoam-old:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4
+akwam.*###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:nth-child(2)
+akwam.*###downloads > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###downloads > img.header-img:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > div.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > img.header-img:last-child
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(7)
+akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.pb-4.mb-5:first-child
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(8)
+akwam.*##div.site-container:nth-child(5) > nav.mb-5:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.container:last-child > div.mb-4.font-size-22:first-child > a.highlight.text-warning.mr-3:last-child
+akwam.*##div.site-container:nth-child(6) > header.main-header:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > header.main-header:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > nav:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget-4.widget.widget-style-1.more.mb-4:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.col-lg-8.col-md-10:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(11)
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(3) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.my-3.text-center.d-sm-none:first-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18 > p:first-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > div.d-flex:last-child
 shahed4u.*##div.container.page-content:nth-child(7) > div.media-stream:last-child > div.row.no-gutter:first-child > div.col-12.col-m-6.col-l-2:first-child > h3.title.tx-align-center:first-child
 faselhd.*###header2 > a.dwnApp:first-child
 ww.egybest.*###mainLoad > div.mbox._rs.mgb:first-child > div.movie_title.tam > h1
@@ -552,12 +585,17 @@ tayyar.org###wrapperTx > div.bgEEEBE3.topPartMode.ng-scope:nth-child(5) > div.wr
 ww.egybest.bid###NotificationsAskMsg
 elahmad.com###myBtn
 elahmad.com##a:nth-child(7)
-
+akwam.*##a.akoam-old:nth-child(3)
+akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.container.py-5.my-5:last-child > div.home-site-btn-container.mt-5:first-child
+akwam.*/uploads/G8Kpa.webp$image
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.container.py-5.my-5:last-child > div.widget-2.widget.mb-4:nth-child(2) > div.widget-body.row > div.col-lg-8.mx-auto > form.form.d-flex.no-gutters.mb-20:first-child > div.col.pl-12:first-child > label.m-0:nth-child(2) > span.label:first-child
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > div.InnerContent:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:nth-child(2)
 cima4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:nth-child(4) > ul.InformationList:last-child > li:first-child
 start.me##.widget-page__ads
-
+||akwam.*/style/assets/images/akoam-old.png$image
+||img.akwam.link/uploads/G8Kpa.webp$image
 shahed4u.*##.boxSocial
 ||shahed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
 shahed4u.*##.glide-swipeable.glide-carousel.glide-rtl.home-slider
@@ -566,14 +604,15 @@ shahed4u.*##.endfooter.main-header.tornado-header
 shahed4u.*##.btns-bar
 c-drama.net##.pb-5.pt-5.footer
 c-drama.net##.copyright
-
+akwam.*##.col-md-10.col-lg-8
 mycimaa.*##.WatchServersList .activable.hoverable > strong
 mycimaa.*##singlecontainerleft > .PostItemStats > li > .InnerButton
 mycimaa.*##.PostHead
 shahed4u.*##.breadcrumb
 shahed4u.*##.tx-align-center.title
 shahed4u.*##.tags-cloud > .container
-
+akwam.*###tab-3 > .align-items-center.flex-wrap.row.qualities > .row.col-lg-6 > div.col.col-lg-6 > .px-3.align-items-center.d-flex.link-download.link-btn
+akwam.*##div.col.col-lg-6:nth-of-type(2)
 ww.egybest.bid##._cp.p.a
 watch.movizland.*##.DownloadsTable
 watch.movizland.*##slider--news
@@ -582,7 +621,8 @@ watch.movizland.*##footer
 watch.movizland.*##.ReportedUI
 watch.movizland.*##.ServersEmbeds > .BackToPost
 watch.movizland.*##.stroy-btn
-
+||akwam.*/style/assets/images/akoam-old.png$image
+||img.akwam.link/uploads/G8Kpa.webp$image
 egybest.*##.HxyYG8R15vh37uK.tam.full.error.msg_box
 egybest.*###Shadow
 egybest.*###GlobalFrame
@@ -596,7 +636,9 @@ shahed4u.*##.endfooter.main-header.tornado-header
 shahed4u.*##.btns-bar
 c-drama.net##.pb-5.pt-5.footer
 c-drama.net##.copyright
-
+||on.akwam.cz/style/assets/images/AKWAM-Notifications.png$image
+on.akwam.*##.py-5.main-footer
+on.akwam.*##.container > .text-left
 w.egybest.kim/vs-mirror/vidstream.to/img/vidstream.png
 w.egybest.kim###watch_dl > div.msg_box.warn.table.full:nth-child(3)
 w.egybest.kim###watch_dl > table.dls_table.btns.full.mgb:nth-child(4)
@@ -676,7 +718,18 @@ cima-light.com##.container > .pm-ads-banner
 cima-light.com##.breadcrumbNav
 ||1.bp.blogspot.com/-2Thal-IRfgo/YNfvwmh8NeI/AAAAAAAAAak/8bIN5DGHMGYxcyZsiDGKnnC7Cm5bn1C_QCLcBGAsYHQ/s0/download_orig.png$image
 ! 2022-10-29 https://on1.akwam.cz
-
+akwam.*##.selected
+akwam.*##[href="#tab-3"]
+||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##.container > .text-left
+akwam.*##[href="#tab-3"]
+akwam.*##[href="#tab-4"]
+akwam.*##.selected
+||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##[href="#tab-3"]
+akwam.*##.selected
+akwam.*##.mb-4.border-0.widget-header
+akwam.*##.container > .text-left
 
 ! 2022-10-31 https://cima4u.sbs
 cima4u.*##.DesignedBy
@@ -690,7 +743,11 @@ www.faselhd.*##.social-block
 www.faselhd.*##.ml-auto.promoLink
 www.faselhd.*##.postShare
 
-
+! 2022-10-31 https://on2.akwam.cz
+akwam.*##[href="#tab-4"]
+||on2.akwam.cz/style/assets/images/AKWAM-Notifications.png$image
+akwam.*##.py-4.row
+akwam.*##.py-5.main-footer
 ! 2022-11-03 https://start.me
 ||c.start.me/packs/media/images/logo-white-diap-d83121d7.png$image
 start.me##.widget-page__ads
@@ -741,30 +798,3 @@ shaheed4u.lol##.shortlink
 shaheed4u.lol##.breadcrumb
 shaheed4u.lol##.proUser
 shaheed4u.lol##.btns-bar
-! 2022-11-11 https://www.google.com
-||www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png$image
-www.google.com###searchform
-www.google.com###botstuff
-www.google.com##.TrMVnc.f6F9Be
-www.google.com##div.hdtb-mitem:nth-of-type(5) > [href^="/search"]
-www.google.com##.GOE98c
-! 2022-11-11 https://q.laroza.one
-laroza.*##.DownloadServer
-||laroza.*/uploads/custom-logo.png?$image
-! 2022-11-11 https://q.laroza.one
-q.laroza.*##.DownloadServer
-||q.laroza.*/uploads/custom-logo.png?$image
-akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(10)
-akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(8)
-akwam.*##div.site-container:nth-child(6) > footer.main-footer.py-5:nth-child(6)
-akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(11)
-akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > img.header-img:last-child
-akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
-akwam.*###tab-5 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
-akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.py-4.mb-4:first-child > div.container > h1.font-size-22.font-size-md-38.font-weight-bold.text-white:nth-child(2)
-akwam.*##div.site-container:nth-child(6) > a.akoam-old:nth-child(5)
-akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4
-akwam.*###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
-akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child
-akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:nth-child(2)
-akwam.*###downloads > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
