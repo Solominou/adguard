@@ -800,5 +800,14 @@ shaheed4u.*##.proUser
 shaheed4u.*##.btns-bar
 shaheed4u.*##.endfooter.main-header.tornado-header > .container
 shaheed4u.*##.tags-cloud > .container
+! 2022-11-13 https://cima-clup.boats
+cima-clup.*##.section-head
+cima-clup.*##div.col-l-3.col-s-6.col-12.primary.download-block > .block-lvl.content-box
+cima-clup.*##.tags-cloud
+cima-clup.*##.col-l-3.col-s-6.col-12.golden.download-block > .block-lvl.content-box
+cima-clup.*##.Back
+cima-clup.*##.Front
+cima-clup.*##.sociaLinks
+cima-clup.*##.breadcrumb
 
 
