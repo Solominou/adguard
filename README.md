@@ -785,16 +785,20 @@ egy.best###watch_dl > div.mbox:nth-of-type(3)
 egy.best###GlobalFrame
 
 ! 2022-11-07 https://shaheed4u.lol
-||shaheed4u.lol/wp-content/themes/Shahid4u-WP_HOME/UI/img/header-min.png$image
-||shaheed4u.lol/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
-shaheed4u.lol##.endfooter.main-header.tornado-header
-shaheed4u.lol##.tags-cloud
-shaheed4u.lol##.btn.success.download-btn.btns-play
-||shaheed4u.lol/wp-content/uploads/2022/10/BQgvA_4f-384x550.jpg$image
-shaheed4u.lol##.col-m-3.col-12.poster-wraper
-shaheed4u.lol##.col-m-9.col-12.details > .half-tags
-shaheed4u.lol##div.col-m-6.col-12 > .half-tags
-shaheed4u.lol##.shortlink
-shaheed4u.lol##.breadcrumb
-shaheed4u.lol##.proUser
-shaheed4u.lol##.btns-bar
+||shaheed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/header-min.png$image
+||shaheed4u.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
+shaheed4u.*##.endfooter.main-header.tornado-header
+shaheed4u.*##.tags-cloud
+shaheed4u.*##.btn.success.download-btn.btns-play
+||shaheed4u.*/wp-content/uploads/2022/10/BQgvA_4f-384x550.jpg$image
+shaheed4u.*##.col-m-3.col-12.poster-wraper
+shaheed4u.*##.col-m-9.col-12.details > .half-tags
+shaheed4u.*##div.col-m-6.col-12 > .half-tags
+shaheed4u.*##.shortlink
+shaheed4u.*##.breadcrumb
+shaheed4u.*##.proUser
+shaheed4u.*##.btns-bar
+shaheed4u.*##.endfooter.main-header.tornado-header > .container
+shaheed4u.*##.tags-cloud > .container
+
+
