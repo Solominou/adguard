@@ -798,6 +798,8 @@ shaheed4u.*##.shortlink
 shaheed4u.*##.breadcrumb
 shaheed4u.*##.proUser
 shaheed4u.*##.btns-bar
+shaheed4u.*##.sociaLinks
+shaheed4u.*##.rounded.dark.btn
 shaheed4u.*##.endfooter.main-header.tornado-header > .container
 shaheed4u.*##.tags-cloud > .container
 ! 2022-11-13 https://cima-clup.boats
