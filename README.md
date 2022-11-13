@@ -811,5 +811,74 @@ cima-clup.*##.Back
 cima-clup.*##.Front
 cima-clup.*##.sociaLinks
 cima-clup.*##.breadcrumb
-
+a4u.*##div.PageContent:nth-child(7) > ul.cimaa4uBlocks:nth-child(3) > div.NewsListArea:nth-child(11)
+cimaa4u.*##div.PageTitle.InnerPages:nth-child(6) > h1:nth-child(2)
+cimaa4u.*##div.PageTitle.InnerPages:nth-child(6)
+cimaa4u.*###SliderShapeSVGs
+cimaa4u.*##header:nth-child(2) > div.container.dflex:first-child > div.container-r:nth-child(2) > div.Logo > a
+cimaa4u.*##div.PageContent:nth-child(7) > ul.cimaa4uBlocks:first-child > div.NewsListArea:nth-child(11)
+cimaa4u.*##div.RelatedsOnSingle:nth-child(5) > div.container.HasFilterBlocks.Scrolled:last-child > ul.cimaa4uBlocks:first-child > div.NewsListArea:nth-child(11)
+cimaa4u.*##div.PageTitle.InnerPages:nth-child(5)
+cimaa4u.*##footer:nth-child(13)
+cimaa4u.*##div.SingleContext:nth-child(4) > div.Breadcrumbs:nth-child(2)
+cimaa4u.*##div.SingleContext.Scrolled:nth-child(4) > div.Keywords:last-child
+cimaa4u.*##div.RelatedsOnSingle:nth-child(5) > div.PageTitle.InnerPages:first-child > h1:first-child
+cimaa4u.*##div.PinSlider:nth-child(5)
+cimaa4u.*##div.MultiFilter:nth-child(6)
+cimaa4u.*###menu-item-23 > a.Hoverable:first-child
+cimaa4u.*##header:nth-child(2) > div.container.dflex:first-child > div.container-r:nth-child(2)
+cimaa4u.*##header:nth-child(2) > div.container.dflex:first-child > div.container-l:last-child
+cimaa4u.*##div.SingleContext.Scrolled:nth-child(5) > div.Keywords:last-child
+cimaa4u.*##div.SingleContext:nth-child(5) > div.Breadcrumbs:nth-child(2)
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContent:nth-child(4) > h1:first-child
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContent:nth-child(4) > div.InnerContent:nth-child(2) > p
+cimaa4u.*##div.SingleContext.Scrolled:nth-child(5) > div.SingleContentSide:nth-child(5) > div.ImportantButtons:last-child
+cimaa4u.*###menu-item-24 > a.Hoverable
+cimaa4u.*##div.SingleContext:nth-child(4) > div.SinglePoster:nth-child(3)
+cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContent:nth-child(4)
+cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > a:nth-child(2) > div.WatchingArea.TrailerColorButton.Hoverable
+cimaa4u.*##div.RelatedsOnSingle:nth-child(5) > div.PageTitle.InnerPages:first-child > ul.Tabs:last-child
+cimaa4u.*##div.RelatedsOnSingle:nth-child(5) > div.container.HasFilterBlocks:last-child
+cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > div.StatsMain:first-child > div.SingleContentSideTitle:first-child > span
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SinglePoster:nth-child(3)
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > div.StatsMain:first-child
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > a:nth-child(2) > div.WatchingArea.TrailerColorButton.Hoverable > span.WatchNow
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > a:nth-child(2) > div.WatchingArea.TrailerColorButton.Hoverable
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContent:nth-child(4)
+cimaa4u.*##div.SingleContext:nth-child(5) > div.SingleContentSide:nth-child(5) > div.ImportantButtons:last-child
+cimaa4u.*##div.SingleContext:nth-child(5) > div.Keywords:last-child
+cimaa4u.*##div.RelatedsOnSingle:nth-child(7) > div.PageTitle.InnerPages:first-child
+cimaa4u.*##div.RelatedsOnSingle:nth-child(7) > div.container.HasFilterBlocks:last-child
+cimaa4u.*##div.RelatedsOnSingle:nth-child(6) > div.PageTitle.InnerPages:first-child
+cimaa4u.*##div.PinSlider.InnerPages:nth-child(5)
+cimaa4u.*##div.MultiFilter.InnerPages:nth-child(4)
+cimaa4u.*##div.SingleContext:nth-child(4) > div.Keywords:last-child
+cimaa4u.*##footer:nth-child(14) > div.DesignedBy
+cimaa4u.*###SliderShapeSVGs
+cimaa4u.*##footer:nth-child(12)
+cimaa4u.*##header:nth-child(2) > div.container.dflex:first-child > div.social:nth-child(4)
+cimaa4u.*##div.RelatedsOnSingle:nth-child(5)
+cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > div.StatsMain:first-child
+cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) > div.ImportantButtons:last-child
+cimaa4u.*##footer:nth-child(12)
+cimaa4u.*##div.RelatedsOnSingle:nth-child(5)
+cimaa4u.*##div.PageContent:nth-child(7) > h2:first-child
+tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-r:nth-child(2) > div.Logo > a
+tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.social:nth-child(4)
+tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.serversWatch:nth-child(2) > div.WatchBar:last-child
+tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.DownloadServers:last-child
+tv.cimaa4u.*##div:nth-child(6) > footer:nth-child(5)
+tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.DownloadServers:nth-child(3)
+tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.serversWatch:nth-child(2) > div.WatchBar:nth-child(2)
+tv.cimaa4u.*##div:nth-child(6) > footer:last-child
+tv.cimaa4u.*##div:nth-child(6) > div.PageContentMaster:nth-child(3) > div.PageContentMasterContainer > div.PageTitle:first-child
+tv.cimaa4u.*##div:nth-child(6) > div.Sin
+tv.cimaa4u.*##div:nth-child(6) > footer:nth-child(5)
+tv.cimaa4u.*##div:last-child > footer:last-child
+tv.cimaa4u.*##div:last-child > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.serversWatch:nth-child(2) > div.WatchBar:last-child
+tv.cimaa4u.*##div:last-child > div.SingleContext:nth-child(3)
+tv.cimaa4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.Breadcrumbs:nth-child(2)
+tv.cimaa4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:last-child
+tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-r:nth-child(2)
+tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-l:last-child
 
