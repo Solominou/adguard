@@ -709,13 +709,13 @@ honadrama.*##.downloadToggleTitle
 ||imgur.com/zkjHhwR.jpeg$image
 honadrama.*##.footer
 ! 2022-10-29 https://l.cima-light.com
-||cima-light.com/watch.png$image
-||cima-light.com/*.png$image
-cima-light.com##.WatchList > p
-cima-light.com##.breadcrumbNav
-cima-light.com##.btn-primary.btn-small.btn
-cima-light.com##.container > .pm-ads-banner
-cima-light.com##.breadcrumbNav
+||cima-light.*/watch.png$image
+||cima-light.*/*.png$image
+cima-light.*##.WatchList > p
+cima-light.*##.breadcrumbNav
+cima-light.*##.btn-primary.btn-small.btn
+cima-light.*##.container > .pm-ads-banner
+cima-light.*##.breadcrumbNav
 ||1.bp.blogspot.com/-2Thal-IRfgo/YNfvwmh8NeI/AAAAAAAAAak/8bIN5DGHMGYxcyZsiDGKnnC7Cm5bn1C_QCLcBGAsYHQ/s0/download_orig.png$image
 ! 2022-10-29 https://on1.akwam.cz
 akwam.*##.selected
@@ -735,7 +735,7 @@ akwam.*##.container > .text-left
 cima4u.*##.DesignedBy
 
 ! 2022-10-31 https://m.laroza.one
-||m.laroza.one/uploads/custom-logo.png?$image
+||m.laroza.*/uploads/custom-logo.png?$image
 
 ! 2022-10-31 https://www.faselhd.club
 www.faselhd.*##.social-block
