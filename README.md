@@ -881,4 +881,18 @@ tv.cimaa4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.Breadcrumb
 tv.cimaa4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:last-child
 tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-r:nth-child(2)
 tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-l:last-child
+! 2022-11-16 https://cimalight.one
 
+||cimalight.*/download.png$image
+
+||cimalight.*/watch.png$image
+
+cimalight.*##.breadcrumbNav
+
+cimalight.*##.col-md-8.col-sm-12.col-xs-12 > div > h1
+
+||www.cima-light.*/uploads/custom-logo.png$image
+
+cimalight.*###content > .container-fluid > .row
+
+cimalight.*##.WatchList > p
