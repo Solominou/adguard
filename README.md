@@ -866,17 +866,3 @@ cimaa4u.*##div.PageContent:nth-child(7) > h2:first-child
 ! 2022-11-20 https://tv.cimaa4u.sbs
 tv.cimaa4u.*##.DownloadServers
 tv.cimaa4u.*##footer
-
-||cimalight.*/download.png$image
-
-||cimalight.*/watch.png$image
-
-cimalight.*##.breadcrumbNav
-
-cimalight.*##.col-md-8.col-sm-12.col-xs-12 > div > h1
-
-||www.cima-light.*/uploads/custom-logo.png$image
-
-cimalight.*###content > .container-fluid > .row
-
-cimalight.*##.WatchList > p
