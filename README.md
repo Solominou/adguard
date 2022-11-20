@@ -863,25 +863,7 @@ cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) >
 cimaa4u.*##footer:nth-child(12)
 cimaa4u.*##div.RelatedsOnSingle:nth-child(5)
 cimaa4u.*##div.PageContent:nth-child(7) > h2:first-child
-tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-r:nth-child(2) > div.Logo > a
-tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.social:nth-child(4)
-tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.serversWatch:nth-child(2) > div.WatchBar:last-child
-tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.DownloadServers:last-child
-tv.cimaa4u.*##div:nth-child(6) > footer:nth-child(5)
-tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.DownloadServers:nth-child(3)
-tv.cimaa4u.*##div:nth-child(6) > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.serversWatch:nth-child(2) > div.WatchBar:nth-child(2)
-tv.cimaa4u.*##div:nth-child(6) > footer:last-child
-tv.cimaa4u.*##div:nth-child(6) > div.PageContentMaster:nth-child(3) > div.PageContentMasterContainer > div.PageTitle:first-child
-tv.cimaa4u.*##div:nth-child(6) > div.Sin
-tv.cimaa4u.*##div:nth-child(6) > footer:nth-child(5)
-tv.cimaa4u.*##div:last-child > footer:last-child
-tv.cimaa4u.*##div:last-child > div.WatchSectionContainer:nth-child(4) > div.WatchSection > div.serversWatch:nth-child(2) > div.WatchBar:last-child
-tv.cimaa4u.*##div:last-child > div.SingleContext:nth-child(3)
-tv.cimaa4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.Breadcrumbs:nth-child(2)
-tv.cimaa4u.*##div:nth-child(6) > div.SingleContext:nth-child(3) > div.SingleContent:last-child
-tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-r:nth-child(2)
-tv.cimaa4u.*##div:nth-child(6) > header:first-child > div.container.dflex > div.container-l:last-child
-! 2022-11-16 https://cimalight.one
+
 
 ||cimalight.*/download.png$image
 
