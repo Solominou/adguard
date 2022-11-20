@@ -863,7 +863,9 @@ cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) >
 cimaa4u.*##footer:nth-child(12)
 cimaa4u.*##div.RelatedsOnSingle:nth-child(5)
 cimaa4u.*##div.PageContent:nth-child(7) > h2:first-child
-
+! 2022-11-20 https://tv.cimaa4u.sbs
+tv.cimaa4u.*##.DownloadServers
+tv.cimaa4u.*##footer
 
 ||cimalight.*/download.png$image
 
