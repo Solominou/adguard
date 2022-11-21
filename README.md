@@ -866,3 +866,7 @@ cimaa4u.*##div.PageContent:nth-child(7) > h2:first-child
 ! 2022-11-20 https://tv.cimaa4u.sbs
 tv.cimaa4u.*##.DownloadServers
 tv.cimaa4u.*##footer
+! 2022-11-21 https://tv.cimaa4u.mom
+tv.cimaa4u.*##.DownloadServers
+tv.cimaa4u.*##footer
+tv.cimaa4u.*##.Breadcrumbs
