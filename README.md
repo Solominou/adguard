@@ -870,4 +870,10 @@ tv.cimaa4u.*##footer
 tv.cimaa4u.*##.DownloadServers
 tv.cimaa4u.*##footer
 tv.cimaa4u.*##.Breadcrumbs
-
+! 2022-11-23 https://myciima.space
+myciima.*##.Single-begin
+myciima.*##singlerelated
+myciima.*##singlecontainerleft > .PostItemStats > li > .InnerButton
+myciima.*##.MycimaonSocialnetwork
+myciima.*##footer
+myciima.*##.Download--Mycima--Single
