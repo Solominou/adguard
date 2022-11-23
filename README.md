@@ -875,6 +875,4 @@ myciima.*##.Single-begin
 myciima.*##.MycimaonSocialnetwork
 myciima.*##.Download--Mycima--Single
 myciima.*##singlerelated
-myciima.*##footer
-myciima.*##.AsideContext
-myciima.*##singlecontainerleft
+
