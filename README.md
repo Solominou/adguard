@@ -877,3 +877,9 @@ myciima.*##singlecontainerleft > .PostItemStats > li > .InnerButton
 myciima.*##.MycimaonSocialnetwork
 myciima.*##footer
 myciima.*##.Download--Mycima--Single
+mycimaaa.*##.Single-begin
+mycimaaa.*##singlerelated
+mycimaaa.*##singlecontainerleft > .PostItemStats > li > .InnerButton
+mycimaaa.*##.MycimaonSocialnetwork
+mycimaaa.*##footer
+mycimaaa.*##.Download--Mycima--Single
