@@ -889,3 +889,12 @@ egybest.mx##div.mbox:nth-of-type(3)
 egybest.mx##div.mbox:nth-of-type(4)
 egybest.mx##.mgb.full.btns.dls_table
 egybest.mx##h2
+ciima-clup.*##.section-head
+ciima-clup.*##div.col-l-3.col-s-6.col-12.primary.download-block > .block-lvl.content-box
+ciima-clup.*##.tags-cloud
+ciima-clup.*##.col-l-3.col-s-6.col-12.golden.download-block > .block-lvl.content-box
+ciima-clup.*##.Back
+ciima-clup.*##.Front
+ciima-clup.*##.sociaLinks
+ciima-clup.*##.breadcrumb
+a4u.*##div.PageContent:nth-child(7) > ul.cimaa4uBlocks:nth-child(3) > div.NewsListArea:nth-child(11)
