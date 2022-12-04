@@ -898,3 +898,13 @@ ciima-clup.*##.Front
 ciima-clup.*##.sociaLinks
 ciima-clup.*##.breadcrumb
 a4u.*##div.PageContent:nth-child(7) > ul.cimaa4uBlocks:nth-child(3) > div.NewsListArea:nth-child(11)
+! 2022-12-04 https://ciima-clup.cfd
+
+ciima-clup.cfd##.col-m-3.col-12.poster-wraper
+ciima-clup.cfd##footer.main-header.tornado-header > .container
+ciima-clup.cfd##.col-m-3.col-12.poster-wraper
+ciima-clup.cfd##.half-tags
+ciima-clup.cfd##.Scroll-list
+ciima-clup.cfd##.SingleContentTerms
+ciima-clup.cfd##.info-lists.col-l-4.col-m-4.col-s-6.col-12
+ciima-clup.cfd##footer.main-header.tornado-header > .container
