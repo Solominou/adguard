@@ -883,3 +883,9 @@ mycimaaa.*##singlecontainerleft > .PostItemStats > li > .InnerButton
 mycimaaa.*##.MycimaonSocialnetwork
 mycimaaa.*##footer
 mycimaaa.*##.Download--Mycima--Single
+! 2022-12-04 https://egybest.mx
+egybest.mx##.mgb.full.table.full_movie
+egybest.mx##div.mbox:nth-of-type(3)
+egybest.mx##div.mbox:nth-of-type(4)
+egybest.mx##.mgb.full.btns.dls_table
+egybest.mx##h2
