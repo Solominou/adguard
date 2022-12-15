@@ -908,3 +908,20 @@ ciima-clup.cfd##.Scroll-list
 ciima-clup.cfd##.SingleContentTerms
 ciima-clup.cfd##.info-lists.col-l-4.col-m-4.col-s-6.col-12
 ciima-clup.cfd##footer.main-header.tornado-header > .container
+! 2022-12-15 https://iegybest.film
+iegybest.film##.col-sm-12.col-md-12.sticky.pull-left
+||iegybest.film/wp-content/uploads/2019/10/egybest_logo2.png$image
+iegybest.film##h1
+iegybest.film##.hide-mobile.text-center > .rights
+iegybest.film##.comment-box.main-article
+iegybest.film##.flex-start.single-box-info
+iegybest.film##article.main-article:nth-of-type(6)
+iegybest.film##article.main-article:nth-of-type(7)
+
+iegybest.film##article.main-article:nth-of-type(1) > .main-color.main-title
+iegybest.film##.download-section.main-article
+iegybest.film##article.main-article:nth-of-type(1) > .flex-center
+
+
+iegybest.film##.col-sm-12.post-dtl.flex-1
+||iegybest.film/wp-content/uploads/2022/12/The-Flatshare-2.jpg$image
