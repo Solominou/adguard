@@ -917,11 +917,11 @@ iegybest.film##.comment-box.main-article
 iegybest.film##.flex-start.single-box-info
 iegybest.film##article.main-article:nth-of-type(6)
 iegybest.film##article.main-article:nth-of-type(7)
-
 iegybest.film##article.main-article:nth-of-type(1) > .main-color.main-title
 iegybest.film##.download-section.main-article
 iegybest.film##article.main-article:nth-of-type(1) > .flex-center
-
-
 iegybest.film##.col-sm-12.post-dtl.flex-1
 ||iegybest.film/wp-content/uploads/2022/12/The-Flatshare-2.jpg$image
+! 2022-12-28 https://tv.cima4uu.click
+tv.cima4uu.*##.DownloadServers
+tv.cima4uu.*##footer
