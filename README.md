@@ -925,3 +925,12 @@ iegybest.film##.col-sm-12.post-dtl.flex-1
 ! 2022-12-28 https://tv.cima4uu.click
 tv.cima4uu.*##.DownloadServers
 tv.cima4uu.*##footer
+cima4uu.*##.Hoverable.TrailerColorButton.WatchingArea > .WatchNow
+cima4uu.*##.Hoverable.TrailerColorButton.WatchingArea
+cima4uu.*##.StatsMain
+cima4uu.*##.ImportantButtons
+cima4uu.*##.Keywords
+cima4uu.*##.InnerPages.PageTitle
+cima4uu.*##.HasFilterBlocks.container
+cima4uu.*##.DesignedBy
+tv.cima4uu.*##.WatchBar > span
