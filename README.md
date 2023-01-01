@@ -935,3 +935,5 @@ cima4uu.*##.HasFilterBlocks.container
 cima4uu.*##.DesignedBy
 tv.cima4uu.*##.WatchBar > span
 tv.cima4uu.*##.social
+q.laroza.one##.DownloadServer
+||q.laroza.one/uploads/custom-logo.png?$image
