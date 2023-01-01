@@ -934,3 +934,4 @@ cima4uu.*##.InnerPages.PageTitle
 cima4uu.*##.HasFilterBlocks.container
 cima4uu.*##.DesignedBy
 tv.cima4uu.*##.WatchBar > span
+tv.cima4uu.*##.social
