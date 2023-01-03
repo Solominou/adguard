@@ -937,5 +937,3 @@ tv.cima4uu.*##.WatchBar > span
 tv.cima4uu.*##.social
 q.laroza.one##.DownloadServer
 ||q.laroza.one/uploads/custom-logo.png?$image
-ciima-clup.*##.media-details
-ciima-clup.*##footer.main-header.tornado-header > .container
