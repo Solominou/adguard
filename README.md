@@ -944,3 +944,5 @@ ciima-clup.autos##div.info-lists.col-l-4.col-m-4.col-s-6.col-12:nth-of-type(1)
 ciima-clup.autos##.SingleContentTerms
 ciima-clup.autos##.media-p
 ciima-clup.autos##.col-m-9.col-12.details > .title
+||shahed4u.name/themes/Shahid4u/img/logo.png$image
+shahed4u.name##.sociaLinks
