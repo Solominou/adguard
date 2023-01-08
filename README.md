@@ -954,3 +954,12 @@ ciima-clup.autos##.col-m-9.col-12.details > .title
 shahed4u.name##.sociaLinks
 ||shahed4u.name/themes/Shahid4u/img/header-min.png$image
 shahed4u.name##.copyrights-site
+! 2023-01-07 https://shahed4u.name
+shahed4u.name##.col-m-3.col-12.poster-wraper
+shahed4u.name##.col-m-9.col-12.details > .title
+shahed4u.name##.container > .btns
+shahed4u.name##.media-p
+shahed4u.name##ul.half-tags:nth-of-type(2)
+shahed4u.name##[href="https://shahed4u.name/release-year/2022"] > li
+shahed4u.name##.col-m-9.col-12.details > ul.half-tags:nth-of-type(1) > li:nth-of-type(2)
+shahed4u.name##.col-m-9.col-12.details > ul.half-tags > li
