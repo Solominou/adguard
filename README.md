@@ -963,3 +963,6 @@ shahed4u.name##ul.half-tags:nth-of-type(2)
 shahed4u.name##[href="https://shahed4u.name/release-year/2022"] > li
 shahed4u.name##.col-m-9.col-12.details > ul.half-tags:nth-of-type(1) > li:nth-of-type(2)
 shahed4u.name##.col-m-9.col-12.details > ul.half-tags > li
+! 2023-01-11 https://ciima-clup.beauty
+ciima-clup.*##.col-m-9.col-12.details
+ciima-clup.*##.col-m-3.col-12.poster-wraper
