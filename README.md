@@ -966,3 +966,11 @@ shahed4u.name##.col-m-9.col-12.details > ul.half-tags > li
 ! 2023-01-11 https://ciima-clup.beauty
 ciima-clup.*##.col-m-9.col-12.details
 ciima-clup.*##.col-m-3.col-12.poster-wraper
+tv.cimaaa4u.*##.DownloadServers
+tv.cimaaa4u.*##.Breadcrumbs
+tv.cimaaa4u.*##.SingleContent > h1
+tv.cimaaa4u.*##.InnerContent
+tv.cimaaa4u.*##.InformationList > li:nth-of-type(1)
+tv.cimaaa4u.*##.InformationList > li:nth-of-type(2)
+tv.cimaaa4u.*##footer
+tv.cimaaa4u.*##.social
