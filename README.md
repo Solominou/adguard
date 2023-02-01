@@ -990,3 +990,9 @@ cimaaa4u.*##.ImportantButtons
 ! 2023-02-01 https://on.akwam.cx
 on.akwam.*##.mb-5.widget-style-1.widget.widget-3
 on.akwam.*##div.widget-style-1.widget.widget-4:nth-of-type(7)
+! 2023-02-01 https://shahed4uu.beauty
+shahed4uu.*##.glide-swipeable.glide-carousel.glide-rtl.home-slider
+shahed4uu.*##.area-title
+||shahed4uu.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
+shahed4uu.*##.sociaLinks
+shahed4uu.*##.btns
