@@ -987,3 +987,6 @@ tv.cimaaa4u.*##.WatchBar > span
 ! 2023-02-01 https://cimaaa4u.homes
 cimaaa4u.*##.Hoverable.TrailerColorButton.WatchingArea
 cimaaa4u.*##.ImportantButtons
+! 2023-02-01 https://on.akwam.cx
+on.akwam.*##.mb-5.widget-style-1.widget.widget-3
+on.akwam.*##div.widget-style-1.widget.widget-4:nth-of-type(7)
