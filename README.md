@@ -978,3 +978,12 @@ tv.cimaaa4u.*##.social
 ! 2023-02-01 https://a.laroza.one
 a.laroza.one##.DownloadServer
 ||a.laroza.one/uploads/custom-logo.png?$image
+! 2023-02-01 https://cimaaa4u.homes
+cimaaa4u.*###SliderShapeSVGs
+
+! 2023-02-01 https://tv.cimaaa4u.homes
+tv.cimaaa4u.*##.WatchBar > span
+
+! 2023-02-01 https://cimaaa4u.homes
+cimaaa4u.*##.Hoverable.TrailerColorButton.WatchingArea
+cimaaa4u.*##.ImportantButtons
