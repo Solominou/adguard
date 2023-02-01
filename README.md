@@ -974,3 +974,9 @@ tv.cimaaa4u.*##.InformationList > li:nth-of-type(1)
 tv.cimaaa4u.*##.InformationList > li:nth-of-type(2)
 tv.cimaaa4u.*##footer
 tv.cimaaa4u.*##.social
+! 2023-02-01 https://iegybest.film
+iegybest.film##article.main-article:nth-of-type(3)
+
+! 2023-02-01 https://a.laroza.one
+a.laroza.one##.DownloadServer
+||a.laroza.one/uploads/custom-logo.png?$image
