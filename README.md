@@ -996,3 +996,9 @@ shahed4uu.*##.area-title
 ||shahed4uu.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
 shahed4uu.*##.sociaLinks
 shahed4uu.*##.btns
+
+! 2023-02-07 https://arlionztv.store
+arlionztv.*##.Download--Full--Pack
+
+! 2023-02-08 https://arlionztv.store
+arlionztv.*##.Index--Tax
