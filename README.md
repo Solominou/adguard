@@ -995,7 +995,7 @@ shahed4uu.*##.glide-swipeable.glide-carousel.glide-rtl.home-slider
 shahed4uu.*##.area-title
 ||shahed4uu.*/wp-content/themes/Shahid4u-WP_HOME/UI/img/logo.png$image
 shahed4uu.*##.sociaLinks
-shahed4uu.*##.btns
+
 
 ! 2023-02-07 https://arlionztv.store
 arlionztv.*##.Download--Full--Pack
