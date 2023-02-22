@@ -1003,3 +1003,8 @@ arlionztv.*##.Download--Full--Pack
 
 ! 2023-02-08 https://arlionztv.store
 arlionztv.*##.Index--Tax
+! 2023-02-22 https://weciima.autos
+weciima.*##.Slider--Grid
+weciima.*##.WecimaonSocialnetwork
+weciima.*##.Single-begin
+weciima.*##.Download--Wecima--Single
