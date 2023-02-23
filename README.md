@@ -1008,3 +1008,8 @@ weciima.*##.Slider--Grid
 weciima.*##.WecimaonSocialnetwork
 weciima.*##.Single-begin
 weciima.*##.Download--Wecima--Single
+! 2023-02-23 https://weciima.mom
+weciima.*##.Season--Download--Wecima--Single
+weciima.*##.-movie-info-share
+weciima.*##.WecimaonSocialnetwork
+weciima.*##.Download--Wecima--Single
