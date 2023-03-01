@@ -1013,3 +1013,14 @@ weciima.*##.Season--Download--Wecima--Single
 weciima.*##.-movie-info-share
 weciima.*##.WecimaonSocialnetwork
 weciima.*##.Download--Wecima--Single
+
+! 2023-02-22 https://weciima.autos
+weciimaa.*##.Slider--Grid
+weciimaa.*##.WecimaonSocialnetwork
+weciimaa.*##.Single-begin
+weciimaa.*##.Download--Wecima--Single
+! 2023-02-23 https://weciima.mom
+weciimaa.*##.Season--Download--Wecima--Single
+weciimaa.*##.-movie-info-share
+weciimaa.*##.WecimaonSocialnetwork
+weciimaa.*##.Download--Wecima--Single
