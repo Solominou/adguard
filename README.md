@@ -1031,3 +1031,11 @@ ciimaclub.*##.section-head
 show.alfajertv.com##div.sbox:nth-of-type(4)
 show.alfajertv.com##.box_links > .sbox
 show.alfajertv.com##.linktabs
+! 2023-03-12 https://weecima.click
+weecima.*##.WecimaonSocialnetwork
+weecima.*##.Single-begin
+weecima.*##.Download--Wecima--Single
+! 2023-03-12 https://weecima.click
+weeciima.*##.WecimaonSocialnetwork
+weeciima.*##.Single-begin
+weeciima.*##.Download--Wecima--Single
