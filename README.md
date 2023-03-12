@@ -1027,3 +1027,7 @@ weciimaa.*##.Download--Wecima--Single
 ! 2023-03-12 https://ciimaclub.beauty
 ciimaclub.*##.gutter-medium.row.downloads
 ciimaclub.*##.section-head
+! 2023-03-12 https://show.alfajertv.com
+show.alfajertv.com##div.sbox:nth-of-type(4)
+show.alfajertv.com##.box_links > .sbox
+show.alfajertv.com##.linktabs
