@@ -1024,3 +1024,6 @@ weciimaa.*##.Season--Download--Wecima--Single
 weciimaa.*##.-movie-info-share
 weciimaa.*##.WecimaonSocialnetwork
 weciimaa.*##.Download--Wecima--Single
+! 2023-03-12 https://ciimaclub.beauty
+ciimaclub.*##.gutter-medium.row.downloads
+ciimaclub.*##.section-head
