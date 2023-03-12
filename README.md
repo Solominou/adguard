@@ -1039,3 +1039,5 @@ weecima.*##.Download--Wecima--Single
 weeciima.*##.WecimaonSocialnetwork
 weeciima.*##.Single-begin
 weeciima.*##.Download--Wecima--Single
+! 2023-03-12 https://tv.cima4u1.boats
+tv.cima4u1.boats##.DownloadServers
