@@ -1041,3 +1041,12 @@ weeciima.*##.Single-begin
 weeciima.*##.Download--Wecima--Single
 ! 2023-03-12 https://tv.cima4u1.boats
 tv.cima4u1.boats##.DownloadServers
+! 2023-03-12 https://tv.cima4u1.boats
+tv.cima4u1.boats##.DownloadServers
+! 2023-03-17 https://tv.cima4u1.quest
+tv.cima4u1.quest##.DownloadServers
+! 2023-03-12 https://tv.cima4u1.boats
+tv.cima4u1.*##.DownloadServers
+
+! 2023-03-17 https://tv.cima4u1.quest
+tv.cima4u.*##.DownloadServers
