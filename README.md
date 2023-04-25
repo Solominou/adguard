@@ -1052,3 +1052,5 @@ tv.cima4u1.*##.DownloadServers
 tv.cima4u.*##.DownloadServers
 tv.cima4u*##.DownloadServers
 tv.cima4u3.hair##.DownloadServers
+! 2023-04-25 https://tv.cima4u3.monster
+tv.cima4u3.monster##.DownloadServers
