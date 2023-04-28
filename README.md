@@ -1058,3 +1058,9 @@ tv.cima4u1.*##.DownloadServers
 tv.cima4u2.*##.DownloadServers
 tv.cima4u4.*##.DownloadServers
 tv.cima4u5.*##.DownloadServers
+! 2023-04-28 http://www.showfha.online
+www.showfha.online##.shareButton
+www.showfha.online###in-e7tagt > div.Seo-plus-Ads
+www.showfha.online##.comments
+www.showfha.online##.YT-subscribe
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut-Q4Uf84-FjMwEMIeu99a2ur7y5yJQopO6fLKaCBSz8lzPp-94gQKEE5CP6mGi4r6uCsa2RzE7GZj1lWJzcSgC4RVfeL2YeoLiQX9IyEqbl8Y1PyrZJ1uMeDwzzeyS3nqurmoUrv-HN-uZH7XtUDPSzrt9URtQDPlq2JG__XLHMVkGFkV2b5Mcb9/s1600/image2.jpg$image
