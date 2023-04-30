@@ -1074,3 +1074,14 @@ www.showfha.online##.Awlsora
 ! 2023-04-30 https://movie-web.app
 movie-web.app##.max-w-xs.mx-auto.md\:text-4xl.sm\:text-3xl.text-white.font-bold.text-2xl
 movie-web.app##.sm\:mb-24.mb-16.z-10.relative
+! 2023-04-30 https://www.themoviedb.org
+
+www.themoviedb.org###trailer_scroller > .no_bottom_pad.wrap.content_wrapper
+
+www.themoviedb.org##.community.bg_image.inner_content > .column_wrapper > .wrap.content_wrapper
+
+www.themoviedb.org##.single_column
+
+www.themoviedb.org##.leaderboard.inner_content > .column_wrapper > .wrap.content_wrapper
+
+www.themoviedb.org##.title
