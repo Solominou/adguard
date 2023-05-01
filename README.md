@@ -1,37 +1,19 @@
-playerwatchlm79.xyz###app > header.ht-header.MoviesSearch:first-child
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(6) > img
-playerwatchlm79.xyz###app > div.page-single:nth-child(2) > div.container:nth-child(2) > div.row:first-child
-playerwatchlm79.xyz###app > div.page-single:nth-child(2) > div.container:nth-child(2) > div.row:nth-child(2) > div.col-sm-12 > div.controls.search-controls > form
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(3)
-playerwatchlm79.xyz###app > header.ht-header.MoviesView:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:nth-child(3)
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.movie-items.movies-items__category:last-child > div.container > div.row.ipad-width2
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single:first-child > div.container.internal-page-container:last-child > div.row.ipad-width2:last-child > div.col-sm-12
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(4)
-playerwatchlm79.xyz##.social-share > li
-playerwatchlm79.xyz###app > header.ht-header.MoviesPlay:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation
-playerwatchlm79.xyz###app > div.view-movie:nth-child(5) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie > div.player-external-controls:last-child
-playerwatchlm79.xyz###app > footer.ht-footer:nth-child(7)
-playerwatchlm79.xyz###app > div.movie-items.movies-items__category:nth-child(6) > div.container > div.row.ipad-width2 > div.col-md-12
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(7) > img
-playerwatchlm79.xyz###app > a.telegram-link:nth-child(10) > img
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > div.flex-column__header:first-child
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > h1.title:nth-child(2)
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text:nth-child(3)
-playerwatchlm79.xyz##div.wrapper:first-child > div.container.hello-container:first-child > div.flex-row > div.flex-column > p.text.text-bottom:last-child
-playerwatchlm79.xyz/assets/5099abbd/img/logo.png
-playerwatchlm79.xyz###app > ul.social-share:nth-child(5)
-playerwatchlm79.xyz###app > header.ht-header.ShowsSearch:first-child
-playerwatchlm79.xyz###app > header.ht-header.ShowsView:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container.internal-page-container:last-child > div.row.ipad-width2:nth-child(2)
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container.internal-page-container:last-child > div.row:last-child > div.col-sm-12
-playerwatchlm79.xyz###app > div.container.shows-items__category:nth-child(6) > div.row
-playerwatchlm79.xyz###app > header.ht-header.ShowsPlay:first-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row:first-child > div.col-sm-12 > div.media-title-with-navigation
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:nth-child(2) > div.col-sm-12 > div.movie-single-ct.main-content > div.watch-movie.watch-tvshow > div.player-external-controls:last-child
-playerwatchlm79.xyz###app > div.view-movie:nth-child(3) > div.page-single.movie-single.movie_single > div.container:last-child > div.row.ipad-width2:last-child
-playerwatchlm79.xyz###app > header.ht-header.ShowsSearch:first-child
+! 2023-05-01 https://www.justchill.tv
+www.justchill.tv##.xl\:top-6.md\:max-h-24.md\:block.px-6.w-full.max-h-16.hidden.my-0.z-20.top-2.fixed
+www.justchill.tv##.bg-black.w-full.h-full.z-0.absolute
+www.justchill.tv##.md\:px-12.md\:-mt-20.px-6.max-w-screen-xl.w-full.mx-auto.z-\[1\].relative > .py-5.justify-between.items-center.flex
+www.justchill.tv##.md\:px-12.md\:-mt-20.px-6.max-w-screen-xl.w-full.mx-auto.z-\[1\].relative > .relative.group > div
+www.justchill.tv##.md\:space-y-14.pb-24.space-y-8 > div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto > .py-5.justify-between.items-center.flex
+www.justchill.tv##.md\:space-y-14.pb-24.space-y-8 > div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(2)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(3)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(4)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(5)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(6)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(7)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(8)
+www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(9)
+www.justchill.tv##.px-6.mt-6.relative
+www.justchill.tv##.ring-primary-600.md\:bottom-6.sm\:w-16.sm\:h-16.sm\:right-4.ring-4.p-0.bg-zinc-900.rounded-full.overflow-hidden.w-12.h-12.mx-3.my-0.z-20.bottom-24.top-auto.right-2.fixed.scaleable
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(4) > singlesection:first-child > div.Watch--Mycima--Single > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:nth-child(6) > btn.hoverable.activable > strong:last-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(3) > singlesection:first-child > div.Watch--Mycima--Single > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:last-child > btn.hoverable.activable > strong:last-child
 mycimaa.*##root:first-child > rootinside > singlecontainer:nth-child(2) > singlecontainerright:nth-child(6) > mycima.separated--top > singlesections:nth-child(3) > singlesection:first-child > div.Watch--Mycima--Single > div.WatchServers:first-child > ul.WatchServersList:last-child > ul > li:nth-child(5) > btn.hoverable.activable > strong:last-child
