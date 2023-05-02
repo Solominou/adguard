@@ -741,11 +741,7 @@ www.faselhd.*##.social-block
 www.faselhd.*##.ml-auto.promoLink
 www.faselhd.*##.postShare
 
-! 2022-10-31 https://on2.akwam.cz
-akwam.*##[href="#tab-4"]
-||on2.akwam.cz/style/assets/images/AKWAM-Notifications.png$image
-akwam.*##.py-4.row
-akwam.*##.py-5.main-footer
+
 ! 2022-11-03 https://start.me
 ||c.start.me/packs/media/images/logo-white-diap-d83121d7.png$image
 start.me##.widget-page__ads
