@@ -1,3 +1,19 @@
+! 2023-05-02 https://yifytv.co
+yifytv.co##.text-home-main
+
+! 2023-05-02 https://movie-web.app
+movie-web.app##.text-bink-600.py-2.px-4.bg-opacity-50.bg-bink-300.rounded-full.space-x-2.items-center.flex
+
+! 2023-05-02 https://flixtor.to
+flixtor.to##.header1.text-info.pt-4.text-center
+flixtor.to##.dropdown.nav-item.vipmenu > .pointer.nav-link
+flixtor.to##.active.nav-item > .nav-link
+flixtor.to##li.nav-item:nth-of-type(5)
+flixtor.to##.link.navbar-brand
+flixtor.to##h2.header2.text-info.pt-4.text-center
+
+! 2023-05-02 https://akwam.in
+||img.akw.onl/uploads/USfXq.webp$image
 ! 2023-05-01 https://www.justchill.tv
 www.justchill.tv##.xl\:top-6.md\:max-h-24.md\:block.px-6.w-full.max-h-16.hidden.my-0.z-20.top-2.fixed
 www.justchill.tv##.bg-black.w-full.h-full.z-0.absolute
