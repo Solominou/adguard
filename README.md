@@ -1,6 +1,7 @@
 ! 2023-05-02 https://yifytv.co
 yifytv.co##.text-home-main
-
+on.akwam.*##.mb-5.widget-style-1.widget.widget-3
+on.akwam.*##div.widget-style-1.widget.widget-4:nth-of-type(7)
 ! 2023-05-02 https://movie-web.app
 movie-web.app##.text-bink-600.py-2.px-4.bg-opacity-50.bg-bink-300.rounded-full.space-x-2.items-center.flex
 
