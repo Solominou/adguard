@@ -12,8 +12,7 @@ flixtor.to##li.nav-item:nth-of-type(5)
 flixtor.to##.link.navbar-brand
 flixtor.to##h2.header2.text-info.pt-4.text-center
 
-! 2023-05-02 https://akwam.in
-||img.akw.onl/uploads/USfXq.webp$image
+
 ! 2023-05-01 https://www.justchill.tv
 www.justchill.tv##.xl\:top-6.md\:max-h-24.md\:block.px-6.w-full.max-h-16.hidden.my-0.z-20.top-2.fixed
 www.justchill.tv##.bg-black.w-full.h-full.z-0.absolute
