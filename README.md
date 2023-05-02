@@ -1,6 +1,72 @@
 ! 2023-05-02 https://yifytv.co
 yifytv.co##.text-home-main
 
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > div.d-flex:last-child
+akwam.*##.selected
+akwam.*##[href="#tab-3"]
+||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##.container > .text-left
+akwam.*##[href="#tab-3"]
+akwam.*##[href="#tab-4"]
+akwam.*##.selected
+||akwam.*/style/assets/images/icn-w-header.png$image
+akwam.*##[href="#tab-3"]
+akwam.*##.selected
+akwam.*##.mb-4.border-0.widget-header
+akwam.*##.container > .text-left
+on.akwam.*##.mb-5.widget-style-1.widget.widget-3
+on.akwam.*##div.widget-style-1.widget.widget-4:nth-of-type(7)
+! 2023-05-02 https://movie-web.app
+movie-web.app##.text-bink-600.py-2.px-4.bg-opacity-50.bg-bink-300.rounded-full.space-x-2.items-center.flex
+! 2022-10-31 https://on2.akwam.cz
+akwam.*##[href="#tab-4"]
+||on2.akwam.cz/style/assets/images/AKWAM-Notifications.png$image
+akwam.*##.py-4.row
+akwam.*##.py-5.main-footer
+akwam.*##a.akoam-old:nth-child(3)
+akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.container.py-5.my-5:last-child > div.home-site-btn-container.mt-5:first-child
+akwam.*/uploads/G8Kpa.webp$image
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(2)
+akwam.*##div.site-container:nth-child(5) > div.page-home:first-child > div.container.py-5.my-5:last-child > div.widget-2.widget.mb-4:nth-child(2) > div.widget-body.row > div.col-lg-8.mx-auto > form.form.d-flex.no-gutters.mb-20:first-child > div.col.pl-12:first-child > label.m-0:nth-child(2) > span.label:first-child
+
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(10)
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(8)
+akwam.*##div.site-container:nth-child(6) > footer.main-footer.py-5:nth-child(6)
+akwam.*##div.site-container:nth-child(5) > a.akoam-old:nth-child(11)
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > img.header-img:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###tab-5 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.py-4.mb-4:first-child > div.container > h1.font-size-22.font-size-md-38.font-weight-bold.text-white:nth-child(2)
+akwam.*##div.site-container:nth-child(6) > a.akoam-old:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4
+
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > img.header-img:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(4) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###tab-5 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.py-4.mb-4:first-child > div.container > h1.font-size-22.font-size-md-38.font-weight-bold.text-white:nth-child(2)
+akwam.*##div.site-container:nth-child(6) > a.akoam-old:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4
+akwam.*###tab-4 > div.qualities.row.flex-wrap.align-items-center > div.col-lg-6.row > div.col-lg-6.col:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-2.col-md-3.col-sm-4.d-flex.flex-column.px-4.px-sm-0:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.movie-cover.mb-4.without-cover:first-child > div.container:last-child > div.row.py-4 > div.col-lg-7.pr-lg-4.col-md-5.col-sm-8.mb-4.mb-sm-0.px-4.px-sm-0:nth-child(2)
+akwam.*###downloads > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*###downloads > img.header-img:last-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > header.widget-header.border-0.mb-4:nth-child(2) > div.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.pb-4.mb-5:first-child
+akwam.*##div.site-container:nth-child(5) > footer.main-footer.py-5:nth-child(8)
+akwam.*##div.site-container:nth-child(5) > nav.mb-5:nth-child(5)
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(3) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.my-3.text-center.d-sm-none:first-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18 > p:first-child
+akwam.*##div.site-container:nth-child(5) > div.page.page-search:nth-child(6) > div.container:last-child > div.mb-4.font-size-22:first-child > a.highlight.text-warning.mr-3:last-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.widget.widget-style-1.mb-5:nth-child(3) > header.widget-header.border-0.mb-4:first-child > h2.header-title.font-size-18.font-weight-bold.mb-0:first-child > span.header-link.text-white
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.my-3.text-center.d-sm-none:first-child
+akwam.*##div.site-container:nth-child(6) > div.page-movie.page-show-download:nth-child(4) > div.container:last-child > div.text-left:nth-child(5)
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18
+akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > h2:first-child > div.text-white.font-size-18 > p:first-child
+
 
 ! 2023-05-02 https://flixtor.to
 flixtor.to##.header1.text-info.pt-4.text-center
