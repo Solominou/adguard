@@ -77,7 +77,9 @@ flixtor.to##.link.navbar-brand
 flixtor.to##h2.header2.text-info.pt-4.text-center
 
 
-
+! 2023-05-03 https://www.justchill.tv
+||www.justchill.tv/_next/static/media/justchill.9b9cc199.svg$image
+www.justchill.tv##.md\:text-base.text-primary-500.leading-6.font-medium.scaleable
 www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(3)
 www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(4)
 www.justchill.tv##div.md\:px-12.px-6.max-w-screen-xl.w-full.mx-auto:nth-of-type(5)
