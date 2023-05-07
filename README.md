@@ -1,6 +1,8 @@
 ! 2023-05-02 https://yifytv.co
 yifytv.co##.text-home-main
-
+! 2023-05-07 https://tv.cima4u4.site
+tv.cima4u4.site##.DownloadServers
+tv.cima4u4.*##.DownloadServers
 akwam.*##div.site-container:nth-child(5) > div.page.page-movie.page-film:nth-child(9) > div.container:last-child > div.widget.widget-style-1.mb-5:first-child > div.widget-body:last-child > div.d-flex:last-child
 akwam.*##.selected
 akwam.*##[href="#tab-3"]
