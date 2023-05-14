@@ -1,3 +1,17 @@
+! 2023-05-14 https://we.cimalight.vip
+we.cimalight.vip###tme_message
+we.cimalight.vip###tme
+we.cimalight.vip##.mastcontent-wrap > div > [href]
+we.cimalight.vip##.mastcontent-wrap > div:nth-of-type(2)
+we.cimalight.vip##.WatchList > p
+we.cimalight.vip##.container > .pm-ads-banner
+||i.imgur.com/sQkX211.png$image
+we.cimalight.vip##.hidden-mb > .now_ep
+||we.cimalight.vip/uploads/custom-logo.png$image
+we.cimalight.vip##.navbar-pmuser.list-inline
+
+! 2023-05-14 https://ty.brstej.com
+ty.brstej.com##.breadcrumbNav
 ! 2023-05-02 https://yifytv.co
 yifytv.co##.text-home-main
 ! 2023-05-07 https://tv.cima4u4.site
