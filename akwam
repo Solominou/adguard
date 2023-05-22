@@ -1,5 +1,5 @@
 {
-"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/103708420",
+"url": "https://raw.githubusercontent.com/Solominou/adguard/main/akwam",
 "assets_url": "https://api.github.com/repos/recloudstream/cloudstream/releases/103708420/assets",
 "upload_url": "https://uploads.github.com/repos/recloudstream/cloudstream/releases/103708420/assets{?name,label}",
 "html_url": "https://github.com/recloudstream/cloudstream/releases/tag/pre-release",
@@ -34,10 +34,10 @@
 "published_at": "2023-05-20T23:52:31Z",
 "assets": [
 {
-"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/assets/109072744",
+"url": "https://raw.githubusercontent.com/Solominou/adguard/main/akwam",
 "id": 109072744,
 "node_id": "RA_kwDOHxC4c84GgFFo",
-"name": "app-prerelease-release.apk",
+"name": "SoloFlix.apk",
 "label": "",
 "uploader": {
 "login": "github-actions[bot]",
