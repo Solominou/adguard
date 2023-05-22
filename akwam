@@ -1,25 +1,154 @@
-@@http://akwam.to$document
-vs-mirror/vidstream.to/img/vidstream.png
-ww.egybest.bid/vs-mirror/vidstream.to/img/vidstream.png
-ww.egybest.bid###watch_dl > div.msg_box.warn.table.full:nth-child(3)
-ww.egybest.bid###watch_dl > table.dls_table.btns.full.mgb:nth-child(4)
-ww.egybest.bid###mainLoad > div:first-child > div.mbox:nth-child(6)
-ww.egybest.bid##div.shareb.sharet.ar:nth-child(5)
-ww.egybest.bid###main > h1:first-child
-ww.egybest.bid###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
-ww.egybest.bid###left
-ww.egybest.bid###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2) > div.td.vat:last-child > table.movieTable.full
-ww.egybest.bid###mainLoad > div:first-child > div.full_movie.table.full.mgb:nth-child(2)
-ww.egybest.bid###mainLoad > div:first-child > div.mbox:nth-child(3)
-ww.egybest.bid###mainLoad > div:first-child > div.mbox:nth-child(4)
-ww.egybest.bid###mainLoad > div:first-child > div.mbox:nth-child(5)
-ww.egybest.bid###mainLoad > div:first-child > div.mbox:last-child
-ww.egybest.bid###watch_dl > table.dls_table.btns.full.mgb:nth-child(3)
-ww.egybest.bid###mainLoad > div.full_movie.table.full.mgb:nth-child(2)
-ww.egybest.bid###watch_dl > div.mbox:last-child
-egybest.bid###mainLoad > div:first-child > div.mbox:nth-child(6)
-egybest.bid###main > h1:first-child
-egybest.bid###head > div.table.viewport.vam.full > div.td.viewport_right.vam.tam:first-child
-egybest.bid###left
-ww.egybest.bid##.ar.sharer
-@@||on.akwam.cz/*^$document
+{
+"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/103708420",
+"assets_url": "https://api.github.com/repos/recloudstream/cloudstream/releases/103708420/assets",
+"upload_url": "https://uploads.github.com/repos/recloudstream/cloudstream/releases/103708420/assets{?name,label}",
+"html_url": "https://github.com/recloudstream/cloudstream/releases/tag/pre-release",
+"id": 103708420,
+"author": {
+"login": "github-actions[bot]",
+"id": 41898282,
+"node_id": "MDM6Qm90NDE4OTgyODI=",
+"avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/github-actions%5Bbot%5D",
+"html_url": "https://github.com/apps/github-actions",
+"followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+"following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+"gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+"organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+"repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+"events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+"received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+"type": "Bot",
+"site_admin": false
+},
+"node_id": "RE_kwDOHxC4c84GLncE",
+"tag_name": "pre-release",
+"target_commitish": "master",
+"name": "Pre-release Build",
+"draft": false,
+"prerelease": true,
+"created_at": "2023-05-20T23:37:17Z",
+"published_at": "2023-05-20T23:52:31Z",
+"assets": [
+{
+"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/assets/109072744",
+"id": 109072744,
+"node_id": "RA_kwDOHxC4c84GgFFo",
+"name": "app-prerelease-release.apk",
+"label": "",
+"uploader": {
+"login": "github-actions[bot]",
+"id": 41898282,
+"node_id": "MDM6Qm90NDE4OTgyODI=",
+"avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/github-actions%5Bbot%5D",
+"html_url": "https://github.com/apps/github-actions",
+"followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+"following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+"gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+"organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+"repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+"events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+"received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+"type": "Bot",
+"site_admin": false
+},
+"content_type": "application/vnd.android.package-archive",
+"state": "uploaded",
+"size": 24545577,
+"download_count": 5277,
+"created_at": "2023-05-20T23:52:31Z",
+"updated_at": "2023-05-20T23:52:33Z",
+"browser_download_url": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk"
+},
+{
+"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/assets/109072748",
+"id": 109072748,
+"node_id": "RA_kwDOHxC4c84GgFFs",
+"name": "app-sources.jar",
+"label": "",
+"uploader": {
+"login": "github-actions[bot]",
+"id": 41898282,
+"node_id": "MDM6Qm90NDE4OTgyODI=",
+"avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/github-actions%5Bbot%5D",
+"html_url": "https://github.com/apps/github-actions",
+"followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+"following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+"gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+"organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+"repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+"events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+"received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+"type": "Bot",
+"site_admin": false
+},
+"content_type": "application/octet-stream",
+"state": "uploaded",
+"size": 492192,
+"download_count": 10,
+"created_at": "2023-05-20T23:52:33Z",
+"updated_at": "2023-05-20T23:52:34Z",
+"browser_download_url": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-sources.jar"
+},
+{
+"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/assets/109072749",
+"id": 109072749,
+"node_id": "RA_kwDOHxC4c84GgFFt",
+"name": "classes.jar",
+"label": "",
+"uploader": {
+"login": "github-actions[bot]",
+"id": 41898282,
+"node_id": "MDM6Qm90NDE4OTgyODI=",
+"avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/github-actions%5Bbot%5D",
+"html_url": "https://github.com/apps/github-actions",
+"followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+"following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+"gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+"organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+"repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+"events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+"received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+"type": "Bot",
+"site_admin": false
+},
+"content_type": "application/octet-stream",
+"state": "uploaded",
+"size": 11700477,
+"download_count": 21,
+"created_at": "2023-05-20T23:52:34Z",
+"updated_at": "2023-05-20T23:52:34Z",
+"browser_download_url": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/classes.jar"
+}
+],
+"tarball_url": "https://api.github.com/repos/recloudstream/cloudstream/tarball/pre-release",
+"zipball_url": "https://api.github.com/repos/recloudstream/cloudstream/zipball/pre-release",
+"body": "## Commits\n- 0d431fd: fixed Stramsb & Voe (#470) (Hexated) [#470](https://github.com/recloudstream/cloudstream/pull/470)",
+"reactions": {
+"url": "https://api.github.com/repos/recloudstream/cloudstream/releases/103708420/reactions",
+"total_count": 9,
+"+1": 4,
+"-1": 0,
+"laugh": 0,
+"hooray": 0,
+"confused": 0,
+"heart": 5,
+"rocket": 0,
+"eyes": 0
+}
+}
