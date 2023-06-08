@@ -148,38 +148,21 @@ https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8287488eecee
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Shahid",Comedy
 https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
 
-https://tv.ipslow.com/tv201_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=84c20da079f65f39ea9ce9c2bb55617a976b8840-60fc8a35ad15d082d35c714f421571ac-1686220915-1686210115
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV
 
-https://tv.ipslow.com/tv201_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=e7ecddd05c348f3d8c156a600ef86c32f1033db8-ed70c6887d8b1742d9f544159b772f29-1686217700-1686206900
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Shahid",Masrah
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LB2
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
 
-https://tv.ipslow.com/tv201_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token=ceac52d1399ea4e9e4ed348ae38657f8a3a968ca-835e3d7418e7b90879234c356f084beb-1686228363-1686217563
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Shahid",Ma Al Zaraq
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
+https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
 
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Shahid",Maqaleb
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
+https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
 
-https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",T Wuffy
 
-http://54.167.175.109/index.php/https://mysat-live.ercdn.net/lebanontv/lebanontv_720p.m3u8?st=-NjFUigTpdShj2Oyun9uiw&e=1686260175
 
-#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV Wuffy
-
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
-
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
-
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
