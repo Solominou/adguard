@@ -1,0 +1,137 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV 1 Wuffy
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV 2
+https://tv.ipslow.com/tv201_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=f533c1ca71df20f86d8cd52ed6de2ee3120fb9b7-287488eecee1b1ad01e59c72912c5d59-1686218161-1686207361
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
+https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=3l5tLir3Au_KlbHscv5BQQ&e=1686253490
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
+https://tv.ipslow.com/tv201_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=84c20da079f65f39ea9ce9c2bb55617a976b8840-60fc8a35ad15d082d35c714f421571ac-1686220915-1686210115
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV
+https://tv.ipslow.com/tv201_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=e7ecddd05c348f3d8c156a600ef86c32f1033db8-ed70c6887d8b1742d9f544159b772f29-1686217700-1686206900
+#EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LB2
+https://tv.ipslow.com/tv201_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token=ceac52d1399ea4e9e4ed348ae38657f8a3a968ca-835e3d7418e7b90879234c356f084beb-1686228363-1686217563
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
+https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",T Wuffy
+http://54.167.175.109/index.php/https://mysat-live.ercdn.net/lebanontv/lebanontv_720p.m3u8?st=-NjFUigTpdShj2Oyun9uiw&e=1686260175
+
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV Wuffy
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Kids",Space Toon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg" group-title="Kids",Gulli
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="Kids",Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="Kids",MBC3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="Kids",Caillou
+https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg?v=6" group-title="Kids",Rotana Kids
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.imgur.com/xvJw3qt.png" group-title="Kids",Sat7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/afarin_tv.jpg?v=6" group-title="Kids",Old Toon
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Teletubbies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Majid
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicklelodeon
+https://e1.thetvapp.to/hls/NickelodeonEast.m3u8?token=x6awbXX8M3id3dkHW72hig&expires=1686266505
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Cartoon Network
+https://e1.thetvapp.to/hls/CartoonNetworkEast.m3u8?token=SZziqJJ4LMEcwUNU_vleGA&expires=1686266746
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyChannelEast
+https://e1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=Mw3TjSldnj3xiALxLkQWXQ&expires=1686266939
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyJuniorEast
+https://e1.thetvapp.to/hls/DisneyJuniorEast.m3u8?token=x_dfgeEvS8Yh8IFmsCUAXw&expires=1686266985
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyXDEast
+https://e1.thetvapp.to/hls/DisneyXDEast.m3u8?token=B4yF7-YvWqOELR0ZQLII0w&expires=1686267021
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",NickJrEast
+https://e1.thetvapp.to/hls/NickJrEast.m3u8?token=sdCFWI-BTeCzlZDbjqDQGw&expires=1686267094
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicktoons
+https://e1.thetvapp.to/hls/NicktoonsEast.m3u8?token=ZeVRprCB7aANc5ryNptiTw&expires=1686267131
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",TeenNick
+https://e1.thetvapp.to/hls/TeenNickEast.m3u8?token=PvIfXppJrXC2Fv1z4ZBmJw&expires=1686267164
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",UniversalKids
+https://e1.thetvapp.to/hls/UniversalKidsEast.m3u8?token=AUSMvHN7q_nSEYO_J3k30Q&expires=1686267230
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5-2
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA USA
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA +" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC",MBC DRAMA +
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC",MBC ACTION
+https://tv.ipslow.com/tv201_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=4e824a2dbd217e99da1671d9e3f08f916d2cd1a7-770fe69c75ad205fa01a3de8e63f4621-1686213585-1686202785
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/500px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX
+https://tv.ipslow.com/tv201_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=ed8dc9169a9a14c332e4a5f534700ce55f86ae08-aff782c50fea006186f985d06e6ad502-1686214224-1686203424
+#EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="https://i.ibb.co/kGw5pT9/mbcpersia.jpg" group-title="MBC",MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC",MBC BOLLYWOOD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="MBC",MBC VARIETY
+https://tv.ipslow.com/tv201_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=09cf5803fa4e5ea4a168f81904f15e97b0870b39-3d4c70e9eebab0aef94e03786af6350b-1686214674-1686203874
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="MBC",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR US
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="MBC",MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
+https://tv.ipslow.com/tv201_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=f573754a4ec4cc8ac4f7a6a16daa1cc3f6e8e064-13aa620e14fe5037dfe0ceaf7a83b693-1686212815-1686202015
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3E
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3-2
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4-2
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
