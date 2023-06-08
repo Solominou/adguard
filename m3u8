@@ -92,7 +92,20 @@ https://e1.thetvapp.to/hls/TeenNickEast.m3u8?token=PvIfXppJrXC2Fv1z4ZBmJw&expire
 https://e1.thetvapp.to/hls/UniversalKidsEast.m3u8?token=AUSMvHN7q_nSEYO_J3k30Q&expires=1686267230
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
+https://tv.ipslow.com/tv201_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=f573754a4ec4cc8ac4f7a6a16daa1cc3f6e8e064-13aa620e14fe5037dfe0ceaf7a83b693-1686212815-1686202015
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3E
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3-2
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4-2
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5
 https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5-2
@@ -121,17 +134,4 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="MBC",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
-https://tv.ipslow.com/tv201_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=f573754a4ec4cc8ac4f7a6a16daa1cc3f6e8e064-13aa620e14fe5037dfe0ceaf7a83b693-1686212815-1686202015
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3E
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3-2
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4-2
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
