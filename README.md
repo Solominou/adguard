@@ -1,5 +1,6 @@
 ! 2023-06-09 https://thetvapp.to
 thetvapp.to##.pt-3.col-lg-4
+thetvapp.to##.text-bg-dark.p-3
 ! 2023-05-14 https://we.cimalight.vip
 we.cimalight.vip###tme_message
 we.cimalight.vip###tme
