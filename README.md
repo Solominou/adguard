@@ -1,6 +1,19 @@
 ! 2023-06-09 https://thetvapp.to
 thetvapp.to##.pt-3.col-lg-4
 thetvapp.to##.text-bg-dark.p-3
+! 2023-06-09 https://tv.cima4u7.hair
+tv.cima4u.*##.DownloadServers
+tv.cima4u1.*##.DownloadServers
+tv.cima4u2.*##.DownloadServers
+tv.cima4u3.*##.DownloadServers
+tv.cima4u4.*##.DownloadServers
+tv.cima4u5.*##.DownloadServers
+tv.cima4u6.*##.DownloadServers
+tv.cima4u7.*##.DownloadServers
+tv.cima4u8.*##.DownloadServers
+tv.cima4u9.*##.DownloadServers
+
+
 ! 2023-05-14 https://we.cimalight.vip
 we.cimalight.vip###tme_message
 we.cimalight.vip###tme
