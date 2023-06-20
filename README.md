@@ -1,3 +1,20 @@
+! 2023-06-20 https://lookmovie2.to
+lookmovie2.to##.social-share
+||lookmovie2.to/images/telegram.webp$image
+
+! 2023-06-20 https://dignly.monster
+dignly.monster##.social-share
+||dignly.monster/images/telegram.webp$image
+
+! 2023-06-20 https://lookmovie2.to
+lookmovie2.to##.col-xs-12.col-sm-12.col-md-8 > div > [href]
+
+! 2023-06-20 https://dignly.monster
+dignly.monster##[href="https://ak.deghooda.net/4/6009582"]
+
+! 2023-06-20 https://lookmovie2.to
+lookmovie2.to##.ht-footer
+lookmovie2.to##[href="https://ak.deghooda.net/4/6009582"]
 ! 2023-06-09 https://thetvapp.to
 thetvapp.to##.pt-3.col-lg-4
 thetvapp.to##.text-bg-dark.p-3
