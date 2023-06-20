@@ -3,7 +3,8 @@ seez.su##.home
 seez.su##section:nth-of-type(1) > .main-blogs
 ||i.ibb.co/LvNXhbF/avatar.webp$image
 seez.su##.main-blog1
-seez.su##.is-modal-active.modal--fullscreen.modal > .modal__dialog > .modal__content > .modal__back > .just-donate! 2023-06-20 https://lookmovie2.to
+seez.su##.is-modal-active.modal--fullscreen.modal > .modal__dialog > .modal__content > .modal__back > .just-donate! 2023-06-20
+seez.su##div.side-wrapper:nth-of-type(3)https://lookmovie2.to
 lookmovie2.to##.social-share
 ||lookmovie2.to/images/telegram.webp$image
 
