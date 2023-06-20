@@ -1,3 +1,8 @@
+! 2023-06-20 https://seez.su
+seez.su##.home
+seez.su##section:nth-of-type(1) > .main-blogs
+||i.ibb.co/LvNXhbF/avatar.webp$image
+seez.su##.main-blog1
 ! 2023-06-20 https://lookmovie2.to
 lookmovie2.to##.social-share
 ||lookmovie2.to/images/telegram.webp$image
