@@ -7,8 +7,10 @@ seez.su##.is-modal-active.modal--fullscreen.modal > .modal__dialog > .modal__con
 seez.su##div.side-wrapper:nth-of-type(3)https://lookmovie2.to
 lookmovie2.to##.social-share
 ||lookmovie2.to/images/telegram.webp$image
-
-! 2023-06-20 https://dignly.monster
+! 2023-06-21 https://lookmovie2.to
+lookmovie2.to##.menu-right.flex-child-menu.navbar-nav.nav > li
+||lookmovie2.to/images/logo1.webp$image
+lookmovie2.to##div.ipad-width.row:nth-of-type(1) > .col-sm-12! 2023-06-20 https://dignly.monster
 dignly.monster##.social-share
 ||dignly.monster/images/telegram.webp$image
 
