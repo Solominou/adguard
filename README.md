@@ -16,8 +16,8 @@ dignly.monster##.social-share
 ! 2023-06-26 https://www.elahmad.com
 ||www.elahmad.com/images/add_elahmad.png$image! 2023-06-20 https://lookmovie2.to
 lookmovie2.to##.col-xs-12.col-sm-12.col-md-8 > div > [href]
-
-! 2023-06-20 https://dignly.monster
+! 2023-06-26 http://www.elahmad.com
+www.elahmad.com##[href="https://t.me/elahmadcom"]! 2023-06-20 https://dignly.monster
 dignly.monster##[href="https://ak.deghooda.net/4/6009582"]
 
 ! 2023-06-20 https://lookmovie2.to
