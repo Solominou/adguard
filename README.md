@@ -13,8 +13,8 @@ lookmovie2.to##.menu-right.flex-child-menu.navbar-nav.nav > li
 lookmovie2.to##div.ipad-width.row:nth-of-type(1) > .col-sm-12! 2023-06-20 https://dignly.monster
 dignly.monster##.social-share
 ||dignly.monster/images/telegram.webp$image
-
-! 2023-06-20 https://lookmovie2.to
+! 2023-06-26 https://www.elahmad.com
+||www.elahmad.com/images/add_elahmad.png$image! 2023-06-20 https://lookmovie2.to
 lookmovie2.to##.col-xs-12.col-sm-12.col-md-8 > div > [href]
 
 ! 2023-06-20 https://dignly.monster
