@@ -1,4 +1,8 @@
-! 2023-06-20 https://seez.su
+! 2023-06-26 http://www.elahmad.com
+www.elahmad.com##[href="https://t.me/elahmadcom"]
+www.elahmad.com##center
+www.elahmad.com##.RACKWrapper
+||www.elahmad.com/css/background.gif$image! 2023-06-20 https://seez.su
 seez.su##.home
 seez.su##section:nth-of-type(1) > .main-blogs
 ||i.ibb.co/LvNXhbF/avatar.webp$image
