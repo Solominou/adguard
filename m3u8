@@ -117,9 +117,9 @@ https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/in
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA +" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC",MBC DRAMA +
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC",MBC ACTION
-https://tv.ipslow.com/tv201_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=4e824a2dbd217e99da1671d9e3f08f916d2cd1a7-770fe69c75ad205fa01a3de8e63f4621-1686213585-1686202785
+http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/500px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX
-https://tv.ipslow.com/tv201_www.elahmad.com_mbc_max/tracks-v1a1/mono.m3u8?token=ed8dc9169a9a14c332e4a5f534700ce55f86ae08-aff782c50fea006186f985d06e6ad502-1686214224-1686203424
+http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="https://i.ibb.co/kGw5pT9/mbcpersia.jpg" group-title="MBC",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC",MBC BOLLYWOOD
