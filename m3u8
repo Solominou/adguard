@@ -6,11 +6,11 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV 2
 https://tv.ipslow.com/tv201_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=f533c1ca71df20f86d8cd52ed6de2ee3120fb9b7-287488eecee1b1ad01e59c72912c5d59-1686218161-1686207361
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
-https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/206
+https://airmaxtv.online:25463/airmcxtpr909/hJwND6ae9fsa/271
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
 https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/207
 #EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV
-https://tv.ipslow.com/tv201_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=e7ecddd05c348f3d8c156a600ef86c32f1033db8-ed70c6887d8b1742d9f544159b772f29-1686217700-1686206900
+https://airmaxtv.online:25463/airmcxtpr909/hJwND6ae9fsa/274
 #EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LB2
 https://tv.ipslow.com/tv201_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token=ceac52d1399ea4e9e4ed348ae38657f8a3a968ca-835e3d7418e7b90879234c356f084beb-1686228363-1686217563
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
