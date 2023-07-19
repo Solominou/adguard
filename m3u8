@@ -137,31 +137,10 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Shahid",Al-Ostora
-
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBlCsVd_x3m0Gydo8mvDhLDB0cdFWxv0ysIJvW4SA1g&s" group-title="Shahid",Al-Ostora
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Shahid",Ma Al Zaraq
 
-https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8287488eecee1b1ad01e59c72912c5d59-1686218161-1686207361
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Shahid",Comedy
-https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Shahid",Masrah
-
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Shahid",Ma Al Zaraq
-
-https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Shahid",Maqaleb
-
-https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="beIN", Premium 1
 https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/13
