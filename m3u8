@@ -137,14 +137,62 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBlCsVd_x3m0Gydo8mvDhLDB0cdFWxv0ysIJvW4SA1g&s" group-title="Shahid",Al-Ostora
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Movies
+https://cdxaws-ak.akamaized.net/v1/channel/movies/index_hls/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Action
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Thriller
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Ostoura
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBlCsVd_x3m0Gydo8mvDhLDB0cdFWxv0ysIJvW4SA1g&s" group-title="Shahid",Al-Ostora
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Azraq
+https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBlCsVd_x3m0Gydo8mvDhLDB0cdFWxv0ysIJvW4SA1g&s" group-title="Shahid",Al-Ostora
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Comedy
+https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Masrah
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Zaeem
+https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Maqaleb
+https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Turki
+https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al_Oula
+https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Chef
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Top-Chef/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Tarab
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Tarab-/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Korean
+https://cdxaws-ak.akamaized.net/v1/channel/Korean-/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Bollywood
+https://cdxaws-ak.akamaized.net/v1/channel/Bollywood_/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Aflam
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/e96c7e9f639a49d089616170ef1821a8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", F1
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/789c88ad335e4547ad14a84c19a5ba31/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", WWE
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Masr
+https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="beIN", Premium 1
 https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/13
