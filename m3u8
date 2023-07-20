@@ -76,7 +76,7 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicklelodeon
-https://e1.thetvapp.to/hls/NickelodeonEast.m3u8?token=x6awbXX8M3id3dkHW72hig&expires=1686266505
+https://thetvapp.to/tv/nick-jr-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Cartoon Network
 https://e1.thetvapp.to/hls/CartoonNetworkEast.m3u8?token=SZziqJJ4LMEcwUNU_vleGA&expires=1686266746
@@ -92,7 +92,7 @@ https://e1.thetvapp.to/hls/DisneyJuniorEast.m3u8?token=x_dfgeEvS8Yh8IFmsCUAXw&ex
 https://e1.thetvapp.to/hls/DisneyXDEast.m3u8?token=B4yF7-YvWqOELR0ZQLII0w&expires=1686267021
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",NickJrEast
-https://e1.thetvapp.to/hls/NickJrEast.m3u8?token=sdCFWI-BTeCzlZDbjqDQGw&expires=1686267094
+https://thetvapp.to/tv/nick-jr-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicktoons
 https://e1.thetvapp.to/hls/NicktoonsEast.m3u8?token=ZeVRprCB7aANc5ryNptiTw&expires=1686267131
