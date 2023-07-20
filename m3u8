@@ -104,8 +104,10 @@ https://thetvapp.to/tv/universal-kids-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
-https://tv.ipslow.com/tv201_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=f573754a4ec4cc8ac4f7a6a16daa1cc3f6e8e064-13aa620e14fe5037dfe0ceaf7a83b693-1686212815-1686202015
+http://www.elahmad.com/tv/mobiletv/watch.php?id=a0cs
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3E
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3
