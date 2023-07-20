@@ -25,6 +25,9 @@ http://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
 http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="Lebanon",Charity TV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn
 
