@@ -154,9 +154,14 @@ https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FRanda%2FAlasly_logo0%2Foriginal%2FAlasly_logo0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",أصلي
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Movies
-https://cdxaws-ak.akamaized.net/v1/channel/movies/index_hls/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_Ramadan_2023%2Foriginal%2Flogos_Ramadan_2023.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رمضان ٢٠٢٣
+https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmovies_logo%2Foriginal%2Fmovies_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_movies_action%2Foriginal%2Flogo_movies_action.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Action
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
