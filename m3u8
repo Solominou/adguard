@@ -2,22 +2,13 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV 1
-https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/172
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV 2
-https://www.sports-stream.click/chtv/ch41.php
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
-https://www.elahmad.com/tv/watchtv.php?id=lbc
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
 https://www.elahmad.com/tv/watchtv.php?id=lbc
 
 #EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV
 http://www.elahmad.com/tv/watchtv.php?id=aljadeed_new
-
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED 2
-http://www.showfha.online/2018/04/newtv-from-lebanon.html
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LB2
 https://tv.ipslow.com/tv201_www.elahmad.com_lb2/tracks-v1a1/mono.m3u8?token=ceac52d1399ea4e9e4ed348ae38657f8a3a968ca-835e3d7418e7b90879234c356f084beb-1686228363-1686217563
