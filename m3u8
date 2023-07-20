@@ -163,13 +163,13 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeer_ar1
 
 #EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeeradoc1
 
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljamuba_ar1
 
 #EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT عربي
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
