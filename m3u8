@@ -658,6 +658,65 @@ https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Solo", Premium 1
+http://warkop.cf/89/bein/08.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN Solo", Premium 2
+http://warkop.cf/89/bein/09.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN Solo", Premium 3
+http://warkop.cf/89/bein/10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN Solo", beIN 1
+http://warkop.cf/89/bein/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN Solo", beIN 2
+http://warkop.cf/89/bein/02.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 3
+http://warkop.cf/89/bein/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN Solo", beIN 4
+http://warkop.cf/89/bein/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN Solo", beIN 5
+http://warkop.cf/89/bein/05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN Solo", beIN 6
+http://warkop.cf/89/bein/06.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Olympic
+http://warkop.cf/89/bein/07.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
+http://warkop.cf/89/bein/11.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
+http://warkop.cf/89/bein/12.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
+http://warkop.cf/89/bein/13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 1 Fr
+http://warkop.cf/89/bein/14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 2 Fr
+http://warkop.cf/89/bein/15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 3 Fr
+http://warkop.cf/89/bein/16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Xtra 1
+http://warkop.cf/89/bein/17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Xtra 2
+http://warkop.cf/89/bein/18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN English
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
+
 
 
 
