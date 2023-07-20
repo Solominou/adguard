@@ -28,10 +28,10 @@ http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn
 
-#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",T Wuffy
+#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=teleliban
 
-#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV Wuffy
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
@@ -76,33 +76,31 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicklelodeon
-https://thetvapp.to/tv/nick-jr-live-stream/
+https://thetvapp.to/tv/nickelodeon-east-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Cartoon Network
-https://e1.thetvapp.to/hls/CartoonNetworkEast.m3u8?token=SZziqJJ4LMEcwUNU_vleGA&expires=1686266746
+https://thetvapp.to/tv/cartoon-network-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyChannelEast
-https://e1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=Mw3TjSldnj3xiALxLkQWXQ&expires=1686266939
+https://thetvapp.to/tv/disney-channel-east-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyJuniorEast
-https://e1.thetvapp.to/hls/DisneyJuniorEast.m3u8?token=x_dfgeEvS8Yh8IFmsCUAXw&expires=1686266985
-
+https://thetvapp.to/tv/disney-junior-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyXDEast
-https://e1.thetvapp.to/hls/DisneyXDEast.m3u8?token=B4yF7-YvWqOELR0ZQLII0w&expires=1686267021
+https://thetvapp.to/tv/disney-xd-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",NickJrEast
 https://thetvapp.to/tv/nick-jr-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicktoons
-https://e1.thetvapp.to/hls/NicktoonsEast.m3u8?token=ZeVRprCB7aANc5ryNptiTw&expires=1686267131
+https://thetvapp.to/tv/nicktoons-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",TeenNick
-https://e1.thetvapp.to/hls/TeenNickEast.m3u8?token=PvIfXppJrXC2Fv1z4ZBmJw&expires=1686267164
+https://thetvapp.to/tv/teennick-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",UniversalKids
-https://e1.thetvapp.to/hls/UniversalKidsEast.m3u8?token=AUSMvHN7q_nSEYO_J3k30Q&expires=1686267230
-
+https://thetvapp.to/tv/universal-kids-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
