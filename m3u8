@@ -241,32 +241,36 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Majid
 https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicklelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids",Nicklelodeon
 https://thetvapp.to/tv/nickelodeon-east-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwnlirxOGQwxdQ2TXU7D1tDnAN4ws-7TzeQBpvl_xQhzRezsxfYcgGGLp&s" group-title="Kids",Cartoon Network
 https://thetvapp.to/tv/cartoon-network-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyChannelEast
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yvaBpiBgHrMyI8hhjwTOKPM_yQPfVEFd_iaLFjubKFwfAMAakw57wI6A&s" group-title="Kids",DisneyChannelEast
 https://thetvapp.to/tv/disney-channel-east-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyJuniorEast
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_khJ8MM735s5NnlulxUY6vABFlKlJ9KKJq43ZgfZJy7WxSUXBkAbpbvSk&s" group-title="Kids",DisneyJuniorEast
 https://thetvapp.to/tv/disney-junior-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",DisneyXDEast
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuhggPe6_tLGSQoqX1DZKuRB_wfUFluEYfLrE28cLzOQjn_MSzZX26Vs&s" group-title="Kids",DisneyXDEast
 https://thetvapp.to/tv/disney-xd-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",NickJrEast
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0Dja22pWvSYidGWvK-j8NU4-AHhMfmiScGog4C2a7sBryxqAowex-Q&s" group-title="Kids",NickJrEast
 https://thetvapp.to/tv/nick-jr-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="Kids",Nicktoons
 https://thetvapp.to/tv/nicktoons-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",TeenNick
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wlzzblrMSqVvgWo__pIacedgkKXI6ed9X308RIJLTrO1xD4bc80nNWI&s" group-title="Kids",TeenNick
 https://thetvapp.to/tv/teennick-live-stream/
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",UniversalKids
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",UniversalKids
 https://thetvapp.to/tv/universal-kids-live-stream/
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
