@@ -154,38 +154,55 @@ https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Crime
+https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmovies_logo%2Foriginal%2Fmovies_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_movies_action%2Foriginal%2Flogo_movies_action.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Action
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_movies_thriller%2Foriginal%2Flogos_movies_thriller.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Thriller
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FRanda%2FAlasly_logo0%2Foriginal%2FAlasly_logo0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",أصلي
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_Ramadan_2023%2Foriginal%2Flogos_Ramadan_2023.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رمضان ٢٠٢٣
 https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmovies_logo%2Foriginal%2Fmovies_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Movies
-https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_movies_action%2Foriginal%2Flogo_movies_action.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Action
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_movies_thriller%2Foriginal%2Flogos_movies_thriller.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Thriller
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Ostoura
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fastora%2Foriginal%2Fastora.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid", أسطورة
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Azraq
-https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8
+https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Comedy
-https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_Royaa%2Foriginal%2Flogo_Royaa.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رؤيا
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Masrah
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="hhttps://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam-Comedy%2Foriginal%2FAflam-Comedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي أفلام
+https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Zaeem
-https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fcomedy%2Foriginal%2Fcomedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي
+https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Masrah_Masr%2Foriginal%2Flogo_Masrah_Masr.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", مسرح مصر
+https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Masr/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmasr7yat%2Foriginal%2Fmasr7yat.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",مسرح
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fzaeem0%2Foriginal%2Fzaeem0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",الزعيم
+https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Maqaleb
 https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Just_for_Laughs%2Foriginal%2Flogo_Just_for_Laughs.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Gags
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Turki
 https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
@@ -195,6 +212,9 @@ https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Chef
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Top-Chef/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2021%2FAbd%2FJan%2Fm6-images%2Fm6-international-logo%2Foriginal%2Fm6-international-logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",M6
+https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Tarab
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Tarab-/index_hls.m3u8
