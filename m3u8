@@ -46,7 +46,34 @@ https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Religious",NBN
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Music",Rotana Khalijia (1080p)
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/YaQcStz.png" group-title="Music",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Religious", Charity
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Religious",Noursat
