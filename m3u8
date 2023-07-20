@@ -29,12 +29,14 @@ http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn
 
 #EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",T Wuffy
-http://54.167.175.109/index.php/https://mysat-live.ercdn.net/lebanontv/lebanontv_720p.m3u8?st=-NjFUigTpdShj2Oyun9uiw&e=1686260175
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=teleliban
 
 #EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV Wuffy
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
