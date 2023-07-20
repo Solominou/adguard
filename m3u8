@@ -479,14 +479,18 @@ https://d.daddylivehd.sx/embed/stream-96.php
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN1 Fr
 https://time4tv.stream/watch1/sports/bein-sports-1.php
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN", beIN 4
-https://d.daddylivehd.sx/embed/stream-94.php
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN", beIN 5
-https://d.daddylivehd.sx/embed/stream-95.php
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN", beIN 6
-https://d.daddylivehd.sx/embed/stream-96.php
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Sports", 4TV
-https://www.sports-stream.click/chtv/ch41.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi
+http://www.elahmad.com/tv/teledunet.php?id=640
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="Documentary", NG Wild
+https://d.daddylivehd.sx/embed/stream-745.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08j-2TBU7QpF6JZKgmHF3MrYAbS51TabjC8zjsUQxDfW1cjdq6Fx_wSjxdw" group-title="Documentary", National Geographic
+https://daddylivehd.sx/embed/stream-328.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1y7ME6_GGevjYps3vxecC0JFd2hTW5cFu-PLppn6mP-TprD70t4gfHg&s" group-title="Documentary", ID
+https://daddylivehd.sx/embed/stream-324.php
