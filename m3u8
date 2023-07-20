@@ -1,6 +1,25 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Leb Solo",MTV
+https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/269
+
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Leb Solo",LBCI
+https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/271
+
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Leb Solo",ALJADEED TV
+https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/274
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Leb Solo",OTV
+https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/270
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Leb Solo",NBN
+https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/273
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
