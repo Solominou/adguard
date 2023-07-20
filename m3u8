@@ -90,11 +90,21 @@ https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://shorturl.at/AEGSX" group-title="Movies",Art Aflam 1
+http://62.182.82.104/ART_AFLAM_1/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF2.jpg" group-title="Movies",Art Aflam 2
+http://62.182.82.104/ART_AFLAM_2/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Z Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix
+http://www.showfha.online/2020/10/mix-hollywood-live.html
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix Arabi
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mixbelaraby
 
 
 
@@ -188,7 +198,11 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_template_FR%2Foriginal%2Flogo_template_FR.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",Euro News Fr
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8?aws.manifestfilter=video_height:144-720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cnn.jpg?v=6" group-title="News",CNN
+https://www.elahmad.com/tv/watchtv.php?id=cnn
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alhurra.jpg?v=6" group-title="News",الحرة
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=alhurra
 
 
 
