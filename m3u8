@@ -830,6 +830,9 @@ https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/220
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi 2
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="Documentary", NG Wild
 https://d.daddylivehd.sx/embed/stream-745.php
 
