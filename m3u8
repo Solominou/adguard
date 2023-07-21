@@ -824,8 +824,8 @@ https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/220
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID
+http://ssitv.ddns.net:8080/channel89/index.m3u8?token=apple
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
