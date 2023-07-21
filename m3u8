@@ -289,8 +289,8 @@ https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
 http://ssitv.ddns.net:8080/channel39/index.m3u8?token=apple
 
-#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
-http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeeradoc1
+#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera Documentary
+http://ssitv.ddns.net:8080/channel40/index.m3u8?token=apple
 
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljamuba_ar1
