@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Leb Solo",MTV .
-https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/269?aws.manifestfilter=video_height:144-720
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Leb Solo",MTV
+https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/269
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Leb Solo",LBCI
 https://airmaxtv.online:25463/airmcxtpr914/PbJTDNwg25uJ/271
