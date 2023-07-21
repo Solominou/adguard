@@ -287,7 +287,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
-https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeer_ar1
+http://ssitv.ddns.net:8080/channel39/index.m3u8?token=apple
 
 #EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljazeeradoc1
@@ -847,6 +847,12 @@ https://daddylivehd.sx/embed/stream-304.php
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentary", Nasa
 https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", Nature
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Porn", XXX 1
