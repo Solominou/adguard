@@ -63,6 +63,166 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
+http://oh2.teledunet.com:8090/tdn/tdn/297
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
+http://oh2.teledunet.com:8090/tdn/tdn/292
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed
+http://oh2.teledunet.com:8090/tdn/tdn/290
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV
+http://oh2.teledunet.com:8090/tdn/tdn/293
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Teledunet",Al-Manar
+http://oh2.teledunet.com:8090/tdn/tdn/302
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Teledunet",TL
+http://oh2.teledunet.com:8090/tdn/tdn/305
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Teledunet",Al-Mayadeen
+http://oh2.teledunet.com:8090/tdn/tdn/301
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN
+http://oh2.teledunet.com:8090/tdn/tdn/299
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Arabica
+http://oh2.teledunet.com:8090/tdn/tdn/296
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Teledunet",One TV
+http://oh2.teledunet.com:8090/tdn/tdn/295
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",LBC Sat
+http://oh2.teledunet.com:8090/tdn/tdn/304
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Hawacom
+http://oh2.teledunet.com:8090/tdn/tdn/306
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN P1
+http://oh2.teledunet.com:8090/tdn/tdn/61
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN P2
+http://oh2.teledunet.com:8090/tdn/tdn/62
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein P3
+http://oh2.teledunet.com:8090/tdn/tdn/63
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 En
+http://oh2.teledunet.com:8090/tdn/tdn/73
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/382
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/383
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/384
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/64
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/65
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/66
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 4 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/67
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 5 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/68
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 6 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/69
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN 7 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/70
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Xtra 1
+http://oh2.teledunet.com:8090/tdn/tdn/71
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Xtra 2
+http://oh2.teledunet.com:8090/tdn/tdn/72
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 En
+http://oh2.teledunet.com:8090/tdn/tdn/74
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 En
+http://oh2.teledunet.com:8090/tdn/tdn/75
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Xtra US
+http://oh2.teledunet.com:8090/tdn/tdn/76
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Movie Premiere
+http://oh2.teledunet.com:8090/tdn/tdn/88
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Movie Action
+http://oh2.teledunet.com:8090/tdn/tdn/89
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Movie Drama
+http://oh2.teledunet.com:8090/tdn/tdn/90
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Family
+http://oh2.teledunet.com:8090/tdn/tdn/91
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Series 1
+http://oh2.teledunet.com:8090/tdn/tdn/92
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Series 2
+http://oh2.teledunet.com:8090/tdn/tdn/93
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Drama
+http://oh2.teledunet.com:8090/tdn/tdn/94
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN Fox HD
+http://oh2.teledunet.com:8090/tdn/tdn/95
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN Fox Life
+http://oh2.teledunet.com:8090/tdn/tdn/96
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Fox Action
+http://oh2.teledunet.com:8090/tdn/tdn/97
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Fatafeet
+http://oh2.teledunet.com:8090/tdn/tdn/98
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Gourmet
+http://oh2.teledunet.com:8090/tdn/tdn/99
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 US
+http://oh2.teledunet.com:8090/tdn/tdn/108
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 US
+http://oh2.teledunet.com:8090/tdn/tdn/109
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 US
+http://oh2.teledunet.com:8090/tdn/tdn/110
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 4 US
+http://oh2.teledunet.com:8090/tdn/tdn/111
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 5 Us
+http://oh2.teledunet.com:8090/tdn/tdn/112
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 6 US
+http://oh2.teledunet.com:8090/tdn/tdn/113
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 7 US
+http://oh2.teledunet.com:8090/tdn/tdn/114
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 8 US
+http://oh2.teledunet.com:8090/tdn/tdn/115
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN AFC Global
+http://oh2.teledunet.com:8090/tdn/tdn/116
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
@@ -915,161 +1075,7 @@ https://daddylivehd.sx/embed/stream-519.php
 https://daddylivehd.sx/embed/stream-520.php
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
-http://oh2.teledunet.com:8090/tdn/tdn/297
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
-http://oh2.teledunet.com:8090/tdn/tdn/292
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed
-http://oh2.teledunet.com:8090/tdn/tdn/290
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV
-http://oh2.teledunet.com:8090/tdn/tdn/293
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Teledunet",Al-Manar
-http://oh2.teledunet.com:8090/tdn/tdn/302
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Teledunet",TL
-http://oh2.teledunet.com:8090/tdn/tdn/305
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Teledunet",Al-Mayadeen
-http://oh2.teledunet.com:8090/tdn/tdn/301
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN
-http://oh2.teledunet.com:8090/tdn/tdn/299
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Arabica
-http://oh2.teledunet.com:8090/tdn/tdn/296
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Teledunet",One TV
-http://oh2.teledunet.com:8090/tdn/tdn/295
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",LBC Sat
-http://oh2.teledunet.com:8090/tdn/tdn/304
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Hawacom
-http://oh2.teledunet.com:8090/tdn/tdn/306
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN P1
-http://oh2.teledunet.com:8090/tdn/tdn/61
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN P2
-http://oh2.teledunet.com:8090/tdn/tdn/62
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein P3
-http://oh2.teledunet.com:8090/tdn/tdn/63
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 En
-http://oh2.teledunet.com:8090/tdn/tdn/73
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/382
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/383
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/384
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/64
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/65
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/66
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 4 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/67
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 5 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/68
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 6 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/69
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN 7 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/70
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Xtra 1
-http://oh2.teledunet.com:8090/tdn/tdn/71
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Xtra 2
-http://oh2.teledunet.com:8090/tdn/tdn/72
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 En
-http://oh2.teledunet.com:8090/tdn/tdn/74
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 En
-http://oh2.teledunet.com:8090/tdn/tdn/75
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Xtra US
-http://oh2.teledunet.com:8090/tdn/tdn/76
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Movie Premiere
-http://oh2.teledunet.com:8090/tdn/tdn/88
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Movie Action
-http://oh2.teledunet.com:8090/tdn/tdn/89
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Movie Drama
-http://oh2.teledunet.com:8090/tdn/tdn/90
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Family
-http://oh2.teledunet.com:8090/tdn/tdn/91
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Series 1
-http://oh2.teledunet.com:8090/tdn/tdn/92
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Series 2
-http://oh2.teledunet.com:8090/tdn/tdn/93
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Drama
-http://oh2.teledunet.com:8090/tdn/tdn/94
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN Fox HD
-http://oh2.teledunet.com:8090/tdn/tdn/95
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN Fox Life
-http://oh2.teledunet.com:8090/tdn/tdn/96
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Fox Action
-http://oh2.teledunet.com:8090/tdn/tdn/97
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Fatafeet
-http://oh2.teledunet.com:8090/tdn/tdn/98
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein Gourmet
-http://oh2.teledunet.com:8090/tdn/tdn/99
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 1 US
-http://oh2.teledunet.com:8090/tdn/tdn/108
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 2 US
-http://oh2.teledunet.com:8090/tdn/tdn/109
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 3 US
-http://oh2.teledunet.com:8090/tdn/tdn/110
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 4 US
-http://oh2.teledunet.com:8090/tdn/tdn/111
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 5 Us
-http://oh2.teledunet.com:8090/tdn/tdn/112
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 6 US
-http://oh2.teledunet.com:8090/tdn/tdn/113
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 7 US
-http://oh2.teledunet.com:8090/tdn/tdn/114
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Bein 8 US
-http://oh2.teledunet.com:8090/tdn/tdn/115
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN AFC Global
-http://oh2.teledunet.com:8090/tdn/tdn/116
 
 
 
