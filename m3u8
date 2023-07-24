@@ -1156,7 +1156,23 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", LBCI
+http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/638
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", MTV 4K
+http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/639
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Al-Jadeed
+http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/648
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", NBN
+http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/642
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Manar
+http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/644
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", OTV
+http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/650
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", BEIN Premium 2
 http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/48
@@ -1695,24 +1711,6 @@ http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/610
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", LBC Sat
 http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/635
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", LBCI
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/638
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", MTV 4K
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/639
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Al-Jadeed
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/648
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", NBN
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/642
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Manar
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/644
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", OTV
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/650
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", AD Sports1
 http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/654
