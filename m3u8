@@ -748,8 +748,8 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 https://aloka-arena.online/arenatvarena/arenatvarena/33.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Bein 1
-https://aloka-arena.online/arenatvarena/arenatvarena/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Bein Premium 1
+https://aloka-arena.online/arenatvarena/arenatvarena/19.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Bein Premium 2
 https://aloka-arena.online/arenatvarena/arenatvarena/20.m3u8
@@ -1028,6 +1028,8 @@ https://aloka-arena.online/arenatvarena/arenatvarena/195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Jazeera Mubasher
 https://aloka-arena.online/arenatvarena/arenatvarena/205.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Bein Premium 1 SD
+https://aloka-arena.online/arenatvarena/arenatvarena/22.m3u8
 
 
 
