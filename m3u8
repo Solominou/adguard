@@ -2,6 +2,24 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/269
+
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Teledunet",LBCI
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/271
+
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",ALJADEED TV
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/274
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/270
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/273
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
 
@@ -157,6 +175,913 @@ http://oh2.teledunet.com:8090/tdn/tdn/115
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN AFC Global
 http://oh2.teledunet.com:8090/tdn/tdn/116
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
+http://oh2.teledunet.com:8090/tdn/tdn/297
+
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LDC
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/271
+
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV
+https://aloka-arena.online/arenatvarena/arenatvarena/165.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED 2
+http://oh2.teledunet.com:8090/tdn/tdn/290
+
+#EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LB2
+http://tod4k.live:80/play/A3dwqyV448QzP8UW2WL53BPse8I1rahUHvqcipGYKt2vZqDPyh9cnfuSrjDwd5Zt/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
+http://oh2.teledunet.com:8090/tdn/tdn/299
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=".sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Lebanon",LBC Sat
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Music",Rotana Khalijia (1080p)
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/YaQcStz.png" group-title="Music",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Action (1080p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Movies",Syria Satellite Channel (360p) [Not 24/7]
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Movies",iFilm Arabic (720p) [Not 24/7]
+https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF1.jpg" group-title="Movies",Art Aflam 1
+http://62.182.82.104/ART_AFLAM_1/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF2.jpg" group-title="Movies",Art Aflam 2
+http://62.182.82.104/ART_AFLAM_2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Z Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix
+https://aloka-arena.online/arenatvarena/arenatvarena/168.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix Arabi
+https://aloka-arena.online/arenatvarena/arenatvarena/169.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Cinema
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/163
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 1
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/164
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/165
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Alpha Musalsalat
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/166
+
+
+
+
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 1
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/307
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/308
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 3
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/309
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 4
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/310
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 5
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/311
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 6
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/312
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 7
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/313
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 8
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/314
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 9
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/315
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 10
+https://airmaxtv.online:airmaxPrO1/StPL5NJQZ3hL/316
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 11
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/317
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 12
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/318
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 13
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/319
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 14
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/320
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 15
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/321
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 16
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/322
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 17
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/323
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 18
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/324
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 19
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/325
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 20
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/326
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 21
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/327
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 22
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/328
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 23
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/329
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 24
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/330
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 25
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/331
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 26
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/332
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 27
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/333
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 28
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/334
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 29
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/335
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Religious", Charity
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Religious",Noursat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourAlKoddass.lb" tvg-logo="https://i.imgur.com/dF4Mvts.png" group-title="Religious",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourAlSharq.lb" tvg-logo="https://i.imgur.com/EEy2dUr.png" group-title="Religious",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourElShabeb.lb" tvg-logo="https://i.imgur.com/cNr0vl1.png" group-title="Religious",Nour El Shabeb
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourMariam.lb" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Religious",Nour Mariam 
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Religious",Al Hayat TV
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-logo="https://i.imgur.com/90ykspa.png" group-title="Religious",Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us" tvg-logo="https://i.imgur.com/yUEuQA2.png" group-title="Religious",Alkarma TV Family (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us" tvg-logo="https://i.imgur.com/6OmNw5A.png" group-title="Religious",Alkarma TV Middle East (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us" tvg-logo="https://i.imgur.com/pnm60bq.png" group-title="Religious",Alkarma TV North America & Canada (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us" tvg-logo="https://i.imgur.com/bJLKkou.png" group-title="Religious",Alkarma TV Praise (720p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="Religious",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="Religious",Alkarma TV Youth & English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2FWaseem%2FStories0%2Falhadath%2Foriginal%2Falhadath.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",الحدث
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
+http://ssitv.ddns.net:8080/channel39/index.m3u8?token=apple
+
+#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera Documentary
+http://ssitv.ddns.net:8080/channel40/index.m3u8?token=apple
+
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljamuba_ar1
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT عربي
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",الميادين
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT عربي
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Syrian News Channel
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_template_En%2Foriginal%2Flogo_template_En.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",Euro News En
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_template_FR%2Foriginal%2Flogo_template_FR.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",Euro News Fr
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cnn.jpg?v=6" group-title="News",CNN
+https://www.elahmad.com/tv/watchtv.php?id=cnn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alhurra.jpg?v=6" group-title="News",الحرة
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=alhurra
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Kids",Space Toon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg" group-title="Kids",Gulli
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="Kids",Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="Kids",MBC3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="Kids",Caillou
+https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg?v=6" group-title="Kids",Rotana Kids
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.imgur.com/xvJw3qt.png" group-title="Kids",Sat7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/afarin_tv.jpg?v=6" group-title="Kids",Old Toon
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Teletubbies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Majid
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids",Nicklelodeon
+https://thetvapp.to/tv/nickelodeon-east-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwnlirxOGQwxdQ2TXU7D1tDnAN4ws-7TzeQBpvl_xQhzRezsxfYcgGGLp&s" group-title="Kids",Cartoon Network
+https://thetvapp.to/tv/cartoon-network-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yvaBpiBgHrMyI8hhjwTOKPM_yQPfVEFd_iaLFjubKFwfAMAakw57wI6A&s" group-title="Kids",DisneyChannelEast
+https://thetvapp.to/tv/disney-channel-east-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_khJ8MM735s5NnlulxUY6vABFlKlJ9KKJq43ZgfZJy7WxSUXBkAbpbvSk&s" group-title="Kids",DisneyJuniorEast
+https://thetvapp.to/tv/disney-junior-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuhggPe6_tLGSQoqX1DZKuRB_wfUFluEYfLrE28cLzOQjn_MSzZX26Vs&s" group-title="Kids",DisneyXDEast
+https://thetvapp.to/tv/disney-xd-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0Dja22pWvSYidGWvK-j8NU4-AHhMfmiScGog4C2a7sBryxqAowex-Q&s" group-title="Kids",NickJrEast
+https://thetvapp.to/tv/nick-jr-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="Kids",Nicktoons
+https://thetvapp.to/tv/nicktoons-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wlzzblrMSqVvgWo__pIacedgkKXI6ed9X308RIJLTrO1xD4bc80nNWI&s" group-title="Kids",TeenNick
+https://thetvapp.to/tv/teennick-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",UniversalKids
+https://thetvapp.to/tv/universal-kids-live-stream/
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="Kids", Masha
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/227
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC Europe
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3-2
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4-2
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5-2
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA USA
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA +" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC",MBC DRAMA +
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC",MBC ACTION
+http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/500px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX
+http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="https://i.ibb.co/kGw5pT9/mbcpersia.jpg" group-title="MBC",MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC",MBC BOLLYWOOD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="MBC",MBC VARIETY
+https://tv.ipslow.com/tv201_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=09cf5803fa4e5ea4a168f81904f15e97b0870b39-3d4c70e9eebab0aef94e03786af6350b-1686214674-1686203874
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="MBC",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR US
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="MBC",MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Crime
+https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmovies_logo%2Foriginal%2Fmovies_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_movies_action%2Foriginal%2Flogo_movies_action.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Action
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_movies_thriller%2Foriginal%2Flogos_movies_thriller.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Thriller
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FRanda%2FAlasly_logo0%2Foriginal%2FAlasly_logo0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",أصلي
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_Ramadan_2023%2Foriginal%2Flogos_Ramadan_2023.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رمضان ٢٠٢٣
+https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fastora%2Foriginal%2Fastora.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid", أسطورة
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Azraq
+https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_Royaa%2Foriginal%2Flogo_Royaa.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رؤيا
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="hhttps://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam-Comedy%2Foriginal%2FAflam-Comedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي أفلام
+https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fcomedy%2Foriginal%2Fcomedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي
+https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Masrah_Masr%2Foriginal%2Flogo_Masrah_Masr.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", مسرح مصر
+https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Masr/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmasr7yat%2Foriginal%2Fmasr7yat.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",مسرح
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fzaeem0%2Foriginal%2Fzaeem0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",الزعيم
+https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Maqaleb
+https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Just_for_Laughs%2Foriginal%2Flogo_Just_for_Laughs.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Gags
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Turki
+https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al_Oula
+https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Chef
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Top-Chef/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2021%2FAbd%2FJan%2Fm6-images%2Fm6-international-logo%2Foriginal%2Fm6-international-logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",M6
+https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Tarab
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Tarab-/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Korean
+https://cdxaws-ak.akamaized.net/v1/channel/Korean-/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Bollywood
+https://cdxaws-ak.akamaized.net/v1/channel/Bollywood_/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam1%2Foriginal%2FAflam1.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Aflam
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/e96c7e9f639a49d089616170ef1821a8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", F1
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/789c88ad335e4547ad14a84c19a5ba31/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", WWE
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Masr
+https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="Rotana",Rotana Cinema (1080p)
+https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Cinema KSA (1080p)
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Rotana",Rotana Classic (1080p)
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="Rotana",Rotana Clip (1080p) [Geo-blocked]
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://rotana.net/live-clip
+
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="Rotana",Rotana Comedy (1080p) [Geo-blocked]
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Rotana",Rotana Drama (1080p) [Geo-blocked]
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Rotana",Rotana Khalijia (1080p)
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="Rotana",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana + (1080p)
+https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Rotana",Rotana Classic
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Aflam
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Rotana",Rotana Drama
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Cinema 2
+https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8?aws.manifestfilter=video_height:144-720
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN", Premium 1
+https://www.sports-stream.click/chtv/ch75.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN", Premium 2
+https://www.sports-stream.click/chtv/ch76.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN", Premium 3
+https://www.sports-stream.click/chtv/ch77.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN", beIN 1
+https://daddylivehd.com/embed/stream-91.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN", beIN 2
+https://daddylivehd.com/embed/stream-92.php
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN 3
+https://daddylivehd.com/embed/stream-93.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN", beIN 4
+https://daddylivehd.com/embed/stream-94.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN", beIN 5
+https://daddylivehd.com/embed/stream-95.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN", beIN 6
+https://daddylivehd.com/embed/stream-96.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN1 Fr
+https://time4tv.stream/watch1/sports/bein-sports-1.php
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Airmax", Premium 1
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/10
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN Airmax", Premium 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/11
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN Airmax", Premium 3
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/12
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN Airmax", beIN 1
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/13
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN Airmax", beIN 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/14
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN 3
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/15
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN Airmax", beIN 4
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/16
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN Airmax", beIN 5
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/17
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN Airmax", beIN 6
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/18
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN Xtra 1
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/305
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN Xtra 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/306
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN English
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Solo", Premium 1
+http://warkop.cf/89/bein/08.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN Solo", Premium 2
+http://warkop.cf/89/bein/09.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN Solo", Premium 3
+http://warkop.cf/89/bein/10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN Solo", beIN 1
+http://warkop.cf/89/bein/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN Solo", beIN 2
+http://warkop.cf/89/bein/02.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 3
+http://warkop.cf/89/bein/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN Solo", beIN 4
+http://warkop.cf/89/bein/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN Solo", beIN 5
+http://warkop.cf/89/bein/05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN Solo", beIN 6
+http://warkop.cf/89/bein/06.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Olympic
+http://warkop.cf/89/bein/07.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
+http://warkop.cf/89/bein/11.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
+http://warkop.cf/89/bein/12.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
+http://warkop.cf/89/bein/13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 1 Fr
+http://warkop.cf/89/bein/14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 2 Fr
+http://warkop.cf/89/bein/15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 3 Fr
+http://warkop.cf/89/bein/16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Xtra 1
+http://warkop.cf/89/bein/17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Xtra 2
+http://warkop.cf/89/bein/18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN English
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Arabi
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/169
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Aflam
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/170
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Aflam
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/171
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Movies Premiere
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/172
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Comedy
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/173
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Movies
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/174
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Action
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/175
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", History
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/176
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", History 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/177
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", History 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/178
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Star world
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/179
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN TV NOW
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/181
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/184
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Disney
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/187
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Disney Junior
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/192
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", E
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/190
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", B4U
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/200
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Mix
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/203
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Sniper Bollywood
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/204
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 1
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/206
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 2
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/207
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 3
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/208
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 4
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/209
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 1 S
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/210
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 2 S
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/211
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN Drama
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/212
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN Food
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/213
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Fatafeet
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/214
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Foxlife
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/215
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Fox Action
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/219
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Fox Movies
+https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/220
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID
+http://ssitv.ddns.net:8080/channel89/index.m3u8?token=apple
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi 2
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="Documentary", NG Wild
+https://daddylivehd.com/embed/stream-745.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08j-2TBU7QpF6JZKgmHF3MrYAbS51TabjC8zjsUQxDfW1cjdq6Fx_wSjxdw" group-title="Documentary", National Geographic
+https://daddylivehd.com/embed/stream-328.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1y7ME6_GGevjYps3vxecC0JFd2hTW5cFu-PLppn6mP-TprD70t4gfHg&s" group-title="Documentary", ID
+https://daddylivehd.com/embed/stream-324.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="Documentary", Animal Planet
+hhttps://daddylivehd.com/embed/stream-304.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentary", Nasa
+https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", Nature
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX1
+https://d.daddylivehd.sx/embed/stream-503.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX2
+https://d.daddylivehd.sx/embed/stream-504.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX3
+https://d.daddylivehd.sx/embed/stream-505.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX4
+https://d.daddylivehd.sx/embed/stream-506.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX5
+https://d.daddylivehd.sx/embed/stream-507.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX6
+https://d.daddylivehd.sx/embed/stream-508.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX7
+https://d.daddylivehd.sx/embed/stream-509.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX8
+https://d.daddylivehd.sx/embed/stream-510.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX9
+https://d.daddylivehd.sx/embed/stream-511.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX10
+https://d.daddylivehd.sx/embed/stream-512.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX11
+https://d.daddylivehd.sx/embed/stream-513.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX12
+https://d.daddylivehd.sx/embed/stream-514.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX13
+https://d.daddylivehd.sx/embed/stream-515.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX14
+https://d.daddylivehd.sx/embed/stream-516.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX15
+https://d.daddylivehd.sx/embed/stream-517.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX16
+https://d.daddylivehd.sx/embed/stream-518.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX17
+https://d.daddylivehd.sx/embed/stream-519.php
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX18
+https://d.daddylivehd.sx/embed/stream-520.php
 
 
 
@@ -1992,1039 +2917,12 @@ http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/990
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Leb Solo",MTV
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/269
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Leb Solo",LBCI
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/271
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Leb Solo",ALJADEED TV
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/274
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Leb Solo",OTV
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/270
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Leb Solo",NBN
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/273
 
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", 
-http://minafire.com:8080/JVA3oocc0q/Gg2shv5EY3/
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
-http://oh2.teledunet.com:8090/tdn/tdn/297
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LDC
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/271
-
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV
-https://aloka-arena.online/arenatvarena/arenatvarena/165.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED 2
-http://oh2.teledunet.com:8090/tdn/tdn/290
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LB2
-http://tod4k.live:80/play/A3dwqyV448QzP8UW2WL53BPse8I1rahUHvqcipGYKt2vZqDPyh9cnfuSrjDwd5Zt/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
-http://oh2.teledunet.com:8090/tdn/tdn/299
-
-#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id=".sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Lebanon",LBC Sat
-https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
-https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaïque FM (480p) [Not 24/7]
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Music",Panorama FM (1080p)
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Music",Rotana Khalijia (1080p)
-https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
-https://daiconnect.com/live/hls/rotana/music/.m3u8
-
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/YaQcStz.png" group-title="Music",Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Action (1080p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-
-#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Drama (720p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-
-#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Movies",Syria Satellite Channel (360p) [Not 24/7]
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Movies",iFilm Arabic (720p) [Not 24/7]
-https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF1.jpg" group-title="Movies",Art Aflam 1
-http://62.182.82.104/ART_AFLAM_1/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF2.jpg" group-title="Movies",Art Aflam 2
-http://62.182.82.104/ART_AFLAM_2/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Z Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix
-https://aloka-arena.online/arenatvarena/arenatvarena/168.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix Arabi
-https://aloka-arena.online/arenatvarena/arenatvarena/169.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Cinema
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/163
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 1
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/164
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/165
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Alpha Musalsalat
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/166
-
-
-
-
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 1
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/307
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/308
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 3
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/309
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 4
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/310
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 5
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/311
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 6
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/312
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 7
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/313
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 8
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/314
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 9
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/315
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 10
-https://airmaxtv.online:airmaxPrO1/StPL5NJQZ3hL/316
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 11
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/317
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 12
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/318
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 13
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/319
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 14
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/320
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 15
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/321
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 16
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/322
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 17
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/323
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 18
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/324
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 19
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/325
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 20
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/326
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 21
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/327
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 22
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/328
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 23
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/329
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 24
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/330
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 25
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/331
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 26
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/332
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 27
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/333
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 28
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/334
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies",Netflix 29
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/335
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Religious", Charity
-http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Religious",Noursat
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NourAlKoddass.lb" tvg-logo="https://i.imgur.com/dF4Mvts.png" group-title="Religious",Nour Al Koddas
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NourAlSharq.lb" tvg-logo="https://i.imgur.com/EEy2dUr.png" group-title="Religious",Nour Al Sharq
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NourElShabeb.lb" tvg-logo="https://i.imgur.com/cNr0vl1.png" group-title="Religious",Nour El Shabeb
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NourMariam.lb" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Religious",Nour Mariam 
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="Religious",Al Hayat TV
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-logo="https://i.imgur.com/90ykspa.png" group-title="Religious",Alkarma TV Australia (1080p)
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVFamily.us" tvg-logo="https://i.imgur.com/yUEuQA2.png" group-title="Religious",Alkarma TV Family (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us" tvg-logo="https://i.imgur.com/6OmNw5A.png" group-title="Religious",Alkarma TV Middle East (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us" tvg-logo="https://i.imgur.com/pnm60bq.png" group-title="Religious",Alkarma TV North America & Canada (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVPraise.us" tvg-logo="https://i.imgur.com/bJLKkou.png" group-title="Religious",Alkarma TV Praise (720p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="Religious",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="Religious",Alkarma TV Youth & English (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",العربية
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2FWaseem%2FStories0%2Falhadath%2Foriginal%2Falhadath.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",الحدث
-https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
-http://ssitv.ddns.net:8080/channel39/index.m3u8?token=apple
-
-#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera Documentary
-http://ssitv.ddns.net:8080/channel40/index.m3u8?token=apple
-
-#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher
-http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljamuba_ar1
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT عربي
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",الميادين
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT عربي
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum
-http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Syrian News Channel
-http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_template_En%2Foriginal%2Flogo_template_En.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",Euro News En
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_template_FR%2Foriginal%2Flogo_template_FR.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",Euro News Fr
-https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cnn.jpg?v=6" group-title="News",CNN
-https://www.elahmad.com/tv/watchtv.php?id=cnn
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alhurra.jpg?v=6" group-title="News",الحرة
-http://www.elahmad.com/tv/mobiletv/glarb.php?id=alhurra
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Kids",Space Toon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg" group-title="Kids",Gulli
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="Kids",Tiji
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index_2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="Kids",MBC3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="Kids",Caillou
-https://dhx-caillou-2-fr.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg?v=6" group-title="Kids",Rotana Kids
-https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.imgur.com/xvJw3qt.png" group-title="Kids",Sat7 Kids
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/afarin_tv.jpg?v=6" group-title="Kids",Old Toon
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Teletubbies
-https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Majid
-https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids",Nicklelodeon
-https://thetvapp.to/tv/nickelodeon-east-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwnlirxOGQwxdQ2TXU7D1tDnAN4ws-7TzeQBpvl_xQhzRezsxfYcgGGLp&s" group-title="Kids",Cartoon Network
-https://thetvapp.to/tv/cartoon-network-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yvaBpiBgHrMyI8hhjwTOKPM_yQPfVEFd_iaLFjubKFwfAMAakw57wI6A&s" group-title="Kids",DisneyChannelEast
-https://thetvapp.to/tv/disney-channel-east-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_khJ8MM735s5NnlulxUY6vABFlKlJ9KKJq43ZgfZJy7WxSUXBkAbpbvSk&s" group-title="Kids",DisneyJuniorEast
-https://thetvapp.to/tv/disney-junior-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuhggPe6_tLGSQoqX1DZKuRB_wfUFluEYfLrE28cLzOQjn_MSzZX26Vs&s" group-title="Kids",DisneyXDEast
-https://thetvapp.to/tv/disney-xd-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0Dja22pWvSYidGWvK-j8NU4-AHhMfmiScGog4C2a7sBryxqAowex-Q&s" group-title="Kids",NickJrEast
-https://thetvapp.to/tv/nick-jr-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="Kids",Nicktoons
-https://thetvapp.to/tv/nicktoons-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wlzzblrMSqVvgWo__pIacedgkKXI6ed9X308RIJLTrO1xD4bc80nNWI&s" group-title="Kids",TeenNick
-https://thetvapp.to/tv/teennick-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",UniversalKids
-https://thetvapp.to/tv/universal-kids-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="Kids", Masha
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/227
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
-http://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC Europe
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC 3-2
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4-2
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5
-https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5-2
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA
-https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA USA
-https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA +" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC",MBC DRAMA +
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC",MBC ACTION
-http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/500px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX
-http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="https://i.ibb.co/kGw5pT9/mbcpersia.jpg" group-title="MBC",MBC PERSIA
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC",MBC BOLLYWOOD
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="MBC",MBC VARIETY
-https://tv.ipslow.com/tv201_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=09cf5803fa4e5ea4a168f81904f15e97b0870b39-3d4c70e9eebab0aef94e03786af6350b-1686214674-1686203874
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="MBC",MBC IRAQ
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR US
-https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="MBC",MBC Masr 2
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FJul%2Flogos_-Crime-%2Foriginal%2Flogos_-Crime-.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Crime
-https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmovies_logo%2Foriginal%2Fmovies_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Movies
-https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_movies_action%2Foriginal%2Flogo_movies_action.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Action
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_movies_thriller%2Foriginal%2Flogos_movies_thriller.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Thriller
-https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FRanda%2FAlasly_logo0%2Foriginal%2FAlasly_logo0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",أصلي
-https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_Ramadan_2023%2Foriginal%2Flogos_Ramadan_2023.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رمضان ٢٠٢٣
-https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fastora%2Foriginal%2Fastora.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid", أسطورة
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Azraq
-https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_Royaa%2Foriginal%2Flogo_Royaa.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رؤيا
-https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="hhttps://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam-Comedy%2Foriginal%2FAflam-Comedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي أفلام
-https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fcomedy%2Foriginal%2Fcomedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي
-https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Masrah_Masr%2Foriginal%2Flogo_Masrah_Masr.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", مسرح مصر
-https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Masr/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmasr7yat%2Foriginal%2Fmasr7yat.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",مسرح
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fzaeem0%2Foriginal%2Fzaeem0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",الزعيم
-https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Maqaleb
-https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Just_for_Laughs%2Foriginal%2Flogo_Just_for_Laughs.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",Gags
-https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Turki
-https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al_Oula
-https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Chef
-https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Top-Chef/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2021%2FAbd%2FJan%2Fm6-images%2Fm6-international-logo%2Foriginal%2Fm6-international-logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",M6
-https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-720
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Tarab
-https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/Tarab-/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Korean
-https://cdxaws-ak.akamaized.net/v1/channel/Korean-/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Bollywood
-https://cdxaws-ak.akamaized.net/v1/channel/Bollywood_/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam1%2Foriginal%2FAflam1.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Aflam
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/e96c7e9f639a49d089616170ef1821a8/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", F1
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/789c88ad335e4547ad14a84c19a5ba31/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", WWE
-https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid", Masr
-https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="Rotana",Rotana Cinema (1080p)
-https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Cinema KSA (1080p)
-https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Rotana",Rotana Classic (1080p)
-https://daiconnect.com/live/hls/rotana/classical/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="Rotana",Rotana Clip (1080p) [Geo-blocked]
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://rotana.net/live-clip
-
-#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="Rotana",Rotana Comedy (1080p) [Geo-blocked]
-https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Rotana",Rotana Drama (1080p) [Geo-blocked]
-https://daiconnect.com/live/hls/rotana/drama/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Rotana",Rotana Khalijia (1080p)
-https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="Rotana",Rotana Kids (1080p)
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana + (1080p)
-https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Rotana",Rotana Classic
-https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Aflam
-https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Rotana",Rotana Drama
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Cinema 2
-https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8?aws.manifestfilter=video_height:144-720
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN", Premium 1
-https://www.sports-stream.click/chtv/ch75.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN", Premium 2
-https://www.sports-stream.click/chtv/ch76.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN", Premium 3
-https://www.sports-stream.click/chtv/ch77.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN", beIN 1
-https://daddylivehd.com/embed/stream-91.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN", beIN 2
-https://daddylivehd.com/embed/stream-92.php
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN 3
-https://daddylivehd.com/embed/stream-93.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN", beIN 4
-https://daddylivehd.com/embed/stream-94.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN", beIN 5
-https://daddylivehd.com/embed/stream-95.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN", beIN 6
-https://daddylivehd.com/embed/stream-96.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN1 Fr
-https://time4tv.stream/watch1/sports/bein-sports-1.php
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Airmax", Premium 1
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/10
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN Airmax", Premium 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/11
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN Airmax", Premium 3
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/12
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN Airmax", beIN 1
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/13
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN Airmax", beIN 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/14
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN 3
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/15
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN Airmax", beIN 4
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/16
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN Airmax", beIN 5
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/17
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN Airmax", beIN 6
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/18
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN Xtra 1
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/305
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN Xtra 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/306
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Airmax", beIN English
-https://edge02.odtv.az/o4/beinsport/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Solo", Premium 1
-http://warkop.cf/89/bein/08.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN Solo", Premium 2
-http://warkop.cf/89/bein/09.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN Solo", Premium 3
-http://warkop.cf/89/bein/10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN Solo", beIN 1
-http://warkop.cf/89/bein/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN Solo", beIN 2
-http://warkop.cf/89/bein/02.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 3
-http://warkop.cf/89/bein/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN Solo", beIN 4
-http://warkop.cf/89/bein/04.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN Solo", beIN 5
-http://warkop.cf/89/bein/05.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN Solo", beIN 6
-http://warkop.cf/89/bein/06.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Olympic
-http://warkop.cf/89/bein/07.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
-http://warkop.cf/89/bein/11.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
-http://warkop.cf/89/bein/12.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 4k
-http://warkop.cf/89/bein/13.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 1 Fr
-http://warkop.cf/89/bein/14.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 2 Fr
-http://warkop.cf/89/bein/15.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN 3 Fr
-http://warkop.cf/89/bein/16.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Xtra 1
-http://warkop.cf/89/bein/17.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN Xtra 2
-http://warkop.cf/89/bein/18.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Solo", beIN English
-https://edge02.odtv.az/o4/beinsport/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Arabi
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/169
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Aflam
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/170
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Aflam
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/171
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Movies Premiere
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/172
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Comedy
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/173
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Movies
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/174
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN Action
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/175
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", History
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/176
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", History 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/177
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", History 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/178
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Star world
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/179
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN TV NOW
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/181
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", OSN
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/184
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Disney
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/187
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Disney Junior
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/192
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", E
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/190
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", B4U
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/200
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Mix
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/203
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN", Sniper Bollywood
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/204
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 1
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/206
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 2
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/207
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 3
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/208
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 4
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/209
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 1 S
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/210
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN 2 S
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/211
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN Drama
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/212
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", BEIN Food
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/213
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Fatafeet
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/214
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Foxlife
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/215
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Fox Action
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/219
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT", Fox Movies
-https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/220
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID
-http://ssitv.ddns.net:8080/channel89/index.m3u8?token=apple
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi 2
-https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="Documentary", NG Wild
-https://daddylivehd.com/embed/stream-745.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08j-2TBU7QpF6JZKgmHF3MrYAbS51TabjC8zjsUQxDfW1cjdq6Fx_wSjxdw" group-title="Documentary", National Geographic
-https://daddylivehd.com/embed/stream-328.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1y7ME6_GGevjYps3vxecC0JFd2hTW5cFu-PLppn6mP-TprD70t4gfHg&s" group-title="Documentary", ID
-https://daddylivehd.com/embed/stream-324.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="Documentary", Animal Planet
-hhttps://daddylivehd.com/embed/stream-304.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentary", Nasa
-https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", Nature
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX1
-https://d.daddylivehd.sx/embed/stream-503.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX2
-https://d.daddylivehd.sx/embed/stream-504.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX3
-https://d.daddylivehd.sx/embed/stream-505.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX4
-https://d.daddylivehd.sx/embed/stream-506.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX5
-https://d.daddylivehd.sx/embed/stream-507.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX6
-https://d.daddylivehd.sx/embed/stream-508.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX7
-https://d.daddylivehd.sx/embed/stream-509.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX8
-https://d.daddylivehd.sx/embed/stream-510.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX9
-https://d.daddylivehd.sx/embed/stream-511.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX10
-https://d.daddylivehd.sx/embed/stream-512.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX11
-https://d.daddylivehd.sx/embed/stream-513.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX12
-https://d.daddylivehd.sx/embed/stream-514.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX13
-https://d.daddylivehd.sx/embed/stream-515.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX14
-https://d.daddylivehd.sx/embed/stream-516.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX15
-https://d.daddylivehd.sx/embed/stream-517.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX16
-https://d.daddylivehd.sx/embed/stream-518.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX17
-https://d.daddylivehd.sx/embed/stream-519.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX18
-https://d.daddylivehd.sx/embed/stream-520.php
 
 
 
