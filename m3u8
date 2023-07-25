@@ -741,26 +741,8 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", LBC Sat
-https://aloka-arena.online/arenatvarena/arenatvarena/163.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", MTV
-https://aloka-arena.online/arenatvarena/arenatvarena/164.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Al-Jadeed
-https://aloka-arena.online/arenatvarena/arenatvarena/165.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Al-Manar
-https://aloka-arena.online/arenatvarena/arenatvarena/211.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Al-Mayadeen
-https://aloka-arena.online/arenatvarena/arenatvarena/214.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Mix
-https://aloka-arena.online/arenatvarena/arenatvarena/168.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Mix Arabi
-https://aloka-arena.online/arenatvarena/arenatvarena/169.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Bein
 https://aloka-arena.online/arenatvarena/arenatvarena/33.m3u8
@@ -996,6 +978,12 @@ https://aloka-arena.online/arenatvarena/arenatvarena/136.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Shahid Vip 7
 https://aloka-arena.online/arenatvarena/arenatvarena/138.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Mix
+https://aloka-arena.online/arenatvarena/arenatvarena/168.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", Mix Arabi
+https://aloka-arena.online/arenatvarena/arenatvarena/169.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Aloka", On Time Sport
 https://aloka-arena.online/arenatvarena/arenatvarena/147.m3u8
