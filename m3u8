@@ -179,14 +179,8 @@ http://oh2.teledunet.com:8090/tdn/tdn/116
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Al-Jadeed
-http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/284
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", OTV
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/238
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", TL
-http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/239
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Al-Manar
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/196
