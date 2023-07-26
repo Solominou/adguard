@@ -230,7 +230,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/66
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", DXT
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/68
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", ?
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", MNC
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/69
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Art aflam 1
@@ -239,7 +239,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/72
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Art Aflam 2
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/73
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", ?
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Next Show
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/74
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Art Hekayat
@@ -262,9 +262,6 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/85
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Cinema 1
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/86
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", OSN Bl Arabi
-http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/203
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", OSN Movie Hollywood
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/91
