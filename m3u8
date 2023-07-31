@@ -2069,7 +2069,7 @@ https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID en
-http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7828&extension=ts&play_token=46gimQUVNG
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7828&extension=m3u8&play_token=W7DGtJ7k2E
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID
 http://31.14.40.58:8080/channel89/index.m3u8?token=apple
