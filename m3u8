@@ -59,6 +59,21 @@ http://oh2.teledunet.com:8090/tdn/tdn/304
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Hawacom
 http://oh2.teledunet.com:8090/tdn/tdn/306
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", Netflix Action
+http://94.130.37.50:2095/netflix/2023/83121?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", Netflix Anime
+http://94.130.37.50:2095/netflix/2023/83951?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", Netflix Drama
+http://78.46.43.55:2095/netflix/2023/51881?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", Netflix Comedy
+http://94.130.37.50:2095/netflix/2023/83129?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", Netflix Horror
+http://94.130.37.50:2095/netflix/2023/83126?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",BEIN P1
 http://oh2.teledunet.com:8090/tdn/tdn/61
 
