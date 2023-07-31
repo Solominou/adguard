@@ -13,6 +13,8 @@ https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/271
 #EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",ALJADEED TV ⭐
 https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/274
 
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",LBC2
+http://31.14.40.58:8080/channel6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV ⭐
 https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/270
