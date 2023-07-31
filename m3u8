@@ -22,6 +22,45 @@ https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/270
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN ⭐
 https://airmaxtv.online:25463/airmaxPrO1/StPL5NJQZ3hL/273
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",Al-Manar 
+https://manar.live/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",Noursat 
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",Nour Kodas 
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",Nour Kids
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Charity TV 
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Arabi
+https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Musalsalat
+https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Ya Hala
+https://livekora24.com/live/ozn/OSNyahalaFHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Aflam
+https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Action
+https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Premiere
+https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet", Osn Comedy
+http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
@@ -58,6 +97,15 @@ http://oh2.teledunet.com:8090/tdn/tdn/304
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Hawacom
 http://oh2.teledunet.com:8090/tdn/tdn/306
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", beIN Pr1
+http://185.236.229.131:25461/live/islam_marvel@telegramme/marveliptv.life100connection/58641.m3u8?token=QxNYV0FfFVgUWA8GUVEGDFVQUQRRVAhbAwdSDwFRDQNZUAJUVw9VVABDGxNDQEdRBVk5D1cSAldaVFIGSRJNQF1Db19WFQ1AD1QOBRIYF0ANWQNECQAUQBILAhVfEgoEDgIGFB4VUhpCBEVfUVhqUAFCDwVWEgIMFw4KG0dfVmxcVF1XXFMVWBRRFR0SXUZERg4IE19cFEAACxJFBERdEQITAQUKBhVOFAJYRF5AR01GDkQqcRIUQAcaElILQ1FcVhMKFF8EQloUTRVYQ2tHURdAFANSXV0QQFhEBkccGl5ZSW9VXVlZB1UVXl5eRxcORgVTVhEcGg8NDA9DCkJnQ1FVEgwQBANWAVYVTA==
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", beIN Pr2
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", beIN Pr3
+http://94.130.163.18:5080/YallaGoalApp/streams/02_Bein_Premuim_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet", Netflix Action
 http://94.130.37.50:2095/netflix/2023/83121?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
@@ -2124,6 +2172,9 @@ https://d.daddylivehd.sx/embed/stream-520.php
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTVCh", MTV
 https://leb.chachatv.me/live/chacha033/plus051/457.ts?token=HhVRV0taEw8aBwdTAABcAgcDBQdSVABUA1UJAQNTWggEVlwGDQUHAAsRG0ZGF0tXAl5pXAUVWFQHURwaRBBdQzpeXRQCEAANCBEbRkEKVFdBCQcDWAdSWwRfCAEdQUhYARUDFAoDBgAaHxUBTRdcQA1SWmoFUhQLVgMSAl8WVF1JFVZYZ1ZUWFldU0YPQQgQTxFfRhEVWAxAClwUEwFRRRdWTVMaCF9AVF8bRlYMTFwXQU8XWxUuIBdKEl1JF11fFl5WWBoIE0FLERtGXBBmQAZAQkcEVg8HR0QKGgFBFBMIVkFpW11fW11QQw1aDUoQWREEF00VDw1bD0RXQzxIWAEVAxQKAwcNGk4=
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTVCh", MTV
+https://tv.chachatv.me:443/egypt/tv/457
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTVCh", OTV
 https://leb.chachatv.me/live/chacha033/plus051/72.ts?token=HhVRV0taEw8aBwdTAABcAgcDBQdSVABUA1UJAQNTWggEVlwGDQUHAAsRG0ZGF0tXAl5pXAUVWFQHURwaRBBdQzpeXRQCEAANCBEbRkEKVFdBCQcDWAdSWwRfCAEdQUhYARUDFAoDBgAaHxUBTRdcQA1SWmoFUhQLVgMSAl8WVF1JFVZYZ1ZUWFldU0YPQQgQTxFfRhEVWAxAClwUEwFRRRdWTVMaCF9AVF8bRlYMTFwXQU8XWxUuIBdKEl1JF11fFl5WWBoIE0FLERtGXBBmQAZAQkcEVg8HR0QKGgFBFBMIVkFpW11fW11QQw1aDUoQWREEF00VDw1bD0RXQzxIWAEVAxQKAwcNGk4=
 
@@ -3877,3 +3928,33 @@ http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/989
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", Fox S2
 http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/990
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN Pr1
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1201
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN Pr2
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1202
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN Pr3
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1203
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN 1
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1204
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN 2
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1205
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN 3
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1206
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN 4
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1207
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN 5
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1208
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", beIN 6
+http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/1209
+
+
+
