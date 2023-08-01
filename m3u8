@@ -1311,8 +1311,60 @@ http://www.elahmad.com/tv/mobiletv/glarb.php?id=alhurra
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Baby Tv
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7821&extension=m3u8&play_token=0ctmX4HjGu
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Boomerang
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=37195&extension=m3u8&play_token=jzCJxMX6p5
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Cartoon Network
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7816&extension=m3u8&play_token=vVEWLxBQCq
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Cartoonito
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7806&extension=m3u8&play_token=QqPuQ12naf
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",CBBC
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=8207&extension=M3u8&play_token=E2BDVUoT6O
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Cbeebies
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=8209&extension=m3u8&play_token=XTUuiJdTdj
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",CITV
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=8225&extension=m3u8&play_token=60xFlJzkBV
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Disney Junior
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7804&extension=m3u8&play_token=4fUeYNgsrZ
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Disney XD
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7813&extension=m3u8&play_token=fXyprVlgwV
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",CITV
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7813&extension=ts&play_token=fXyprVlgwV
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Nick Jr
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7811&extension=ts&play_token=VfnjFJ1VNf
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Nick Jr.2
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7815&extension=m3u8&play_token=WXrTvXrpjG
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Nickelodeon
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=37196&extension=m3u8&play_token=s7JY86TXIN
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Nickelodeon +1
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=111773&extension=m3u8&play_token=DqFX1SVmj8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", NickToons
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7807&extension=m3u8&play_token=ZD6AngW4SB
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Pop
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=111771&extension=m3u8&play_token=uiBHkMr0aa
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Pop Max
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7686&extension=m3u8&play_token=2S96XDoTpB
+
+#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Tiny Pop
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7803&extension=m3u8&play_token=tuX527d7uw
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids", Nickelodeon ⭐
 https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/242
@@ -1394,6 +1446,14 @@ https://thetvapp.to/tv/universal-kids-live-stream/
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="Kids", Masha
 https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/227
+
+
+
+
+
+
+
+
 
 
 
