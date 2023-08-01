@@ -787,23 +787,6 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV ⭐
-https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/269
-
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Teledunet",LBCI ⭐
-https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/271
-
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",ALJADEED TV ⭐
-https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/274
-
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",LBC2
-http://31.14.40.58:8080/channel6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV ⭐
-https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/270
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN ⭐
-https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/273
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
@@ -847,8 +830,23 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=".sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Lebanon",LBC Sat
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV ⭐
+https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/269
 
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI ⭐
+https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/271
 
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV ⭐
+https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/274
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",LBC2
+http://31.14.40.58:8080/channel6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV ⭐
+https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/270
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN ⭐
+https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/273
 
 
 
