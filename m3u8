@@ -704,7 +704,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/577
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Celest
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/579
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Diwi Kids
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Tiwi Kids
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/596
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Tiji
@@ -1366,6 +1366,32 @@ http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7686&ext
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Tiny Pop
 http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7803&extension=m3u8&play_token=tuX527d7uw
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Tiwi Kids Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/596
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Tiji Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/598
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Disney Junior Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/599
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Nickelodeon Junior Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/602
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Toonami Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/605
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Cartoon Network Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/606
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Nick Junior Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/608
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Boomerang Fr
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/610
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids", Nickelodeon ⭐
 https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/242
 
@@ -1416,6 +1442,9 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" group-title="Kids",Majid
 https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/EEy2dUr.png" group-title="Kids",Nour Kids
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids",Nicklelodeon
 https://thetvapp.to/tv/nickelodeon-east-live-stream/
