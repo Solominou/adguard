@@ -11,9 +11,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI Test
-http://sideriodomi.ottc.pro/PiGzbzYaBtn3RyM/qVtq9FrUGS/10885
-
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
 http://oh2.teledunet.com:8090/tdn/tdn/292
 
