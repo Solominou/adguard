@@ -497,14 +497,16 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/325
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Mr. Bean
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/344
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", RT
-http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/353
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Sky Flix Anime
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/357
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Space Toon
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/365
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", RT
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/353
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", Jazeera Wasa2ikiya
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/394
@@ -1390,7 +1392,29 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/608
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Boomerang Fr
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/610
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", J Kids
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/522
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", RTS Kids
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/529
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Tfou Kids
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/530
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Baraem
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/322
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Cartoon Network
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/325
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids, Mr. Bean
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/344
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Sky Flix Anime
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/357
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Space Toon
+http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/365
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids", Nickelodeon ⭐
 https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/242
