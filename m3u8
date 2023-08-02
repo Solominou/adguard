@@ -1451,33 +1451,6 @@ https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/EEy2dUr.png" group-title="Kids",Nour Kids
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids",Nicklelodeon
-https://thetvapp.to/tv/nickelodeon-east-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwnlirxOGQwxdQ2TXU7D1tDnAN4ws-7TzeQBpvl_xQhzRezsxfYcgGGLp&s" group-title="Kids",Cartoon Network
-https://thetvapp.to/tv/cartoon-network-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yvaBpiBgHrMyI8hhjwTOKPM_yQPfVEFd_iaLFjubKFwfAMAakw57wI6A&s" group-title="Kids",DisneyChannelEast
-https://thetvapp.to/tv/disney-channel-east-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_khJ8MM735s5NnlulxUY6vABFlKlJ9KKJq43ZgfZJy7WxSUXBkAbpbvSk&s" group-title="Kids",DisneyJuniorEast
-https://thetvapp.to/tv/disney-junior-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuhggPe6_tLGSQoqX1DZKuRB_wfUFluEYfLrE28cLzOQjn_MSzZX26Vs&s" group-title="Kids",DisneyXDEast
-https://thetvapp.to/tv/disney-xd-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZ0Dja22pWvSYidGWvK-j8NU4-AHhMfmiScGog4C2a7sBryxqAowex-Q&s" group-title="Kids",NickJrEast
-https://thetvapp.to/tv/nick-jr-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="Kids",Nicktoons
-https://thetvapp.to/tv/nicktoons-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wlzzblrMSqVvgWo__pIacedgkKXI6ed9X308RIJLTrO1xD4bc80nNWI&s" group-title="Kids",TeenNick
-https://thetvapp.to/tv/teennick-live-stream/
-
-#EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",UniversalKids
-https://thetvapp.to/tv/universal-kids-live-stream/
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="Kids", Masha
 https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/227
 
@@ -1707,38 +1680,6 @@ https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN", Premium 1
-https://www.sports-stream.click/chtv/ch75.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN", Premium 2
-https://www.sports-stream.click/chtv/ch76.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN", Premium 3
-https://www.sports-stream.click/chtv/ch77.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN", beIN 1
-https://daddylivehd.com/embed/stream-91.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN", beIN 2
-https://daddylivehd.com/embed/stream-92.php
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN 3
-https://daddylivehd.com/embed/stream-93.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN", beIN 4
-https://daddylivehd.com/embed/stream-94.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN", beIN 5
-https://daddylivehd.com/embed/stream-95.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN", beIN 6
-https://daddylivehd.com/embed/stream-96.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN1 Fr
-https://time4tv.stream/watch1/sports/bein-sports-1.php
-
-
 
 
 
@@ -1768,18 +1709,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi 2
 https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="Documentary", NG Wild
-https://daddylivehd.com/embed/stream-745.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08j-2TBU7QpF6JZKgmHF3MrYAbS51TabjC8zjsUQxDfW1cjdq6Fx_wSjxdw" group-title="Documentary", National Geographic
-https://daddylivehd.com/embed/stream-328.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1y7ME6_GGevjYps3vxecC0JFd2hTW5cFu-PLppn6mP-TprD70t4gfHg&s" group-title="Documentary", ID
-https://daddylivehd.com/embed/stream-324.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="Documentary", Animal Planet
-hhttps://daddylivehd.com/embed/stream-304.php
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentary", Nasa
 https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
@@ -2255,62 +2184,6 @@ http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=177665&e
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX1
-https://d.daddylivehd.sx/embed/stream-503.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX2
-https://d.daddylivehd.sx/embed/stream-504.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX3
-https://d.daddylivehd.sx/embed/stream-505.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX4
-https://d.daddylivehd.sx/embed/stream-506.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX5
-https://d.daddylivehd.sx/embed/stream-507.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX6
-https://d.daddylivehd.sx/embed/stream-508.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX7
-https://d.daddylivehd.sx/embed/stream-509.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX8
-https://d.daddylivehd.sx/embed/stream-510.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX9
-https://d.daddylivehd.sx/embed/stream-511.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX10
-https://d.daddylivehd.sx/embed/stream-512.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX11
-https://d.daddylivehd.sx/embed/stream-513.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX12
-https://d.daddylivehd.sx/embed/stream-514.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX13
-https://d.daddylivehd.sx/embed/stream-515.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX14
-https://d.daddylivehd.sx/embed/stream-516.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX15
-https://d.daddylivehd.sx/embed/stream-517.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX16
-https://d.daddylivehd.sx/embed/stream-518.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX17
-https://d.daddylivehd.sx/embed/stream-519.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Adult", XXX18
-https://d.daddylivehd.sx/embed/stream-520.php
 
 
 
