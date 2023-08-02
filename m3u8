@@ -257,7 +257,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/55
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3ed2da3eb57b68e64b3c86821ca6201e.png" group-title="IPTV TN", Bein Gourmet
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/61
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV TN", OSN Kids
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/03e30c113bcbc5c1d32c20b7be28485b.png" group-title="IPTV TN", OSN Kids
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/65
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d2295d933a496e03f54e50027080ab7f.png" group-title="IPTV TN", AMC
@@ -778,7 +778,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+http://oh2.teledunet.com:8090/tdn/tdn/292
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
@@ -1106,7 +1106,7 @@ https://tv.chachatv.me:443/egypt/tv/703
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+http://oh2.teledunet.com:8090/tdn/tdn/295
 
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
