@@ -808,6 +808,46 @@ https://airmaxtv.online:25463/airmaxPrx1/XXTDxg5b4MqG/273
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Iptv Ch", MTV
+https://tv.chachatv.me:443/egypt/tv/457
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Iptv Ch", Al-Jadeed
+https://tv.chachatv.me:443/egypt/tv/128
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Iptv Ch", LBCI
+https://tv.chachatv.me:443/egypt/tv/133
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Iptv Ch", OTV
+https://tv.chachatv.me:443/egypt/tv/236
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Iptv Ch",Arabica
+https://tv.chachatv.me:443/egypt/tv/602https://tv.chachatv.me:443/egypt/tv/170
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Mix Arabi
+https://tv.chachatv.me:443/egypt/tv/1756
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Mix
+https://tv.chachatv.me:443/egypt/tv/539
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Netflix  Comedy
+https://tv.chachatv.me:443/egypt/tv/17
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Netflix  Horror
+https://tv.chachatv.me:443/egypt/tv/18
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Netflix  Arabic
+https://tv.chachatv.me:443/egypt/tv/19
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Netflix  Action
+https://tv.chachatv.me:443/egypt/tv/20
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Netflix  Kids
+https://tv.chachatv.me:443/egypt/tv/1351
+
+
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", القاهرة والناس
 https://tv.chachatv.me:443/egypt/tv/15
 
@@ -917,7 +957,7 @@ https://tv.chachatv.me:443/egypt/tv/323
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Bein Drama 1
 https://tv.chachatv.me:443/egypt/tv/324
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Bein
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Bein Fox Movies
 https://tv.chachatv.me:443/egypt/tv/325
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Baraem
@@ -931,6 +971,45 @@ https://tv.chachatv.me:443/egypt/tv/117
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Ya Hala
 https://tv.chachatv.me:443/egypt/tv/118
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Action
+https://tv.chachatv.me:443/egypt/tv/612
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Cinema1
+https://tv.chachatv.me:443/egypt/tv/693
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Cinema2
+https://tv.chachatv.me:443/egypt/tv/694
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Musalsalat
+https://tv.chachatv.me:443/egypt/tv/695
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Music 
+https://tv.chachatv.me:443/egypt/tv/696
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Safwa
+https://tv.chachatv.me:443/egypt/tv/697
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Al yom
+https://tv.chachatv.me:443/egypt/tv/698
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Star Movies
+https://tv.chachatv.me:443/egypt/tv/699
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Star World
+https://tv.chachatv.me:443/egypt/tv/700
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Comedy
+https://tv.chachatv.me:443/egypt/tv/701
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Action
+https://tv.chachatv.me:443/egypt/tv/702
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN H2
+https://tv.chachatv.me:443/egypt/tv/703
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", OSN Movie First
+https://tv.chachatv.me:443/egypt/tv/692
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Rotana Cinema
 https://tv.chachatv.me:443/egypt/tv/121
@@ -1074,12 +1153,11 @@ https://tv.chachatv.me:443/egypt/tv/702
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", H2
 https://tv.chachatv.me:443/egypt/tv/703
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Barca
+https://tv.chachatv.me:443/egypt/tv/1608
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Real
+https://tv.chachatv.me:443/egypt/tv/541
 
 
 
