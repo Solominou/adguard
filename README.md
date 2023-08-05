@@ -54,7 +54,11 @@ cima4u6.*##.DownloadServers
 cima4u7.*##.DownloadServers
 cima4u8.*##.DownloadServers
 cima4u9.*##.DownloadServers
-
+cima4u10.*##.DownloadServers
+cima4u11.*##.DownloadServers
+cima4u10.*##.social
+cima4u10.*##.telegram-icon
+cima4u10.*##footer
 cima4u1.*##.social
 cima4u1.*##.telegram-icon
 cima4u1.*##footer
