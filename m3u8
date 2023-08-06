@@ -818,7 +818,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV ⭐
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/269
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/269.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI ⭐
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/271
