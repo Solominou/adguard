@@ -786,8 +786,8 @@ http://31.14.40.58:8080/channel2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LBC2
 http://31.14.40.58:8080/channel6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED 2
-http://oh2.teledunet.com:8090/tdn/tdn/290
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED
+http://31.14.40.58:8080/channel7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
 http://31.14.40.58:8080/channel3/index.m3u8
@@ -796,10 +796,13 @@ http://31.14.40.58:8080/channel3/index.m3u8
 http://31.14.40.58:8080/channel5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
+http://31.14.40.58:8080/channel8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+http://31.14.40.58:8080/channel9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
 http://31.14.40.58:8080/channel4/index.m3u8
