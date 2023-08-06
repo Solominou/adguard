@@ -1395,7 +1395,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/322
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="Kids", Cartoon Network
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/325
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kids, Mr. Bean
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kids", Mr. Bean
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/344
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4865a302d1dedece75399c13601e67ad.jpg" group-title="Kids", Sky Flix Anime
@@ -1416,7 +1416,7 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/239
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="Kids", Disney Junior ⭐
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/240
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Kids ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Kids",MBC Kids ⭐
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/290
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Kids",MBC Kids2 ⭐
