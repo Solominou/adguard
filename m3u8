@@ -778,10 +778,10 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
-http://oh2.teledunet.com:8090/tdn/tdn/292
+http://31.14.40.58:8080/channel1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
-http://oh2.teledunet.com:8090/tdn/tdn/297
+http://31.14.40.58:8080/channel2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LBC2
 http://31.14.40.58:8080/channel6/index.m3u8
@@ -790,10 +790,10 @@ http://31.14.40.58:8080/channel6/index.m3u8
 http://oh2.teledunet.com:8090/tdn/tdn/290
 
 #EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
-http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+http://31.14.40.58:8080/channel3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
-http://oh2.teledunet.com:8090/tdn/tdn/299
+http://31.14.40.58:8080/channel5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
@@ -802,7 +802,11 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
+http://31.14.40.58:8080/channel4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
