@@ -14,6 +14,9 @@ http://oh2.teledunet.com:8090/tdn/tdn/297
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
 http://oh2.teledunet.com:8090/tdn/tdn/292
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed
 http://oh2.teledunet.com:8090/tdn/tdn/290
 
