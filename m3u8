@@ -199,6 +199,199 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Teledunet", Charity TV 
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="Teledunet",MBC 1
+http://oh2.teledunet.com:8090/tdn/tdn/562
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="Teledunet",MBC2 HD
+http://oh2.teledunet.com:8090/tdn/tdn/565
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="Teledunet",MBC Ation
+http://oh2.teledunet.com:8090/tdn/tdn/566
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="Teledunet",MBC Max
+http://oh2.teledunet.com:8090/tdn/tdn/568
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="Teledunet",MBC Drama
+http://oh2.teledunet.com:8090/tdn/tdn/570
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="Teledunet",MBC 3
+http://oh2.teledunet.com:8090/tdn/tdn/573
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="Teledunet",MBC 4
+http://oh2.teledunet.com:8090/tdn/tdn/577
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="Teledunet",MBC 5
+http://oh2.teledunet.com:8090/tdn/tdn/579
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",MBC Bollywood
+http://oh2.teledunet.com:8090/tdn/tdn/582
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="Teledunet",MBC Variety
+http://oh2.teledunet.com:8090/tdn/tdn/584
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="Teledunet",MBC+ Drama
+http://oh2.teledunet.com:8090/tdn/tdn/585
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="Teledunet",MBC Iraq
+http://oh2.teledunet.com:8090/tdn/tdn/581
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="Teledunet",MBC Masr
+http://oh2.teledunet.com:8090/tdn/tdn/572
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="Teledunet",MBC Masr2
+http://oh2.teledunet.com:8090/tdn/tdn/573
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Zee Alwan
+http://oh2.teledunet.com:8090/tdn/tdn/586
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Zee Aflam
+http://oh2.teledunet.com:8090/tdn/tdn/588
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Panorama FM
+http://oh2.teledunet.com:8090/tdn/tdn/589
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Wanasah
+http://oh2.teledunet.com:8090/tdn/tdn/590
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
+http://oh2.teledunet.com:8090/tdn/tdn/122
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Musalsalat
+http://oh2.teledunet.com:8090/tdn/tdn/123
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Ya Hala
+http://oh2.teledunet.com:8090/tdn/tdn/125
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Aflam
+https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Action
+https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Premiere
+https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
+http://oh2.teledunet.com:8090/tdn/tdn/126
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Al Yom
+http://oh2.teledunet.com:8090/tdn/tdn/127
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Aflam1
+http://oh2.teledunet.com:8090/tdn/tdn/128
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Aflam2
+http://oh2.teledunet.com:8090/tdn/tdn/129
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Hekayat
+http://oh2.teledunet.com:8090/tdn/tdn/131
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Hekayat 2
+http://oh2.teledunet.com:8090/tdn/tdn/132
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Cinema
+http://oh2.teledunet.com:8090/tdn/tdn/133
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Cinema2
+http://oh2.teledunet.com:8090/tdn/tdn/134
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Star Movies
+http://oh2.teledunet.com:8090/tdn/tdn/138
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Travel
+http://oh2.teledunet.com:8090/tdn/tdn/142
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Star World
+http://oh2.teledunet.com:8090/tdn/tdn/144
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn E!
+http://oh2.teledunet.com:8090/tdn/tdn/151
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nat Wild
+http://oh2.teledunet.com:8090/tdn/tdn/157
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn History
+http://oh2.teledunet.com:8090/tdn/tdn/160
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn History
+http://oh2.teledunet.com:8090/tdn/tdn/161
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Sponge BoB
+http://oh2.teledunet.com:8090/tdn/tdn/8147
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Mr. Bean
+http://oh2.teledunet.com:8090/tdn/tdn/37
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", CN
+http://oh2.teledunet.com:8090/tdn/tdn/48
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nick Arabic
+http://oh2.teledunet.com:8090/tdn/tdn/49
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Tiji
+http://oh2.teledunet.com:8090/tdn/tdn/51
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Piwi+
+http://oh2.teledunet.com:8090/tdn/tdn/52
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", CN French
+http://oh2.teledunet.com:8090/tdn/tdn/54
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Boomerang
+http://oh2.teledunet.com:8090/tdn/tdn/53
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nick Jr.
+http://oh2.teledunet.com:8090/tdn/tdn/55
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein1 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/382
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein2 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/383
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein3 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/384
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime1
+http://oh2.teledunet.com:8090/tdn/tdn/74
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime2
+http://oh2.teledunet.com:8090/tdn/tdn/75
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime3
+http://oh2.teledunet.com:8090/tdn/tdn/76
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime4
+http://oh2.teledunet.com:8090/tdn/tdn/77
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime5
+http://oh2.teledunet.com:8090/tdn/tdn/78
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime6
+http://oh2.teledunet.com:8090/tdn/tdn/79
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime7
+http://oh2.teledunet.com:8090/tdn/tdn/80
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", RMC1
+http://oh2.teledunet.com:8090/tdn/tdn/396
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", M6
+http://oh2.teledunet.com:8090/tdn/tdn/411
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
 https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
 
@@ -219,18 +412,6 @@ https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
 http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -277,19 +458,19 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=".sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Lebanon",LBC Sat
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/269.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI ⭐
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/271
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV ⭐
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/274
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV ⭐
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/270
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN ⭐
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/273
 
 
@@ -314,7 +495,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaïque FM (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosa�0�7que FM (480p) [Not 24/7]
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
@@ -353,7 +534,7 @@ http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Movies",iFilm Arabic (720p) [Not 24/7]
 https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
+#EXTINF:-1 tvg-id="PlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 
@@ -372,16 +553,16 @@ https://aloka-arena.online/arenatvarena/arenatvarena/168.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix Arabi
 https://aloka-arena.online/arenatvarena/arenatvarena/169.m3u8
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Cinema ⭐
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Cinema �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/163
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 1 ⭐
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 1 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/164
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 2 ⭐
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 2 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/165
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Alpha Musalsalat ⭐
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Alpha Musalsalat �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/166
 
 
@@ -442,10 +623,10 @@ https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",العربية
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",�1�9�1�8�1�7�1�9�1�0�1�4�1�1
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2FWaseem%2FStories0%2Falhadath%2Foriginal%2Falhadath.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",الحدث
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2FWaseem%2FStories0%2Falhadath%2Foriginal%2Falhadath.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",�1�9�1�8�1�5�1�7�1�3
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
@@ -460,13 +641,13 @@ http://31.14.40.58:8080/channel40/index.m3u8?token=apple
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=aljamuba_ar1
 
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT عربي
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT �1�7�1�9�1�0�1�4
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",الميادين
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",�1�9�1�8�1�9�1�4�1�9�1�7�1�4�1�0
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT عربي
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT �1�7�1�9�1�0�1�4
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
@@ -490,7 +671,7 @@ https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cnn.jpg?v=6" group-title="News",CNN
 https://www.elahmad.com/tv/watchtv.php?id=cnn
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alhurra.jpg?v=6" group-title="News",الحرة
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alhurra.jpg?v=6" group-title="News",�1�9�1�8�1�5�1�9�1�1
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=alhurra
 
 
@@ -600,22 +781,22 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/357
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://w.bs-share.com:8000/images/86b3a854dc5dbd763a77d07e5590859c.png" group-title="Kids", SpaceToon
 http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/365
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids", Nickelodeon ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids", Nickelodeon �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/242
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/23c85d16a1f554401706e03ca0e7f104.png" group-title="Kids",OSN Kidzone ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/23c85d16a1f554401706e03ca0e7f104.png" group-title="Kids",OSN Kidzone �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/238
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/03e30c113bcbc5c1d32c20b7be28485b.png" group-title="Kids",OSN Kid ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/03e30c113bcbc5c1d32c20b7be28485b.png" group-title="Kids",OSN Kid �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/239
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="Kids", Disney Junior ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="Kids", Disney Junior �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/240
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Kids",MBC Kids ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Kids",MBC Kids �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/290
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Kids",MBC Kids2 ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Kids",MBC Kids2 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/291
 
 #EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Kids",Space Toon
@@ -697,41 +878,41 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/227
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC2 HD ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC2 HD �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/279
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC ACT HD ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC ACT HD �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/280
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Family ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Family �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/282
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Movie ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Movie �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/284
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Movie2 ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Movie2 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/285
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Arabic ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Arabic �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/286
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Arabic2 ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Arabic2 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/287
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Turki ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Turki �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/288
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Turki2 ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Turki2 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/289
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Kids ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Kids �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/290
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Kids2 ⭐
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Kids2 �8�2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/291
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+https://shls-mbcd
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
 http://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1
@@ -793,34 +974,34 @@ https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls.m3u8?aws.mani
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_movies_thriller%2Foriginal%2Flogos_movies_thriller.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid",Thriller
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FRanda%2FAlasly_logo0%2Foriginal%2FAlasly_logo0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",أصلي
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FRanda%2FAlasly_logo0%2Foriginal%2FAlasly_logo0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",�1�5�1�3�1�8�1�4
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_Ramadan_2023%2Foriginal%2Flogos_Ramadan_2023.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رمضان ٢٠٢٣
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogos_Ramadan_2023%2Foriginal%2Flogos_Ramadan_2023.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",�1�9�1�9�1�4�1�9�1�0 �1�8�1�6�1�8�1�9
 https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fastora%2Foriginal%2Fastora.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid", أسطورة
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fastora%2Foriginal%2Fastora.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Shahid", �1�5�1�1�1�5�1�2�1�9�1�1
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Al-Azraq
 https://cdxaws-ak.akamaized.net/v1/channel/Ma_Al_Zaraq/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_Royaa%2Foriginal%2Flogo_Royaa.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",رؤيا
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_Royaa%2Foriginal%2Flogo_Royaa.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",�1�9�1�6�1�4�1�9
 https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="hhttps://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam-Comedy%2Foriginal%2FAflam-Comedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي أفلام
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="hhttps://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam-Comedy%2Foriginal%2FAflam-Comedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", �1�7�1�2�1�9�1�4�1�7�1�4 �1�5�1�5�1�8�1�9�1�9
 https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fcomedy%2Foriginal%2Fcomedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", كوميدي
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fcomedy%2Foriginal%2Fcomedy.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", �1�7�1�2�1�9�1�4�1�7�1�4
 https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Masrah_Masr%2Foriginal%2Flogo_Masrah_Masr.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", مسرح مصر
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_Masrah_Masr%2Foriginal%2Flogo_Masrah_Masr.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", �1�9�1�1�1�9�1�5 �1�9�1�3�1�9
 https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Masr/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmasr7yat%2Foriginal%2Fmasr7yat.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",مسرح
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmasr7yat%2Foriginal%2Fmasr7yat.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",�1�9�1�1�1�9�1�5
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fzaeem0%2Foriginal%2Fzaeem0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",الزعيم
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fzaeem0%2Foriginal%2Fzaeem0.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid",�1�9�1�8�1�0�1�7�1�4�1�9
 https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shorturl.at/qHMPS" group-title="Shahid",Maqaleb
@@ -996,61 +1177,61 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN Arabi
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN Arabi
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/169
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN Aflam
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN Aflam
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/170
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN Aflam
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN Aflam
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/171
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", Movies Premiere
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", Movies Premiere
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/172
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN Comedy
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN Comedy
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/173
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN Movies
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN Movies
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/174
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN Action
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN Action
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/175
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", History
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", History
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/176
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", History 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", History 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/177
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", History 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", History 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/178
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", Star world
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", Star world
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/179
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN TV NOW
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN TV NOW
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/181
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", OSN
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", OSN
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/184
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", Disney
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", Disney
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/187
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="OSN ⭐", Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="OSN �8�2", Disney Junior
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/192
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", E
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", E
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/190
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="OSN ⭐", B4U
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="OSN �8�2", B4U
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/200
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", Mix
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", Mix
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/203
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN ⭐", Sniper Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="OSN �8�2", Sniper Bollywood
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/204
 
 
@@ -1060,40 +1241,40 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/204
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/206
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/207
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/208
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN 4
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/209
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN 1 S
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN 1 S
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/210
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN 2 S
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN 2 S
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/211
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN Drama
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN Drama
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/212
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", BEIN Food
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", BEIN Food
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/213
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", Fatafeet
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", Fatafeet
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/214
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", Foxlife
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", Foxlife
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/215
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", Fox Action
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", Fox Action
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/219
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT ⭐", Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT �8�2", Fox Movies
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/220
 
 
@@ -1107,91 +1288,91 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/220
 
 
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 1
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/307
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 2
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/308
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 3
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/309
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 4
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 4
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/310
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 5
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 5
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/311
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 6
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 6
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/312
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 7
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 7
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/313
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 8
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/314
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 9
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 9
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/315
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 10
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 10
 https://airmaxtv.online:airmaxPoo9/N8KfmwdnxQ3g/316
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 11
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 11
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/317
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 12
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 12
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/318
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 13
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 13
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/319
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 14
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 14
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/320
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 15
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 15
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/321
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 16
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 16
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/322
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 17
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 17
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/323
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 18
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 18
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/324
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 19
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 19
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/325
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 20
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 20
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/326
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 21
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 21
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/327
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 22
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 22
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/328
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 23
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 23
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/329
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 24
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 24
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/330
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 25
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 25
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/331
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 26
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 26
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/332
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 27
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 27
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/333
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 28
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 28
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/334
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies⭐",Netflix 29
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies�8�2",Netflix 29
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/335
 
 
@@ -1199,67 +1380,67 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/335
 
 
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 1
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/28
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 2
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/29
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 3
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/30
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 4
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 4
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/31
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 5
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 5
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/32
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 6
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 6
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/33
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 7
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 7
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/34
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 8
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/35
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 9
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 9
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/36
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 10
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 10
 https://airmaxtv.online:airmaxPoo9/N8KfmwdnxQ3g/37
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 11
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 11
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/38
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 12
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 12
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/39
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 13
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 13
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/40
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 14
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 14
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/41
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 15
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 15
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/42
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 16
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 16
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/43
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 17
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 17
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/44
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 18
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 18
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/45
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 19
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 19
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/46
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 20
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 20
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/47
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies⭐",Majestic 21
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies�8�2",Majestic 21
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/48
 
 
@@ -1268,40 +1449,40 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/48
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN ⭐", Premium 1
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN �8�2", Premium 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/10
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN ⭐", Premium 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN �8�2", Premium 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/11
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN ⭐", Premium 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN �8�2", Premium 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/12
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN ⭐", beIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN �8�2", beIN 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/13
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN ⭐", beIN 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN �8�2", beIN 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/14
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN ⭐", beIN 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN �8�2", beIN 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/15
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN ⭐", beIN 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN �8�2", beIN 4
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/16
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN ⭐", beIN 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN �8�2", beIN 5
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/17
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN ⭐", beIN 6
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN �8�2", beIN 6
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/18
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN ⭐", beIN Xtra 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN �8�2", beIN Xtra 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/305
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN ⭐", beIN Xtra 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN �8�2", beIN Xtra 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/306
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN ⭐", beIN English
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN �8�2", beIN English
 https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
@@ -2166,7 +2347,7 @@ http://iptv-tn.com:8080/Tacostelagram/interlux_in00351912832196/639
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", القاهرة والناس
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", �1�9�1�8�1�6�1�9�1�1�1�9�1�1 �1�2�1�9�1�8�1�0�1�9�1�1
 https://tv.chachatv.me:443/egypt/tv/15
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", CBC
@@ -2187,7 +2368,7 @@ https://tv.chachatv.me:443/egypt/tv/20
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Art Hekayat
 https://tv.chachatv.me:443/egypt/tv/23
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", الشرقية
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", �1�9�1�8�1�2�1�9�1�6�1�4�1�1
 https://tv.chachatv.me:443/egypt/tv/39
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Iptv Ch", Bein S1
@@ -3245,7 +3426,7 @@ http://minafire.com:8080/ecfcN6lX4Z/Ap3ALUG3Gv/929
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Wild
 http://minafire.com:8080/ecfcN6lX4Z/Ap3ALUG3Gv/931
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Fox Sport👍
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Fox Sport�9�1
 http://minafire.com:8080/ecfcN6lX4Z/Ap3ALUG3Gv/936
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina", Movie
@@ -4075,7 +4256,7 @@ http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/929
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", Wild
 http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/931
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", Fox Sport👍
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", Fox Sport�9�1
 http://minafire.com:8080/tD3LT32Wr8/ij1N6kBfIv/936
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="" group-title="IPTV Mina 2", Movie
