@@ -3,6 +3,11 @@
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",twp
+https://d.daddylivehd.sx/embed/stream-330.php
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
 
