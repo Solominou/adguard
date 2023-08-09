@@ -11,6 +11,9 @@ http://oh2.teledunet.com:8090/tdn/tdn/297
 http://oh2.teledunet.com:8090/tdn/tdn/292
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed
+http://oh2.teledunet.com:8090/tdn/tdn/289
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed HD
 http://oh2.teledunet.com:8090/tdn/tdn/290
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV
@@ -57,6 +60,9 @@ http://94.130.37.50:2095/netflix/2023/83126?token=edoi8tbX1V&token=byXHXy.X.y.X.
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="Teledunet",BEIN P1
 http://oh2.teledunet.com:8090/tdn/tdn/61
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="Teledunet",BEIN P1 HD
+http://smart.teledunet.com:8080/tdn/tdn/8095
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="Teledunet",BEIN P2
 http://oh2.teledunet.com:8090/tdn/tdn/62
@@ -213,8 +219,6 @@ https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
 http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
-
-
 
 
 
@@ -443,6 +447,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2FWaseem%2FStories0%2Falhadath%2Foriginal%2Falhadath.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",الحدث
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
+http://teledunet.com:8080/live/tdn/tdn/1
 
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
 http://31.14.40.58:8080/channel39/index.m3u8?token=apple
