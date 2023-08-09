@@ -2,8 +2,7 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",Test
-http://31.14.40.58:8080/channel2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
@@ -419,61 +418,405 @@ http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZe
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Solo",MTV
 http://31.14.40.58:8080/channel1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Solo",LBCI
 http://31.14.40.58:8080/channel2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Lebanon",LBC2
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lb2.jpg?v=6" group-title="Solo",LBC2
 http://31.14.40.58:8080/channel6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Solo",ALJADEED
 http://31.14.40.58:8080/channel7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Solo",OTV
 http://31.14.40.58:8080/channel3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Solo",NBN
 http://31.14.40.58:8080/channel5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
+#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Solo",TL
 http://31.14.40.58:8080/channel8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Lebanon",TL
+#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Solo",TL
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",One TV
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Solo",One TV
 http://31.14.40.58:8080/channel9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
+#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Solo",AL-MANAR
 http://31.14.40.58:8080/channel4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",AL-MANAR
+#EXTINF:-1 tvg-id="" tvg-name="AL-MANAR" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Solo",AL-MANAR
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Lebanon",AL-MAYADEEN
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg?v=6" group-title="Solo",AL-MAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id=".sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Lebanon",LBC Sat
+#EXTINF:-1 tvg-id=".sa" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Solo",LBC Sat
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV �8�2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Art Hekayat
+http://31.14.40.58:8080/channel26/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg?v=6" group-title="Lebanon",LBCI �8�2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/271
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Art Hekayat2
+http://31.14.40.58:8080/channel27/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Lebanon",ALJADEED TV �8�2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/274
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Art Aflam1
+http://31.14.40.58:8080/channel28/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV �8�2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/270
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Art Aflam2
+http://31.14.40.58:8080/channel29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN �8�2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/273
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Art Cinema
+http://31.14.40.58:8080/channel30/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",MBC2
+http://31.14.40.58:8080/channel33/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",MBC Action
+http://31.14.40.58:8080/channel35/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Jazeera
+http://31.14.40.58:8080/channel39/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",Jazeera Documentary
+http://31.14.40.58:8080/channel40/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel26/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel45/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel46/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel47/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel48/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel49/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel50/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel51/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel52/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel53/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel54/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel55/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel56/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel57/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel58/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel59/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel60/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel61/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel62/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel63/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel64/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel65/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel66/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel67/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel68/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel69/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",70
+http://31.14.40.58:8080/channel70/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel71/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel72/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel73/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel74/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel75/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel76/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel77/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel78/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel79/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel80/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel81/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel82/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel83/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel84/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel85/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel86/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel87/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel88/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel89/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel90/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel91/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel92/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel93/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel94/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel95/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel96/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel97/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel98/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel99/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel100/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel101/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel102/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel103/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel104/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel105/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel106/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel107/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel108/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel109/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel110/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel111/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel112/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel113/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel114/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel115/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel116/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel117/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel118/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel119/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel120/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel121/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel122/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel123/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel124/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel125/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel126/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel127/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel128/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel129/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel130/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel131/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel132/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel133/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel134/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel135/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel136/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel137/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel138/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel139/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel141/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel142/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel143/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel144/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel145/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel146/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel147/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel148/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel149/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel150/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",
+http://31.14.40.58:8080/channel151/index.m3u8
 
 
 
