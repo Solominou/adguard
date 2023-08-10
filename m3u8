@@ -54,9 +54,8 @@ http://httpiptv.darktv.eu:80/play/live.php?mac=00:1A:79:A1:CE:BA&stream=41782&ex
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", MTV Lebanon
 http://httpiptv.darktv.eu:80/play/live.php?mac=00:1A:79:A1:CE:BA&stream=41781&extension=ts&play_token=yV6LrwFZK0
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", BEIN MOVIES 1
+http://httpiptv.darktv.eu:80/play/live.php?mac=00:1A:79:A1:CE:BA&stream=41640&extension=ts&play_token=18CF1cTwCl
 
 
 
