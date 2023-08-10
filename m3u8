@@ -51,6 +51,18 @@ http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97737&extensi
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", LBCI
 http://httpiptv.darktv.eu:80/play/live.php?mac=00:1A:79:A1:CE:BA&stream=41782&extension=ts&play_token=zUs9h8261p
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", MTV Lebanon
+http://httpiptv.darktv.eu:80/play/live.php?mac=00:1A:79:A1:CE:BA&stream=41781&extension=ts&play_token=yV6LrwFZK0
+
+
+
+
+
+
+
+
+
+
 
 
 
