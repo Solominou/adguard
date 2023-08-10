@@ -28,6 +28,24 @@ http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97918&extensi
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn History
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97939&extension=ts&play_token=mWiqFWODqy
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44036&extension=ts&play_token=1qb3QGnZrZ
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Boomerang
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44027&extension=ts&play_token=LUG71uJDgp
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon Teen
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44041&extension=ts&play_token=jN6UdIBoIV
+
+
+
+
+
+
+
+
+
 
 
 
