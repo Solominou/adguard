@@ -6,9 +6,11 @@
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Family
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Family fox
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97905&extension=ts&play_token=clrvlCpHVO
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Family mol
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97905&extension=ts&play_token=DdFVI34CSa
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Arabi
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97906&extension=ts&play_token=qjLh5BNEJV
