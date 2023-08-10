@@ -6,6 +6,11 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Family
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97905&extension=ts&play_token=clrvlCpHVO
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
 http://oh2.teledunet.com:8090/tdn/tdn/297
