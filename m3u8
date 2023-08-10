@@ -39,8 +39,8 @@ http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44027&extensi
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44041&extension=ts&play_token=jN6UdIBoIV
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Al-Jadeed
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97737&extension=ts&play_token=UGXJ2VdW6G
 
 
 
