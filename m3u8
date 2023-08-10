@@ -48,9 +48,6 @@ http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44041&extensi
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Al-Jadeed
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97737&extension=ts&play_token=UGXJ2VdW6G
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN sports 1
-http://ghost-x99.uno:8080/Le8ZRYx1VY/xUc54Aw8jn/23949?play_token=ZzsAPfF0ql
-
 
 
 
