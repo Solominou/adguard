@@ -25,9 +25,8 @@ http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97917&extensi
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Premiere
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97918&extension=ts&play_token=mvZZFvevLV
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn ID
-http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97952&extension=ts&play_token=HhHWxu1uUE
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn History
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97939&extension=ts&play_token=mWiqFWODqy
 
 
 
