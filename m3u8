@@ -276,22 +276,184 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97737&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Test", OTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97722&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Test", Al-Manar
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97688&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Test", Future Tv
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97724&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Test", Noursat
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97733&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="Test", MBC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97959&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="Test", MBC HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59157&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="Test", MBC2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97960&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="Test", MBC2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59158&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="Test", MBC3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97961&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="Test", MBC3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59159&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="Test", MBC4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97962&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="Test", MBC4 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59160&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="Test", MBC5 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59161&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="Test", MBC Drama
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97963&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="Test", MBC Drama+ HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59250&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="Test", MBC Max
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97965&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="Test", MBC Action
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97966&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="Test", MBC Action HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59252&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="Test", MBC Masr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97967&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="Test", MBC Iraq HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97970&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Fox Life
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97973&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Fox Crime
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97974&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Fox Movies
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59269&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59306&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 SD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192754&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59307&extension=m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59308&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59309&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 4 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192764&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59310&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 5 SD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192750&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 5 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192763&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59311&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 6 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192762&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 6 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192749&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 6 HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192766&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 7
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192761&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports P1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192758&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports P2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192760&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports P2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192757&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports P3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192756&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Olympic Channel
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192748&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192767&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 Fr FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2816&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 Fr HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2817&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 2 Fr HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2818&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 2 Fr FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2819&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 3 Fr HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2820&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 3 Fr FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2821&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 4 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2822&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 5 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2823&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 6 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2824&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 7 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2825&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 8 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2826&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 9 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2827&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 10 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2828&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Eurosport 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2830&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Eurosport 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2831&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Golf
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2834&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",Golf+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2835&extension=m3u8
 
 
 
