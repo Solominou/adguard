@@ -10,6 +10,15 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", 1
+http://ip.xtremetv.eu:8000/78976/ZoKtUCSmzU/21716?play_token=H9iNgrUZgp
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", 2
+http://ip.xtremetv.eu:8000/78976/ZoKtUCSmzU/21716
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", 3
+http://ip.xtremetv.eu:8000/78976/ZoKtUCSmzU/21716.m3u8
+
+
+
 
 
 
