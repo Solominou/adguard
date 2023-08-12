@@ -1573,53 +1573,6 @@ https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN", Premium 1
-https://www.sports-stream.click/chtv/ch75.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN", Premium 2
-https://www.sports-stream.click/chtv/ch76.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN", Premium 3
-https://www.sports-stream.click/chtv/ch77.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN", beIN 1
-https://daddylivehd.com/embed/stream-91.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN", beIN 2
-https://daddylivehd.com/embed/stream-92.php
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN 3
-https://daddylivehd.com/embed/stream-93.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN", beIN 4
-https://daddylivehd.com/embed/stream-94.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN", beIN 5
-https://daddylivehd.com/embed/stream-95.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN", beIN 6
-https://daddylivehd.com/embed/stream-96.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN", beIN1 Fr
-https://time4tv.stream/watch1/sports/bein-sports-1.php
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1652,6 +1605,172 @@ https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", Nature
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59306&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 SD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192754&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59307&extension=m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59308&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59309&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 4 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192764&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59310&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 5 SD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192750&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 5 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192763&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59311&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 6 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192762&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 6 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192749&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 6 HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192766&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 7
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192761&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192758&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192760&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192757&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192756&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", Olympic Channel
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192748&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 1 Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192767&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 1 Fr FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2816&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 1 Fr HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2817&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 2 Fr HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2818&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 2 Fr FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2819&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 3 Fr HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2820&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 3 Fr FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2821&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 4 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2822&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 5 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2823&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 6 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2824&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 7 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2825&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 8 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2826&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 9 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2827&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 10 Max Fr
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2828&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Sports", Premium 1 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/10
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN Sports", Premium 2 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/11
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN Sports", Premium 3 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/12
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN Sports", beIN 1 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/13
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN Sports", beIN 2 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/14
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Sports", beIN 3 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/15
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN Sports", beIN 4 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/16
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN Sports", beIN 5 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/17
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN Sports", beIN 6 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/18
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Sports", beIN Xtra 1 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/305
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Sports", beIN Xtra 2 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/306
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN Sports", beIN English 🚥
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1930,42 +2049,6 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/48
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN 🚥", Premium 1
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/10
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="beIN 🚥", Premium 2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/11
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="beIN 🚥", Premium 3
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/12
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="beIN 🚥", beIN 1
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/13
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="beIN 🚥", beIN 2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/14
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN 🚥", beIN 3
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/15
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="beIN 🚥", beIN 4
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/16
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="beIN 🚥", beIN 5
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/17
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="beIN 🚥", beIN 6
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/18
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN 🚥", beIN Xtra 1
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/305
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN 🚥", beIN Xtra 2
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/306
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="beIN 🚥", beIN English
-https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
 
