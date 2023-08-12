@@ -936,6 +936,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44044&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids", Disney
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44012&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids", WB
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=148184&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids", Disney
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44013&extension=m3u8
 
