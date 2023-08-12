@@ -577,11 +577,33 @@ http://oh2.teledunet.com:8090/tdn/tdn/69
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein7.jpg?v=6" group-title="Teledunet",BEIN 7 Ar
 http://oh2.teledunet.com:8090/tdn/tdn/70
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein NBA
+http://oh2.teledunet.com:8090/tdn/tdn/46682
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="Teledunet",Bein Xtra 1
 http://oh2.teledunet.com:8090/tdn/tdn/71
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="Teledunet",Bein Xtra 2
 http://oh2.teledunet.com:8090/tdn/tdn/72
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 1 Au
+http://oh2.teledunet.com:8090/tdn/tdn/51265
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 2 Au
+http://oh2.teledunet.com:8090/tdn/tdn/51266
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 3 Au
+http://oh2.teledunet.com:8090/tdn/tdn/51266
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
+http://oh2.teledunet.com:8090/tdn/tdn/51268
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
+http://oh2.teledunet.com:8090/tdn/tdn/51269
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
+http://oh2.teledunet.com:8090/tdn/tdn/51270
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="Teledunet",Bein 2 En
 http://oh2.teledunet.com:8090/tdn/tdn/74
@@ -627,6 +649,13 @@ http://oh2.teledunet.com:8090/tdn/tdn/98
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3ed2da3eb57b68e64b3c86821ca6201e.png" group-title="Teledunet",Bein Gourmet
 http://oh2.teledunet.com:8090/tdn/tdn/99
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein Food network
+http://oh2.teledunet.com:8090/tdn/tdn/52852
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein AWE
+http://oh2.teledunet.com:8090/tdn/tdn/51268
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 1 US
 http://oh2.teledunet.com:8090/tdn/tdn/108
