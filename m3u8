@@ -2,6 +2,16 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 
+
+
+
+#_______________________________________Test_________________________________________________#
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97905&extension=m3u8
 
@@ -453,7 +463,13 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2835&extension=
 
 
 
-_______________________________________Teledunet_________________________________________________
+
+
+
+#_______________________________________Teledunet_________________________________________________#
+
+
+
 
 
 
@@ -834,18 +850,6 @@ http://oh2.teledunet.com:8090/tdn/tdn/396
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", M6
 http://oh2.teledunet.com:8090/tdn/tdn/411
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
 https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
 
@@ -875,8 +879,12 @@ http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZe
 
 
 
-_______________________________________Kids_________________________________________________
 
+
+
+
+
+#______________________________________Kids_________________________________________________#
 
 
 
@@ -1006,8 +1014,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97086&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids", Nick jr English
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97085&extension=m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids",Baby Tv
 http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7821&extension=m3u8&play_token=0ctmX4HjGu
 
@@ -1062,8 +1068,6 @@ http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7686&ext
 
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Tiny Pop
 http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7803&extension=m3u8&play_token=tuX527d7uw
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="Kids", Nickelodeon 🚥
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/242
@@ -1161,6 +1165,10 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/227
 
 
 
+#_______________________________________MBC_________________________________________________#
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC2 HD 🚥
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/279
@@ -1198,9 +1206,6 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/291
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
 https://shls-mbcd
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="MBC",MBC 2
-http://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc2_tv_1
-
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC Europe
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
@@ -1212,37 +1217,62 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/5smk763/mbc4.png" group-title="MBC",MBC 4-2
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5
 https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png" group-title="MBC",MBC 5-2
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="MBC",MBC DRAMA USA
 https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA +" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC",MBC DRAMA +
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="MBC",MBC ACTION
 http://62.182.82.104/MBC_Action/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/500px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX
 http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="https://i.ibb.co/kGw5pT9/mbcpersia.jpg" group-title="MBC",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" group-title="MBC",MBC BOLLYWOOD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="MBC",MBC VARIETY
-https://tv.ipslow.com/tv201_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=09cf5803fa4e5ea4a168f81904f15e97b0870b39-3d4c70e9eebab0aef94e03786af6350b-1686214674-1686203874
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="MBC",MBC IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_24.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR US
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="MBC",MBC Masr 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+#_______________________________________Shahid_________________________________________________#
 
 
 
@@ -1378,29 +1408,23 @@ https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15
 
 
 
+
+
+
+
+#_______________________________________Documentary_________________________________________________#
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID en
 http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7828&extension=m3u8&play_token=W7DGtJ7k2E
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Documentary", Dicovery ID
-http://31.14.40.58:8080/channel89/index.m3u8?token=apple
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary", NG Abu Dhabi 2
 https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="Documentary", NG Wild
-https://daddylivehd.com/embed/stream-745.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08j-2TBU7QpF6JZKgmHF3MrYAbS51TabjC8zjsUQxDfW1cjdq6Fx_wSjxdw" group-title="Documentary", National Geographic
-https://daddylivehd.com/embed/stream-328.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1y7ME6_GGevjYps3vxecC0JFd2hTW5cFu-PLppn6mP-TprD70t4gfHg&s" group-title="Documentary", ID
-https://daddylivehd.com/embed/stream-324.php
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="Documentary", Animal Planet
-hhttps://daddylivehd.com/embed/stream-304.php
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Documentary", Nasa
 https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
@@ -1413,6 +1437,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 
 
 
+
+
+
+
+
+#_______________________________________Bein Sport_________________________________________________#
 
 
 
@@ -1515,7 +1545,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2827&extension=
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 10 Max Fr
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2828&extension=m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Bein 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="beIN Sports", Premium 1 🚥
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/10
 
@@ -1571,7 +1600,7 @@ https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
 
-
+#_______________________________________OSN_________________________________________________#
 
 
 
@@ -1642,6 +1671,23 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/204
 
 
 
+
+
+
+
+
+
+
+
+
+
+#_______________________________________Bein Ent_________________________________________________#
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN p1" tvg-logo="https://www.beinmediagroup.com/wp-content/uploads/2017/02/compo-new-logos.jpg" group-title="BEIN ENT 🚥", BEIN 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/206
 
@@ -1681,6 +1727,16 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/220
 
 
 
+
+
+
+
+
+
+
+
+
+#_______________________________________Religious_________________________________________________#
 
 
 
@@ -1732,6 +1788,17 @@ https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+#_______________________________________News_________________________________________________#
 
 
 
@@ -1793,6 +1860,17 @@ http://www.elahmad.com/tv/mobiletv/glarb.php?id=alhurra
 
 
 
+
+
+
+
+
+
+
+
+
+
+#_______________________________________Netflix_________________________________________________#
 
 
 
@@ -1884,11 +1962,6 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/334
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 29
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/335
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/28
 
@@ -1952,8 +2025,6 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/47
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 21
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/48
 
-
-
 #EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Action (1080p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 
@@ -1998,6 +2069,14 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/166
 
 
 
+
+
+
+#______________________________________Music_________________________________________________#
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
 http://oh2.teledunet.com:8090/tdn/tdn/295
 
@@ -2029,6 +2108,9 @@ https://daiconnect.com/live/hls/rotana/music/.m3u8
 
 
 
+
+
+#_______________________________________Sex_________________________________________________#
 
 
 
