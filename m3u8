@@ -1366,6 +1366,13 @@ https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="Rotana",Rotana Cinema (1080p)
 https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
 
@@ -1609,10 +1616,45 @@ https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13241&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13242&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13243&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13244&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 5
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=1966&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 6
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13246&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 8 Max
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13248&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 9 Max
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=13249&extension=m3u8
 
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=117446&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=117447&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports P3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=117448&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 2 Max
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=117445&extension=m3u8
 
 
 
