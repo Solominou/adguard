@@ -10,6 +10,9 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", kiwi
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:B2:7E:AF&stream=240815.mp4&type=movie
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
