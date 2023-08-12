@@ -894,29 +894,6 @@ http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZe
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
-http://oh2.teledunet.com:8090/tdn/tdn/295
-
-#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
-https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosa�0�7que FM (480p) [Not 24/7]
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Music",Panorama FM (1080p)
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Music",Rotana Khalijia (1080p)
-https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
-https://daiconnect.com/live/hls/rotana/music/.m3u8
 
 
 
@@ -926,48 +903,6 @@ https://daiconnect.com/live/hls/rotana/music/.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Action (1080p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-
-#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Drama (720p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-
-#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Movies",Syria Satellite Channel (360p) [Not 24/7]
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Movies",iFilm Arabic (720p) [Not 24/7]
-https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF1.jpg" group-title="Movies",Art Aflam 1
-http://62.182.82.104/ART_AFLAM_1/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF2.jpg" group-title="Movies",Art Aflam 2
-http://62.182.82.104/ART_AFLAM_2/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="Movies",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix
-https://aloka-arena.online/arenatvarena/arenatvarena/168.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Mix Arabi
-https://aloka-arena.online/arenatvarena/arenatvarena/169.m3u8
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Cinema 🚥
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/163
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 1 🚥
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/164
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 2 🚥
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/165
-
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Alpha Musalsalat 🚥
-https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/166
 
 
 
@@ -1889,91 +1824,91 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/220
 
 
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 1
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/307
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 2
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/308
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 3
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/309
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 4
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 4
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/310
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 5
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 5
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/311
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 6
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 6
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/312
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 7
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 7
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/313
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 8
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/314
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 9
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 9
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/315
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 10
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 10
 https://airmaxtv.online:airmaxPoo9/N8KfmwdnxQ3g/316
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 11
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 11
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/317
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 12
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 12
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/318
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 13
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 13
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/319
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 14
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 14
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/320
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 15
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 15
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/321
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 16
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 16
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/322
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 17
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 17
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/323
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 18
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="NMovies",Netflix 18
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/324
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 19
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 19
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/325
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 20
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 20
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/326
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 21
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 21
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/327
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 22
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 22
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/328
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 23
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 23
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/329
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 24
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 24
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/330
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 25
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 25
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/331
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 26
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 26
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/332
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 27
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 27
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/333
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 28
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 28
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/334
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Netflix Movies🚥",Netflix 29
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Movies",Netflix 29
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/335
 
 
@@ -1981,72 +1916,138 @@ https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/335
 
 
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 1
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 1
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/28
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 2
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 2
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/29
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 3
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 3
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/30
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 4
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 4
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/31
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 5
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 5
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/32
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 6
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 6
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/33
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 7
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 7
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/34
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 8
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/35
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 9
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 9
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/36
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 10
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 10
 https://airmaxtv.online:airmaxPoo9/N8KfmwdnxQ3g/37
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 11
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 11
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/38
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 12
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies,Majestic 12
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/39
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 13
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 13
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/40
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 14
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 14
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/41
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 15
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 15
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/42
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 16
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 16
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/43
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 17
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 17
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/44
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 18
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 18
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/45
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 19
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 19
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/46
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 20
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 20
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/47
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Majestic Movies🚥",Majestic 21
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Majestic 21
 https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/48
 
 
 
+#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Action (1080p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="Movies",Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Movies",Syria Satellite Channel (360p) [Not 24/7]
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-logo="https://i.imgur.com/k5WdrWx.png" group-title="Movies",iFilm Arabic (720p) [Not 24/7]
+https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF1.jpg" group-title="Movies",Art Aflam 1
+http://62.182.82.104/ART_AFLAM_1/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://content.osn.com/bob/745x419/AF2.jpg" group-title="Movies",Art Aflam 2
+http://62.182.82.104/ART_AFLAM_2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="Movies",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Cinema 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/163
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 1 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/164
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Art Hikayat 2 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/165
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://i.imgur.com/6yH88Q1.png" group-title="Movies",Alpha Musalsalat 🚥
+https://airmaxtv.online:25463/airmaxPoo9/N8KfmwdnxQ3g/166
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Music",One TV
+http://oh2.teledunet.com:8090/tdn/tdn/295
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosa�0�7que FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Music",Rotana Khalijia (1080p)
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
+https://daiconnect.com/live/hls/rotana/music/.m3u8
 
 
 
