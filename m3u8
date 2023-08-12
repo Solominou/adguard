@@ -264,9 +264,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97086&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nick jr English
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97085&extension=m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Test", MTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97723&extension=m3u8
 
@@ -350,8 +347,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192754&extensio
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59307&extension=m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59308&extension=m3u8
@@ -458,8 +453,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=2835&extension=
 
 
 
-
-
+_______________________________________Teledunet_________________________________________________
 
 
 
@@ -881,35 +875,7 @@ http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZe
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+_______________________________________Kids_________________________________________________
 
 
 
@@ -1450,16 +1416,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59306&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=192754&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59307&extension=m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=59308&extension=m3u8
