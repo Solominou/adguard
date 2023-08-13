@@ -1604,94 +1604,94 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=117445&extens
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Ya Hala
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97905&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Family mol
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Family mol
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97915&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Arabi
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Arabi
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97906&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Aflam
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Aflam
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97907&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Movie Hollywood
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97914&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Now
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Now
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97954&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Action
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Action
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97917&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Premiere
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Movie Premiere
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97918&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Premiere
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Movie Premiere
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97918&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Box Office 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Box Office 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97956&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Premiere +2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Movie Premiere +2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97919&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Comedy
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Comedy
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97920&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Kids
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Kids
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97921&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Moonbug
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Moonbug
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97922&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Disney
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Disney
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97923&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Crime
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Crime
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97925&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Star Movies
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97932&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Star World
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Star World
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97933&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", W Movies
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", W Movies
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97944&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn E!
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn E!
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97938&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="h" group-title="Test", National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="h" group-title="Osn", National Geographic
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97940&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Pop up
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Pop up
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97941&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Wild
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Wild
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97942&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Osn", Animal Planet
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97982&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Discovery
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Discovery
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97950&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Box 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Box 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97956&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Cinema 1
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Cinema 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97903&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Cinema 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Cinema 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97904&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Musalsalat 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Musalsalat 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97911&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Fan
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Fan
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97913&extension=m3u8
 
 
@@ -1719,167 +1719,106 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97913&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN box 3
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", beIN box 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97957&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Movies 1
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", beIN Movies 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97986&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Movies 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", beIN Movies 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97987&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", beIN Movies 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97988&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Food Network
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Food Network
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97990&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Fox Action
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Fox Action
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97991&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Drama
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", beIN Drama
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97992&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Bein Series 1
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Bein Series 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97994&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Bein Series 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Bein Series 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97995&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", AMC
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", AMC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97800&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Outdoor
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Outdoor
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97804&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", DTX
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", DTX
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97805&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Fatafeat
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Fatafeat
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97999&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Kids 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="beIN Entertainment", Osn Kids 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97929&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Dreamworks
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97801&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Boomerang Arabi
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Boomerang Arabi
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97802&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Masha
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Masha
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97984&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Baraem
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Baraem
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97993&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Jeem Kids
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Jeem Kids
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97996&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Be Junior
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Be Junior
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97997&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Disney Channel
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97998&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Nickelodeon
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44036&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Boomerang
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44027&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon Teen
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Nickelodeon Teen
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44041&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon Junior
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Nickelodeon Junior
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44039&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", J
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", J
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=44042&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", J one
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", J one
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44044&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Disney
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44012&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Disney
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44013&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Disney Junior
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44015&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Disney
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44012&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Piwi+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Piwi+
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44020&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Gulli Good
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Gulli Good
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44022&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Tiji
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44024&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Cartoonito
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44026&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Teletoon
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44030&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Teletoon+
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44031&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Teletoon +1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44032&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Cartoon Network
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44033&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44035&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nickelodeon+ 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44037&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Teletoon +1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44032&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney+
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=125998&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Mangas FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44048&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Mangas HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44049&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Game One FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44050&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Game One HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44051&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Game One+ FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44052&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Game One+ HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44053&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Baby Tv English
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97080&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Disney Junior English
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97083&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Cartoon Network English
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97084&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nick SpongeBob English
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97086&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Nick jr English
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97085&extension=m3u8
 
 
 
