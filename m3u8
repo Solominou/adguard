@@ -43,6 +43,9 @@ http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97918&extensi
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Premiere
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97918&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Box Office 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97956&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Movie Premiere +2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=97919&extension=m3u8
 
