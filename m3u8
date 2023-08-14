@@ -9,11 +9,40 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test
-https://airmaxtv.online/play/9NSpiqTAKfl3gTcAJYc0eMy6s3dairBhlmZl6YhGhOevTEbdvWdkGCloH6ngmeNj
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", test1
+http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test3
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/2850
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Arabi
+https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Musalsalat
+https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
+https://livekora24.com/live/ozn/OSNyahalaFHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Aflam
+https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Action
+https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Premiere
+https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Hollywood
+https://livekora24.com/live/ozn/OSNMovieshollywood.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97905&extension=m3u8
@@ -932,6 +961,10 @@ https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Premiere
 https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Hollywood
+https://livekora24.com/live/ozn/OSNMovieshollywood.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
 http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
