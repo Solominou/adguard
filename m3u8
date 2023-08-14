@@ -12,6 +12,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test
 https://airmaxtv.online/play/9NSpiqTAKfl3gTcAJYc0eMy6s3dairBhlmZl6YhGhOevTEbdvWdkGCloH6ngmeNj/ts
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test2
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/2850
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97905&extension=m3u8
