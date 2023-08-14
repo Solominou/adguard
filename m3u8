@@ -12,10 +12,10 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", test1
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test1
 http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", test2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test2
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/54573
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test3
