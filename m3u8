@@ -11,15 +11,8 @@
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test1
-http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628
-
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test2
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/54573
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test3
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/54573
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", test3
 http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/2850
