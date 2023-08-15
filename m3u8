@@ -24,9 +24,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test55
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=772
 
 
 
