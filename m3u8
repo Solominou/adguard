@@ -459,7 +459,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97974&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", Fox Movies
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=59269&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports p1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=59306&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test", beIN Sports 1 SD
