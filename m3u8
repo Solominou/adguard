@@ -12,6 +12,22 @@
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test1
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/19.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test3
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/35.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test4
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/57.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test5
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/99.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Arabi
 https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
@@ -34,7 +50,23 @@ https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Hollywood
 https://livekora24.com/live/ozn/OSNMovieshollywood.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Musalsalat
+https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test",Nat Geo Wild
+https://livekora24.com/live/ozn/OSNNatGeoWild.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test",Osn Alyawm
+https://livekora24.com/live/ozn/OSNAloumFHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Art Aflam2
+https://livekora24.com/live/ozn/OSNARTHekayat1.m3u8https://livekora24.com/live/ozn/OSN%20ART%20Aflam%202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Art Hekayat
+https://livekora24.com/live/ozn/OSNARTHekayat1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Art Hekayat2
+https://livekora24.com/live/ozn/OSNARTHekayat2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Ya Hala
