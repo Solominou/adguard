@@ -9,9 +9,8 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test",test1
-https://airmaxtv.online/play/9NSpiqTAKfl3gTcAJYc0eH-8crfTfhbu_mUT4mScUFyQXmOqrp71IK75bg2vyDzR
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Test",test1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/19.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Test", Osn Arabi
