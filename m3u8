@@ -1208,8 +1208,8 @@ http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7686&ext
 #EXTINF:-1 tvg-id="" tvg-name="Sat7 Kids" tvg-logo="" group-title="Kids", Tiny Pop
 http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=7803&extension=m3u8&play_token=tuX527d7uw
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Kids", Osn Kids 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97929&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png" group-title="Kids",Space Toon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
@@ -1874,9 +1874,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97805&extension
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Fatafeat
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97999&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="beIN Entertainment", Osn Kids 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97929&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Entertainment", Dreamworks
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97801&extension=m3u8
