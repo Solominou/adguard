@@ -650,444 +650,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=2835&extension=
 
 
 
-#_______________________________________Teledunet_________________________________________________#
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
-http://oh2.teledunet.com:8090/tdn/tdn/297
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
-http://oh2.teledunet.com:8090/tdn/tdn/292
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed
-http://oh2.teledunet.com:8090/tdn/tdn/289
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed HD
-http://oh2.teledunet.com:8090/tdn/tdn/290
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV
-http://oh2.teledunet.com:8090/tdn/tdn/293
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Teledunet",Al-Manar
-http://oh2.teledunet.com:8090/tdn/tdn/302
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Teledunet",TL
-http://oh2.teledunet.com:8090/tdn/tdn/305
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Teledunet",Al-Mayadeen
-http://oh2.teledunet.com:8090/tdn/tdn/301
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN
-http://oh2.teledunet.com:8090/tdn/tdn/299
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Teledunet",Arabica
-http://oh2.teledunet.com:8090/tdn/tdn/296
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Teledunet",One TV
-http://oh2.teledunet.com:8090/tdn/tdn/295
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Teledunet",LBC Sat
-http://oh2.teledunet.com:8090/tdn/tdn/304
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Hawacom
-http://oh2.teledunet.com:8090/tdn/tdn/306
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Action
-http://94.130.37.50:2095/netflix/2023/83121?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Anime
-http://94.130.37.50:2095/netflix/2023/83951?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Drama
-http://78.46.43.55:2095/netflix/2023/51881?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Comedy
-http://94.130.37.50:2095/netflix/2023/83129?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Horror
-http://94.130.37.50:2095/netflix/2023/83126?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="Teledunet",BEIN P1
-http://oh2.teledunet.com:8090/tdn/tdn/61
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="Teledunet",BEIN P1 HD
-http://smart.teledunet.com:8080/tdn/tdn/8095
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="Teledunet",BEIN P2
-http://oh2.teledunet.com:8090/tdn/tdn/62
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="Teledunet",Bein P3
-http://oh2.teledunet.com:8090/tdn/tdn/63
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 1 En
-http://oh2.teledunet.com:8090/tdn/tdn/73
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="Teledunet",Bein 1 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/382
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="Teledunet",Bein 2 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/383
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="Teledunet",Bein 3 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/384
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="Teledunet",Bein 1 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/64
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="Teledunet",Bein 2 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/65
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="Teledunet",Bein 3 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/66
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="Teledunet",Bein 4 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/67
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="Teledunet",Bein 5 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/68
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 6 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/69
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein7.jpg?v=6" group-title="Teledunet",BEIN 7 Ar
-http://oh2.teledunet.com:8090/tdn/tdn/70
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein NBA
-http://oh2.teledunet.com:8090/tdn/tdn/46682
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="Teledunet",Bein Xtra 1
-http://oh2.teledunet.com:8090/tdn/tdn/71
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="Teledunet",Bein Xtra 2
-http://oh2.teledunet.com:8090/tdn/tdn/72
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 1 Au
-http://oh2.teledunet.com:8090/tdn/tdn/51265
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 2 Au
-http://oh2.teledunet.com:8090/tdn/tdn/51266
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 3 Au
-http://oh2.teledunet.com:8090/tdn/tdn/51266
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
-http://oh2.teledunet.com:8090/tdn/tdn/51268
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
-http://oh2.teledunet.com:8090/tdn/tdn/51269
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
-http://oh2.teledunet.com:8090/tdn/tdn/51270
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="Teledunet",Bein 2 En
-http://oh2.teledunet.com:8090/tdn/tdn/74
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="Teledunet",Bein 3 En
-http://oh2.teledunet.com:8090/tdn/tdn/75
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="Teledunet",Bein Xtra US
-http://oh2.teledunet.com:8090/tdn/tdn/76
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/4613ce9e4087124f037f91607c9f662b.png" group-title="Teledunet",Bein Movie Premiere
-http://oh2.teledunet.com:8090/tdn/tdn/88
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f53fed0173cd3832fe7cda3ff10e106e.png" group-title="Teledunet",Bein Movie Action
-http://oh2.teledunet.com:8090/tdn/tdn/89
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/3d5073e1e28bdffdd189ea037199ffd6.png" group-title="Teledunet",Bein Movie Drama
-http://oh2.teledunet.com:8090/tdn/tdn/90
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="Teledunet",Bein Family
-http://oh2.teledunet.com:8090/tdn/tdn/91
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/8cce30dd345d22af0722d14ff91090f8.png" group-title="Teledunet",Bein Series 1
-http://oh2.teledunet.com:8090/tdn/tdn/92
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/8cce30dd345d22af0722d14ff91090f8.png" group-title="Teledunet",Bein Series 2
-http://oh2.teledunet.com:8090/tdn/tdn/93
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/3d5073e1e28bdffdd189ea037199ffd6.png" group-title="Teledunet",Bein Drama
-http://oh2.teledunet.com:8090/tdn/tdn/94
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://bs-share.com:8000/images/381cdb40ca926cdc79870c43795131a1.png" group-title="Teledunet",BEIN Fox HD
-http://oh2.teledunet.com:8090/tdn/tdn/95
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b68f691e604e022bf2488d2cd61d6ab4.png" group-title="Teledunet",BEIN Fox Life
-http://oh2.teledunet.com:8090/tdn/tdn/96
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/11f5f7b68e68200fd365dd9c511ea78c.png" group-title="Teledunet",Bein Fox Action
-http://oh2.teledunet.com:8090/tdn/tdn/97
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/40e521fb94f42d0d42cbb698c4d7005c.png" group-title="Teledunet",Bein Fatafeet
-http://oh2.teledunet.com:8090/tdn/tdn/98
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3ed2da3eb57b68e64b3c86821ca6201e.png" group-title="Teledunet",Bein Gourmet
-http://oh2.teledunet.com:8090/tdn/tdn/99
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein Food network
-http://oh2.teledunet.com:8090/tdn/tdn/52852
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein AWE
-http://oh2.teledunet.com:8090/tdn/tdn/51268
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 1 US
-http://oh2.teledunet.com:8090/tdn/tdn/108
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 2 US
-http://oh2.teledunet.com:8090/tdn/tdn/109
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 3 US
-http://oh2.teledunet.com:8090/tdn/tdn/110
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/5b8cc1432f9209ea83feae35f24e456b.png" group-title="Teledunet",Bein 4 US
-http://oh2.teledunet.com:8090/tdn/tdn/111
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/4418f1627d222173a60a3852e205600e.png" group-title="Teledunet",Bein 5 Us
-http://oh2.teledunet.com:8090/tdn/tdn/112
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/98dd8f06d4a8ca281125e94cbb18caf8.png" group-title="Teledunet",Bein 6 US
-http://oh2.teledunet.com:8090/tdn/tdn/113
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21246d88ae53118436aa951dcf1a2fa0.png" group-title="Teledunet",Bein 7 US
-http://oh2.teledunet.com:8090/tdn/tdn/114
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein8.jpg?v=6" group-title="Teledunet",Bein 8 US
-http://oh2.teledunet.com:8090/tdn/tdn/115
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://bs-share.com:8000/images/94c2bb7c12f34180d93fd49eb352c086.png" group-title="Teledunet",BEIN AFC Global
-http://oh2.teledunet.com:8090/tdn/tdn/116
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Teledunet",Al-Manar 
-https://manar.live/iptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Teledunet",Noursat 
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/dF4Mvts.png" group-title="Teledunet",Nour Kodas 
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/EEy2dUr.png" group-title="Teledunet",Nour Kids
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Teledunet",Nour Mariam
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Teledunet", Charity TV 
-http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="Teledunet",MBC 1
-http://oh2.teledunet.com:8090/tdn/tdn/562
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="Teledunet",MBC2 HD
-http://oh2.teledunet.com:8090/tdn/tdn/565
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="Teledunet",MBC Ation
-http://oh2.teledunet.com:8090/tdn/tdn/566
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="Teledunet",MBC Max
-http://oh2.teledunet.com:8090/tdn/tdn/568
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="Teledunet",MBC Drama
-http://oh2.teledunet.com:8090/tdn/tdn/570
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="Teledunet",MBC 3
-http://oh2.teledunet.com:8090/tdn/tdn/573
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="Teledunet",MBC 4
-http://oh2.teledunet.com:8090/tdn/tdn/577
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="Teledunet",MBC 5
-http://oh2.teledunet.com:8090/tdn/tdn/579
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",MBC Bollywood
-http://oh2.teledunet.com:8090/tdn/tdn/582
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="Teledunet",MBC Variety
-http://oh2.teledunet.com:8090/tdn/tdn/584
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="Teledunet",MBC+ Drama
-http://oh2.teledunet.com:8090/tdn/tdn/585
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="Teledunet",MBC Iraq
-http://oh2.teledunet.com:8090/tdn/tdn/581
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="Teledunet",MBC Masr
-http://oh2.teledunet.com:8090/tdn/tdn/572
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="Teledunet",MBC Masr2
-http://oh2.teledunet.com:8090/tdn/tdn/573
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Zee Alwan
-http://oh2.teledunet.com:8090/tdn/tdn/586
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Zee Aflam
-http://oh2.teledunet.com:8090/tdn/tdn/588
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Panorama FM
-http://oh2.teledunet.com:8090/tdn/tdn/589
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Wanasah
-http://oh2.teledunet.com:8090/tdn/tdn/590
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
-http://oh2.teledunet.com:8090/tdn/tdn/122
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Musalsalat
-http://oh2.teledunet.com:8090/tdn/tdn/123
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Ya Hala
-http://oh2.teledunet.com:8090/tdn/tdn/125
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Aflam
-https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Action
-https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Premiere
-https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
-http://oh2.teledunet.com:8090/tdn/tdn/126
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Al Yom
-http://oh2.teledunet.com:8090/tdn/tdn/127
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Aflam1
-http://oh2.teledunet.com:8090/tdn/tdn/128
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Aflam2
-http://oh2.teledunet.com:8090/tdn/tdn/129
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Hekayat
-http://oh2.teledunet.com:8090/tdn/tdn/131
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Hekayat 2
-http://oh2.teledunet.com:8090/tdn/tdn/132
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Cinema
-http://oh2.teledunet.com:8090/tdn/tdn/133
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Cinema2
-http://oh2.teledunet.com:8090/tdn/tdn/134
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Star Movies
-http://oh2.teledunet.com:8090/tdn/tdn/138
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Travel
-http://oh2.teledunet.com:8090/tdn/tdn/142
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Star World
-http://oh2.teledunet.com:8090/tdn/tdn/144
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn E!
-http://oh2.teledunet.com:8090/tdn/tdn/151
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nat Wild
-http://oh2.teledunet.com:8090/tdn/tdn/157
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn History
-http://oh2.teledunet.com:8090/tdn/tdn/160
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn History
-http://oh2.teledunet.com:8090/tdn/tdn/161
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Sponge BoB
-http://oh2.teledunet.com:8090/tdn/tdn/8147
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Mr. Bean
-http://oh2.teledunet.com:8090/tdn/tdn/37
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", CN
-http://oh2.teledunet.com:8090/tdn/tdn/48
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nick Arabic
-http://oh2.teledunet.com:8090/tdn/tdn/49
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Tiji
-http://oh2.teledunet.com:8090/tdn/tdn/51
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Piwi+
-http://oh2.teledunet.com:8090/tdn/tdn/52
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", CN French
-http://oh2.teledunet.com:8090/tdn/tdn/54
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Boomerang
-http://oh2.teledunet.com:8090/tdn/tdn/53
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nick Jr.
-http://oh2.teledunet.com:8090/tdn/tdn/55
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein1 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/382
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein2 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/383
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein3 Fr
-http://oh2.teledunet.com:8090/tdn/tdn/384
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime1
-http://oh2.teledunet.com:8090/tdn/tdn/74
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime2
-http://oh2.teledunet.com:8090/tdn/tdn/75
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime3
-http://oh2.teledunet.com:8090/tdn/tdn/76
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime4
-http://oh2.teledunet.com:8090/tdn/tdn/77
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime5
-http://oh2.teledunet.com:8090/tdn/tdn/78
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime6
-http://oh2.teledunet.com:8090/tdn/tdn/79
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime7
-http://oh2.teledunet.com:8090/tdn/tdn/80
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", RMC1
-http://oh2.teledunet.com:8090/tdn/tdn/396
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", M6
-http://oh2.teledunet.com:8090/tdn/tdn/411
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
-https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Musalsalat
-https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Ya Hala
-https://livekora24.com/live/ozn/OSNyahalaFHD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Aflam
-https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Action
-https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Premiere
-https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Hollywood
-https://livekora24.com/live/ozn/OSNMovieshollywood.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
-http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
-
 
 
 
@@ -11262,3 +10824,468 @@ http://31.14.40.58:8080/channel132/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AL-MAYADEEN" tvg-logo="" group-title="Solo",me
 http://31.14.40.58:8080/channel139/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#_______________________________________Teledunet_________________________________________________#
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="Teledunet",LBCI
+http://oh2.teledunet.com:8090/tdn/tdn/297
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Teledunet",MTV
+http://oh2.teledunet.com:8090/tdn/tdn/292
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed
+http://oh2.teledunet.com:8090/tdn/tdn/289
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Teledunet",Al-Jadeed HD
+http://oh2.teledunet.com:8090/tdn/tdn/290
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Teledunet",OTV
+http://oh2.teledunet.com:8090/tdn/tdn/293
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Teledunet",Al-Manar
+http://oh2.teledunet.com:8090/tdn/tdn/302
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/teleliban.jpg?v=6" group-title="Teledunet",TL
+http://oh2.teledunet.com:8090/tdn/tdn/305
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Teledunet",Al-Mayadeen
+http://oh2.teledunet.com:8090/tdn/tdn/301
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Teledunet",NBN
+http://oh2.teledunet.com:8090/tdn/tdn/299
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Teledunet",Arabica
+http://oh2.teledunet.com:8090/tdn/tdn/296
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Teledunet",One TV
+http://oh2.teledunet.com:8090/tdn/tdn/295
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="Teledunet",LBC Sat
+http://oh2.teledunet.com:8090/tdn/tdn/304
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="" group-title="Teledunet",Hawacom
+http://oh2.teledunet.com:8090/tdn/tdn/306
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Action
+http://94.130.37.50:2095/netflix/2023/83121?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Anime
+http://94.130.37.50:2095/netflix/2023/83951?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Drama
+http://78.46.43.55:2095/netflix/2023/51881?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Comedy
+http://94.130.37.50:2095/netflix/2023/83129?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21c603dbf852f78063f98674640ab339.png" group-title="Teledunet", Netflix Horror
+http://94.130.37.50:2095/netflix/2023/83126?token=edoi8tbX1V&token=byXHXy.X.y.X.ybHaHUfdcb.X.y.ahmadkkkk.uuu.2fc01ea2b22e472328564c6136e97ab28d4a0545618057c77299a0dc2e65da71=
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="Teledunet",BEIN P1
+http://oh2.teledunet.com:8090/tdn/tdn/61
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1_premium.jpg?v=6" group-title="Teledunet",BEIN P1 HD
+http://smart.teledunet.com:8080/tdn/tdn/8095
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2_premium.jpg?v=6" group-title="Teledunet",BEIN P2
+http://oh2.teledunet.com:8090/tdn/tdn/62
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3_premium.jpg?v=6" group-title="Teledunet",Bein P3
+http://oh2.teledunet.com:8090/tdn/tdn/63
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 1 En
+http://oh2.teledunet.com:8090/tdn/tdn/73
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="Teledunet",Bein 1 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/382
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="Teledunet",Bein 2 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/383
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="Teledunet",Bein 3 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/384
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="Teledunet",Bein 1 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/64
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="Teledunet",Bein 2 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/65
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="Teledunet",Bein 3 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/66
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="Teledunet",Bein 4 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/67
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein5.jpg?v=6" group-title="Teledunet",Bein 5 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/68
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 6 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/69
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein7.jpg?v=6" group-title="Teledunet",BEIN 7 Ar
+http://oh2.teledunet.com:8090/tdn/tdn/70
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein NBA
+http://oh2.teledunet.com:8090/tdn/tdn/46682
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="Teledunet",Bein Xtra 1
+http://oh2.teledunet.com:8090/tdn/tdn/71
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="Teledunet",Bein Xtra 2
+http://oh2.teledunet.com:8090/tdn/tdn/72
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 1 Au
+http://oh2.teledunet.com:8090/tdn/tdn/51265
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 2 Au
+http://oh2.teledunet.com:8090/tdn/tdn/51266
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 3 Au
+http://oh2.teledunet.com:8090/tdn/tdn/51266
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
+http://oh2.teledunet.com:8090/tdn/tdn/51268
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
+http://oh2.teledunet.com:8090/tdn/tdn/51269
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein 4k ar events
+http://oh2.teledunet.com:8090/tdn/tdn/51270
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="Teledunet",Bein 2 En
+http://oh2.teledunet.com:8090/tdn/tdn/74
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="Teledunet",Bein 3 En
+http://oh2.teledunet.com:8090/tdn/tdn/75
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="Teledunet",Bein Xtra US
+http://oh2.teledunet.com:8090/tdn/tdn/76
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/4613ce9e4087124f037f91607c9f662b.png" group-title="Teledunet",Bein Movie Premiere
+http://oh2.teledunet.com:8090/tdn/tdn/88
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f53fed0173cd3832fe7cda3ff10e106e.png" group-title="Teledunet",Bein Movie Action
+http://oh2.teledunet.com:8090/tdn/tdn/89
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/3d5073e1e28bdffdd189ea037199ffd6.png" group-title="Teledunet",Bein Movie Drama
+http://oh2.teledunet.com:8090/tdn/tdn/90
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="Teledunet",Bein Family
+http://oh2.teledunet.com:8090/tdn/tdn/91
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/8cce30dd345d22af0722d14ff91090f8.png" group-title="Teledunet",Bein Series 1
+http://oh2.teledunet.com:8090/tdn/tdn/92
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/8cce30dd345d22af0722d14ff91090f8.png" group-title="Teledunet",Bein Series 2
+http://oh2.teledunet.com:8090/tdn/tdn/93
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/3d5073e1e28bdffdd189ea037199ffd6.png" group-title="Teledunet",Bein Drama
+http://oh2.teledunet.com:8090/tdn/tdn/94
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://bs-share.com:8000/images/381cdb40ca926cdc79870c43795131a1.png" group-title="Teledunet",BEIN Fox HD
+http://oh2.teledunet.com:8090/tdn/tdn/95
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b68f691e604e022bf2488d2cd61d6ab4.png" group-title="Teledunet",BEIN Fox Life
+http://oh2.teledunet.com:8090/tdn/tdn/96
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/11f5f7b68e68200fd365dd9c511ea78c.png" group-title="Teledunet",Bein Fox Action
+http://oh2.teledunet.com:8090/tdn/tdn/97
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/40e521fb94f42d0d42cbb698c4d7005c.png" group-title="Teledunet",Bein Fatafeet
+http://oh2.teledunet.com:8090/tdn/tdn/98
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3ed2da3eb57b68e64b3c86821ca6201e.png" group-title="Teledunet",Bein Gourmet
+http://oh2.teledunet.com:8090/tdn/tdn/99
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein Food network
+http://oh2.teledunet.com:8090/tdn/tdn/52852
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein6.jpg?v=6" group-title="Teledunet",Bein AWE
+http://oh2.teledunet.com:8090/tdn/tdn/51268
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 1 US
+http://oh2.teledunet.com:8090/tdn/tdn/108
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 2 US
+http://oh2.teledunet.com:8090/tdn/tdn/109
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Teledunet",Bein 3 US
+http://oh2.teledunet.com:8090/tdn/tdn/110
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/5b8cc1432f9209ea83feae35f24e456b.png" group-title="Teledunet",Bein 4 US
+http://oh2.teledunet.com:8090/tdn/tdn/111
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/4418f1627d222173a60a3852e205600e.png" group-title="Teledunet",Bein 5 Us
+http://oh2.teledunet.com:8090/tdn/tdn/112
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/98dd8f06d4a8ca281125e94cbb18caf8.png" group-title="Teledunet",Bein 6 US
+http://oh2.teledunet.com:8090/tdn/tdn/113
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://w.bs-share.com:8000/images/21246d88ae53118436aa951dcf1a2fa0.png" group-title="Teledunet",Bein 7 US
+http://oh2.teledunet.com:8090/tdn/tdn/114
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein8.jpg?v=6" group-title="Teledunet",Bein 8 US
+http://oh2.teledunet.com:8090/tdn/tdn/115
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://bs-share.com:8000/images/94c2bb7c12f34180d93fd49eb352c086.png" group-title="Teledunet",BEIN AFC Global
+http://oh2.teledunet.com:8090/tdn/tdn/116
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Teledunet",Al-Manar 
+https://manar.live/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Teledunet",Noursat 
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/dF4Mvts.png" group-title="Teledunet",Nour Kodas 
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/EEy2dUr.png" group-title="Teledunet",Nour Kids
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Teledunet",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Teledunet", Charity TV 
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="Teledunet",MBC 1
+http://oh2.teledunet.com:8090/tdn/tdn/562
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="Teledunet",MBC2 HD
+http://oh2.teledunet.com:8090/tdn/tdn/565
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="Teledunet",MBC Ation
+http://oh2.teledunet.com:8090/tdn/tdn/566
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="Teledunet",MBC Max
+http://oh2.teledunet.com:8090/tdn/tdn/568
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="Teledunet",MBC Drama
+http://oh2.teledunet.com:8090/tdn/tdn/570
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="Teledunet",MBC 3
+http://oh2.teledunet.com:8090/tdn/tdn/573
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="Teledunet",MBC 4
+http://oh2.teledunet.com:8090/tdn/tdn/577
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="Teledunet",MBC 5
+http://oh2.teledunet.com:8090/tdn/tdn/579
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",MBC Bollywood
+http://oh2.teledunet.com:8090/tdn/tdn/582
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_variety.jpg?v=6" group-title="Teledunet",MBC Variety
+http://oh2.teledunet.com:8090/tdn/tdn/584
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="Teledunet",MBC+ Drama
+http://oh2.teledunet.com:8090/tdn/tdn/585
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="Teledunet",MBC Iraq
+http://oh2.teledunet.com:8090/tdn/tdn/581
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="Teledunet",MBC Masr
+http://oh2.teledunet.com:8090/tdn/tdn/572
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="Teledunet",MBC Masr2
+http://oh2.teledunet.com:8090/tdn/tdn/573
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Zee Alwan
+http://oh2.teledunet.com:8090/tdn/tdn/586
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Zee Aflam
+http://oh2.teledunet.com:8090/tdn/tdn/588
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Panorama FM
+http://oh2.teledunet.com:8090/tdn/tdn/589
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="Teledunet",Wanasah
+http://oh2.teledunet.com:8090/tdn/tdn/590
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
+http://oh2.teledunet.com:8090/tdn/tdn/122
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Musalsalat
+http://oh2.teledunet.com:8090/tdn/tdn/123
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Ya Hala
+http://oh2.teledunet.com:8090/tdn/tdn/125
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Aflam
+https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Action
+https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Premiere
+https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
+http://oh2.teledunet.com:8090/tdn/tdn/126
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Al Yom
+http://oh2.teledunet.com:8090/tdn/tdn/127
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Aflam1
+http://oh2.teledunet.com:8090/tdn/tdn/128
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Aflam2
+http://oh2.teledunet.com:8090/tdn/tdn/129
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Hekayat
+http://oh2.teledunet.com:8090/tdn/tdn/131
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Hekayat 2
+http://oh2.teledunet.com:8090/tdn/tdn/132
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Cinema
+http://oh2.teledunet.com:8090/tdn/tdn/133
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Art Cinema2
+http://oh2.teledunet.com:8090/tdn/tdn/134
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Star Movies
+http://oh2.teledunet.com:8090/tdn/tdn/138
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Travel
+http://oh2.teledunet.com:8090/tdn/tdn/142
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Star World
+http://oh2.teledunet.com:8090/tdn/tdn/144
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn E!
+http://oh2.teledunet.com:8090/tdn/tdn/151
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nat Wild
+http://oh2.teledunet.com:8090/tdn/tdn/157
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn History
+http://oh2.teledunet.com:8090/tdn/tdn/160
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn History
+http://oh2.teledunet.com:8090/tdn/tdn/161
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Sponge BoB
+http://oh2.teledunet.com:8090/tdn/tdn/8147
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Mr. Bean
+http://oh2.teledunet.com:8090/tdn/tdn/37
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", CN
+http://oh2.teledunet.com:8090/tdn/tdn/48
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nick Arabic
+http://oh2.teledunet.com:8090/tdn/tdn/49
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Tiji
+http://oh2.teledunet.com:8090/tdn/tdn/51
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Piwi+
+http://oh2.teledunet.com:8090/tdn/tdn/52
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", CN French
+http://oh2.teledunet.com:8090/tdn/tdn/54
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Boomerang
+http://oh2.teledunet.com:8090/tdn/tdn/53
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Nick Jr.
+http://oh2.teledunet.com:8090/tdn/tdn/55
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein1 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/382
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein2 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/383
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Bein3 Fr
+http://oh2.teledunet.com:8090/tdn/tdn/384
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime1
+http://oh2.teledunet.com:8090/tdn/tdn/74
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime2
+http://oh2.teledunet.com:8090/tdn/tdn/75
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime3
+http://oh2.teledunet.com:8090/tdn/tdn/76
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime4
+http://oh2.teledunet.com:8090/tdn/tdn/77
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime5
+http://oh2.teledunet.com:8090/tdn/tdn/78
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime6
+http://oh2.teledunet.com:8090/tdn/tdn/79
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Prime7
+http://oh2.teledunet.com:8090/tdn/tdn/80
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", RMC1
+http://oh2.teledunet.com:8090/tdn/tdn/396
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", M6
+http://oh2.teledunet.com:8090/tdn/tdn/411
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Arabi
+https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Musalsalat
+https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Ya Hala
+https://livekora24.com/live/ozn/OSNyahalaFHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Aflam
+https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Action
+https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Premiere
+https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Hollywood
+https://livekora24.com/live/ozn/OSNMovieshollywood.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Teledunet", Osn Comedy
+http://45.139.162.137:8080/live/Exchcyprusiptv/cDbcUX4ehD/7628.ts?token=HxVQVBZeFQNAWw5ZDwBbUFJSAVpSVQFTUQ1SVANcA1ZQDl4FVVQDXQQbG0NFTBAEAFtrC1IVAgdVBwRKQxEVURZoUVFHDBUIUwAVTRRMCwwEFA5TAA4ICFEGBlRRSEREDVMaD0cHAw1UCxVNFF0aFQREWgNaaFxVFVxSA0NeCEEIWxQXClhoXQdUVg9SGlhDURQYQF9ESBJZF34BBBYJFkgVWlwRRFZNBxsNQwQAV1RDGhYBWUJWRBFME1xDKCQWSBVdTRFTWUoLVllDDBoWEkMaFgtFaEpVEEFDAwAJA0ZGDRoERxoVVANBaAJZVgwEAkJdDVhEGgpBBwFWQ0hEWQtZUUEKRGhJC10VWxQAW1ZTFEk=
+
+
+
+
+
+
+
+
+
+
+
