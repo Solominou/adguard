@@ -92,23 +92,6 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Solo", MTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97723&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="Solo", Al-Jadeed
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97737&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Solo", OTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97722&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Solo", Al-Manar
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97688&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Solo", Future Tv
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97724&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Solo", Noursat
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97733&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Ya Hala Arabi
 http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/54573
