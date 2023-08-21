@@ -144,17 +144,7 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Ya Hala Arabi
-http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/54573
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Box Office 1
-http://37.49.225.182:8070/googleiptvex/8XsdD8qVstQhcjuy/43903
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Box Office 2
-http://37.49.225.182:8070/googleiptvex/8XsdD8qVstQhcjuy/3701
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Box Office 3
-http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/3702
 
 
 
@@ -671,8 +661,17 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=2834&extension=
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Solo",Golf+
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=2835&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Ya Hala Arabi
+http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/54573
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Box Office 1
+http://37.49.225.182:8070/googleiptvex/8XsdD8qVstQhcjuy/43903
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Box Office 2
+http://37.49.225.182:8070/googleiptvex/8XsdD8qVstQhcjuy/3701
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Box Office 3
+http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/3702
 
 
 
