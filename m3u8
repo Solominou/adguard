@@ -14,8 +14,14 @@ http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/http://mysat-live.er
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",LB: mtv
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97723&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",LB: mtv HD
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",LB: Al Jadeed
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97737&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",LB: Al Jadeed HD
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LB: LBC 2
 https://cllive.itworkscdn.net/lbcdramalive/token=nva=1693010330~dirs=1~hash=0cde767c07612f754338a/drama/lb2_480p_chunks.m3u8
@@ -30,7 +36,7 @@ https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",LB: NBN
-http://aflaxtv.xyz:8080/iptvepic4/DzbGTtATy4DzmK8c/3776
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/67.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",LB: Future 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97724&extension=m3u8
