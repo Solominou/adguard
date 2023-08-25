@@ -688,11 +688,72 @@ http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/3702
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",TF1 sd
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58943&extension=m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",TF1 hevc
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=124902&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/000f35fba0292736e6cbd701bb971ac6.png" group-title="|FR|🇫🇷 FRANCE",France 2 sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58945&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/000f35fba0292736e6cbd701bb971ac6.png" group-title="|FR|🇫🇷 FRANCE",France 2 hevc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=124904&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8de14a8c83f4af56dfd86de2b1ad5f55.png" group-title="|FR|🇫🇷 FRANCE",France 3 sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58946&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/80bb3a78bf83aa92a2cbc0063ec2d00d.png" group-title="|FR|🇫🇷 FRANCE",France 4 sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58947&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/092e2aca4ac357873f858ba49ab406dd.png" group-title="|FR|🇫🇷 FRANCE",France 5 sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58948&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/092e2aca4ac357873f858ba49ab406dd.png" group-title="|FR|🇫🇷 FRANCE",France 5 hevc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=124907&extension=m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 FRANCE",M6 sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58949&extension=m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="|FR|🇫🇷 FRANCE",M6 hevc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=67137&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99f781f9956ad62032910bb11874bdaa.png" group-title="|FR|🇫🇷 FRANCE",6ter sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58961&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99f781f9956ad62032910bb11874bdaa.png" group-title="|FR|🇫🇷 FRANCE",6ter hevc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=124920&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c0e06dbfa7f3e61845586c16fba138be.png" group-title="|FR|🇫🇷 FRANCE",TMC sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58992&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c0e06dbfa7f3e61845586c16fba138be.png" group-title="|FR|🇫🇷 FRANCE",TMC hevc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=124913&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0560d6d37fe3411c2f401dd825fc280f.png" group-title="|FR|🇫🇷 FRANCE",TFX sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58997&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d042b630ae74b5cc1477c0990dcfc34d.png" group-title="|FR|🇫🇷 FRANCE",TF1 Series sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58998&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d042b630ae74b5cc1477c0990dcfc34d.png" group-title="|FR|🇫🇷 FRANCE",TF1 Series hevc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=124917&extension=m3u8
+
+#EXTINF:0 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e061eeee475c52c63a26abc87e56f453.png" group-title="|FR|🇫🇷 FRANCE", WarnerTv sd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=58998&extension=m3u8
+
+
+
+
 
 
 
