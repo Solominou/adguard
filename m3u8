@@ -688,6 +688,11 @@ http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/3702
 
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="|FR|🇫🇷 FRANCE",TF1
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+
+
+
 
 
 
@@ -1117,7 +1122,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="hls-cdn1" group-title="Shahid",TF1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=58943&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2021%2FAbd%2FJan%2Fm6-images%2Fm6-international-logo%2Foriginal%2Fm6-international-logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", M6
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2021%2FAbd%2FJan%2Fm6-images%2Fm6-international-logo%2Foriginal%2Fm6-international-logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", FASHION TV
 https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-720
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2FAug%2FLogo_Fashion-TV%2Foriginal%2FLogo_Fashion-TV.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="Shahid", M6
