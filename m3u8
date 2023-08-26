@@ -14,17 +14,11 @@ http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/http://mysat-live.er
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97723&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv
-http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8?st=R7fxxU1807Ddxmmbj8wsuQ&e=1693085373
-
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv HD
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97737&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed FHD
-http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/https://p-mysat-live.ercdn.net/aljadeed/aljadeed_1080p.m3u8?st=UO7N9ocfRGY2pVHGJNhKvg&e=1693085693
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed HD
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
