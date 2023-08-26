@@ -8,40 +8,40 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LB: LBC International
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International
 http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_360p.m3u8?st=cNWxVj9VA2ch6cmC9-YWGg&e=1693046572
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",LB: mtv
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97723&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",LB: mtv HD
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv HD
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",LB: Al Jadeed
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97737&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",LB: Al Jadeed HD
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed HD
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LB: LBC 2
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LBC 2
 https://cllive.itworkscdn.net/lbcdramalive/token=nva=1693010330~dirs=1~hash=0cde767c07612f754338a/drama/lb2_480p_chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: OTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a4a3d117dc858a3d3b6cbd4b3eebd45b.png" group-title="Lebanon",LB: OTV
+#EXTINF:-1 tvg-id="" tvg-name="LB: OTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a4a3d117dc858a3d3b6cbd4b3eebd45b.png" group-title="Lebanon",OTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97722&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4e4d89c6d72085941fc59abc83b4b55b.png" group-title="Lebanon",LB: Al Manar TV
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4e4d89c6d72085941fc59abc83b4b55b.png" group-title="Lebanon",Al Manar TV
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Mayadeen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/834b127db1286bbc6968b5b435116c88.png" group-title="Lebanon",LB: Al Mayadeen TV
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Mayadeen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/834b127db1286bbc6968b5b435116c88.png" group-title="Lebanon",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",LB: NBN
+#EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",NBN
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/67.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",LB: Future 
+#EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",Future 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97724&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: Tele Liban" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d7284f4129702726e4c40bc05c4558cb.png" group-title="Lebanon",LB: Tele Liban
+#EXTINF:-1 tvg-id="" tvg-name="LB: Tele Liban" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d7284f4129702726e4c40bc05c4558cb.png" group-title="Lebanon",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg?v=6" group-title="Lebanon",Al-Manar
@@ -68,9 +68,8 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NourMariam.lb" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Lebanon",Nour Mariam 
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="" group-title="Lebanon",Mtv Test
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 
 
