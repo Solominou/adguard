@@ -24,7 +24,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97737&extension
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LBC 2
-https://cllive.itworkscdn.net/lbcdramalive/token=nva=1693010330~dirs=1~hash=0cde767c07612f754338a/drama/lb2_480p_chunks.m3u8
+https://cllive.itworkscdn.net/lbcdramalive/token=nva=1693054046~dirs=1~hash=039583dbc8a5afabbb8f8/drama/lb2_source_chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: OTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a4a3d117dc858a3d3b6cbd4b3eebd45b.png" group-title="Lebanon",OTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97722&extension=m3u8
