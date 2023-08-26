@@ -71,9 +71,8 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="" group-title="Lebanon",Mtv Test
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBCI test
+https://tv.ipslow.com/tv341_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=9d08166128b4c7b157313538080f62839f7eec7b-6df2a11d08659e619b361046a7bab490-1693053851-1693043051
 
 
 
