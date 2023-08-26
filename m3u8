@@ -736,6 +736,7 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="|FR|🇫🇷 FRANCE",GENERATIONS TV
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="|FR|🇫🇷 FRANCE",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
@@ -767,11 +768,198 @@ https://59959724487e3.streamlock.net/stream/live/master.m3u8
 
 
 
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",W9 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43924&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",W9 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43925&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",C8 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43926&extension=m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",C8 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43927&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cstar FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43928&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cstar HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43929&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",SerieClub FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43930&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",SerieClub HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43931&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",SYFY FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43940&extension=m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",SYFY HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43941&extension=m3u8
 
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Warner TV FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43942&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Warner TV HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43943&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Comedie FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43947&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Comedie HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43948&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cherie 25
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43953&extension=m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",NRJ12
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43955&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",FRANCE TECH
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=390406&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",A+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=221275&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",ARTE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43936&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Canal+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43973&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Canal+ Series
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=596862&extension=m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Canal+ Grand Ecran
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=391013&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Canal+ Cinema
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43977&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Canal+ Kids
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43979&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine+ Premire
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43981&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine+ Frisson
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43983&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine+ Emotion
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43985&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine+ Famiz
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43987&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine+ Classic
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43989&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine+ Club
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43990&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",OCS MAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43992&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",OCS Choc
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43996&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",OCS Geant
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=43998&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",TCM Cinema
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44000&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",TCM Cinema
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44000&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE", Paramount
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44002&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE", Action
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=44006&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Orange Cinemax Art Martial
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=494551&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Orange Cinemax Action
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=551703&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Orange Cinemax Histoire
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=551720&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Orange Cinemax Drama
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=551727&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Orange Cinemax Horeur
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=521609&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Orange Cinemax SF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=551713&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518228&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518229&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518230&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518231&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518232&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518233&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 7
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518234&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518235&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 9
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518236&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 10
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518237&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 11
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518249&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 12
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518268&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 13
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518269&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 14
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518270&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 15
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518271&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 16
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518272&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 17
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518273&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 18
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518274&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 19
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518275&extension=m3u8
+
+#EXTINF:0 tvg-logo="" group-title="|FR|🇫🇷 FRANCE",Cine 20
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=518276&extension=m3u8
 
 
 
