@@ -1209,15 +1209,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids",test5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids",test55
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids",test6
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=225
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids",test7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids",test8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2735
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Kids",test9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2752
 
 
 
@@ -1485,15 +1488,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97982&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Documentary", Discovery
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97950&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Documentary", Escape tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2881
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Documentary", Heritage
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2898
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="Documentary", Heritage+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2899
 
 
 
@@ -1997,12 +2000,20 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 #EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmrAhmed%2FFeb%2Flogo_template_FR%2Foriginal%2Flogo_template_FR.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dpng&w=1440&q=75" group-title="News",Euro News Fr
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8?aws.manifestfilter=video_height:144-720
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="News",Bloomberg
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2747
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="News",Bloomberg 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2748
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="News",DW
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2756
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="News",France 24 En
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2763
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="News",France 24 Fr
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2764
 
 
 
@@ -2040,6 +2051,35 @@ http://62.182.82.104/ART_AFLAM_2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2652
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2653
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2655
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2656
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2658
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2659
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2662
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2709
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2710
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Movies",Movies10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2890
 
 
 
@@ -2080,6 +2120,17 @@ https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
 
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p)
 https://daiconnect.com/live/hls/rotana/music/.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="" group-title="Music",Deluxe Lounge
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="" group-title="Music",Xite
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2667
+
+
+
+
+
 
 
 
