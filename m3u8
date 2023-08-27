@@ -1768,7 +1768,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97903&extension
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Cinema 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97904&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Musalsalat 2
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn",Osn Musalsalat 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97911&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Osn", Osn Fan
