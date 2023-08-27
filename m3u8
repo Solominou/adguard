@@ -11,6 +11,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International
 http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=oWCm28DVdX0vrTdhWAP9fQ&e=1693085173
 
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International
+http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924937&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:60:30&stream=97723&extension=m3u8
 
