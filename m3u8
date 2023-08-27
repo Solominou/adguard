@@ -35,6 +35,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97723&extension
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97737&extension=m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LBC 2
 https://cllive.itworkscdn.net/lbcdramalive/token=nva=1693054046~dirs=1~hash=039583dbc8a5afabbb8f8/drama/lb2_source_chunks.m3u8
 
@@ -87,8 +88,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://tv.ipslow.com/tv341_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=9d08166128b4c7b157313538080f62839f7eec7b-6df2a11d08659e619b361046a7bab490-1693053851-1693043051
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
+https://www.wsla.top/streams/24_.m3u8
 
 
 
