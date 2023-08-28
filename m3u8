@@ -26,8 +26,16 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International
-http://ec2-54-167-175-109.compute-1.amazonaws.com/index.php/http://mysat-live.ercdn.net/lbccustom/lbccustom_720p.m3u8?st=oWCm28DVdX0vrTdhWAP9fQ&e=1693085173
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International 4k
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=161006&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International fhd
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100432&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International 4k
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=421768&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97723&extension=m3u8
@@ -1454,9 +1462,8 @@ https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Cinema 2
 https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8?aws.manifestfilter=video_height:144-720
 
-
-
-
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Rotana",Rotana Aflam+
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4b:b0:89&stream=196415&extension=m3u8
 
 
 
