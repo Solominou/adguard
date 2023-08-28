@@ -37,7 +37,7 @@ http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LBC 2
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257500&extension=m3u8
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=486175&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: OTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a4a3d117dc858a3d3b6cbd4b3eebd45b.png" group-title="Lebanon",OTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97722&extension=m3u8
