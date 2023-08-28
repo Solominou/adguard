@@ -1679,6 +1679,27 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:fa:01:bc&stream=117445&extens
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports p1 test
 https://ddh2.cdndac.lol:443/ddh2/premium98/tracks-v1a1/mono.m3u8?|referer=https://ntuplay.xyz/e.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports p1 test
+https://ddy4.cdndac.lol:443/ddy4/premium25/tracks-v1a1/mono.m3u8?|referer=https://ntuplay.xyz/z.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports p1 test
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports p1 test
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports p1 test
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="beIN Sports", beIN Sports p1 test
+
+
+
+
+
+
+
 
 
 
@@ -1783,9 +1804,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97911&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97913&extension=m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="https://static.start.me/favicons/qoaes8xwxgi65pnodvyf" group-title="Osn", Osn ID
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=357220&extension=m3u8
 
 
 
