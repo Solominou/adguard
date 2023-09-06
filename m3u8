@@ -26,16 +26,6 @@ http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&
 
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/63a6e28019328d99aa3ab802e0fae412.jfif" group-title="Lebanon",LBC 2
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=486175&extension=m3u8
 
@@ -89,16 +79,14 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",Mtv 
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",Mtv Hevc
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100430&extension=m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",Mtv Hevc
+http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100430&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed Hevc
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100431&extension=m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International Hevc
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100432&extension=m3u8
@@ -136,48 +124,6 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Arabi
-https://livekora24.com/live/ozn/OSNyahalaBilArabi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Musalsalat
-https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Ya Hala
-https://livekora24.com/live/ozn/OSNyahalaFHD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Aflam
-https://livekora24.com/live/ozn/OSNYahalaAflam.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Action
-https://livekora24.com/live/ozn/OSNMoviesAction.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Premiere
-https://livekora24.com/live/ozn/OSNMoviesPremiere.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Hollywood
-https://livekora24.com/live/ozn/OSNMovieshollywood.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Musalsalat
-https://livekora24.com/live/ozn/OSNMusalsalat1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Nat Geo Wild
-https://livekora24.com/live/ozn/OSNNatGeoWild.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo",Osn Alyawm
-https://livekora24.com/live/ozn/OSNAloumFHD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Art Aflam2
-https://livekora24.com/live/ozn/OSNARTHekayat1.m3u8https://livekora24.com/live/ozn/OSN%20ART%20Aflam%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Art Hekayat
-https://livekora24.com/live/ozn/OSNARTHekayat1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Art Hekayat2
-https://livekora24.com/live/ozn/OSNARTHekayat2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Ya Hala
