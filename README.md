@@ -1,3 +1,7 @@
+*##.Breadcrumbs
+*##.Elkingphp||images2.imgbox.com/77/7c/M0HlW9f8_o.png$image
+*##.DesignedBy
+
 *##.ion-logo-twitter.ion
 *##.social
 *##.telegram-float
