@@ -1,7 +1,8 @@
 *##.Breadcrumbs
 *##.Elkingphp||images2.imgbox.com/77/7c/M0HlW9f8_o.png$image
 *##.DesignedBy
-
+*##.Keywords
+*##.ImportantButtons
 *##.ion-logo-twitter.ion
 *##.social
 *##.telegram-float
@@ -23,11 +24,7 @@ www.elahmad.com##.RACKWrapper
 
 ! 2023-06-20 https://seez.su
 seez.su##.home
-seez.su##section:nth-of-type(1) > .main-blogs
-||i.ibb.co/LvNXhbF/avatar.webp$image
-seez.su##.main-blog1
-seez.su##.is-modal-active.modal--fullscreen.modal > .modal__dialog > .modal__content > .modal__back > .just-donate! 2023-06-20
-seez.su##div.side-wrapper:nth-of-type(3)https://lookmovie2.to
+
 lookmovie2.to##.social-share
 ||lookmovie2.to/images/telegram.webp$image
 ! 2023-06-21 https://lookmovie2.to
@@ -1036,13 +1033,7 @@ cimaa4u.*##div.SingleContext:nth-child(4) > div.SingleContentSide:nth-child(5) >
 cimaa4u.*##footer:nth-child(12)
 cimaa4u.*##div.RelatedsOnSingle:nth-child(5)
 cimaa4u.*##div.PageContent:nth-child(7) > h2:first-child
-! 2022-11-20 https://tv.cimaa4u.sbs
-tv.c*4u.**##.DownloadServers
-tv.c*4u.**##footer
-! 2022-11-21 https://tv.cimaa4u.mom
-tv.c*4u.**##.DownloadServers
-tv.c*4u.**##footer
-tv.c*4u.**##.Breadcrumbs
+
 ! 2022-11-23 https://myciima.space
 myciima.*##.Single-begin
 myciima.*##singlerelated
