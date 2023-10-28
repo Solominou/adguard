@@ -44,7 +44,8 @@ lookmovie2.to##[href="https://ak.deghooda.net/4/6009582"]
 thetvapp.to##.pt-3.col-lg-4
 thetvapp.to##.text-bg-dark.p-3
 ! 2023-06-09 https://tv.cima4u7.hair
-cima4u.*##.DownloadServers
+*##.download_link
+*##.DownloadServers
 cima4u1.*##.DownloadServers
 cima4u2.*##.DownloadServers
 cima4u3.*##.DownloadServers
