@@ -1,5 +1,24 @@
-*##.Breadcrumbs
+*##div.sbox:nth-of-type(8)
+*##.idTabs.smenu
+*##.scrolling.sidebar
+*###player-option-trailer > .server
+||show.alfajertv.com/wp-content/uploads/2019/09/fslogo.png$image
 
+! 2023-10-28 https://seez.su
+||seez.su/collection/aquaman.webp$image
+*##.main-blogs
+
+! 2023-10-28 https://ww.tuktukcima.com
+*##.Logo--Area
+*##.Header--Social
+*##.downloadBTN
+
+*##.WebsiteCopyrights
+
+*##.openChat
+
+
+*##.Breadcrumbs
 *##.Elkingphp
 *##.Elkingphp||images2.imgbox.com/77/7c/M0HlW9f8_o.png$image
 *##.DesignedBy
