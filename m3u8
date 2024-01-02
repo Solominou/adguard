@@ -1264,7 +1264,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2752
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 1
-https://shls-mbcd
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=250039&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 2
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=250040&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC 2 HD
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=457187&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC ELIFE
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=657001&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png" group-title="MBC",MBC Power
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=588347&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png" group-title="MBC",MBC Europe
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
