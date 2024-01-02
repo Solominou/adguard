@@ -126,8 +126,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn ID
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=724272&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Ya Hala
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97905&extension=m3u8
