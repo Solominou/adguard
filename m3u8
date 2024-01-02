@@ -7,25 +7,25 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International SD
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924937&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924937&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv SD
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924938&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924938&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv Solo
 http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=662601&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed SD
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924939&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924939&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International HD
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=770554&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=770554&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv HD
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=662602&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=662602&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed HD
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&extension=m3u8
 
 
 
@@ -607,65 +607,65 @@ http://37.49.225.182:8070/googleiptvex/8XsdD8qVstQhcjuy/3701
 http://37.49.225.119:8070/googleiptvex/8XsdD8qVstQhcjuy/3702
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Mix One
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924766&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924766&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Mix Hollywood 
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924769&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924769&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Mix Bl-Arabi
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924793&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924793&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein Premium 1
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559748&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559748&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein Premium 2
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559747&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559747&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein Premium 3
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559746&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559746&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 1
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559745&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559745&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 2
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559744&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559744&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 3
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559743&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559743&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 4
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559742&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559742&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 5
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559741&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559741&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 6
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559740&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559740&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Bein 7
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559739&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=559739&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Vivo Cinema
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909977&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909977&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Vivo Cinema
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909977&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909977&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Hulu Mystery
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909378&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909378&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",HBO Action
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909099&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=909099&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Prime Crime
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=908387&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=908387&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo",Shahid Cinema
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=585425&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=585425&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="Solo", Netflix Movies
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=587715&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=587715&extension=m3u8
 
 
 
@@ -1846,7 +1846,7 @@ http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=357220&exte
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="beIN Entertainment", Discovery ID
-http://videosclub2234.live:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=724272&extension=m3u8
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=724272&extension=m3u8
 
 
 
