@@ -74,9 +74,8 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NourMariam.lb" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Lebanon",Nour Mariam 
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv Hevc
+http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=662601&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",Mtv 
