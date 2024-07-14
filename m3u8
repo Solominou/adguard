@@ -7,19 +7,19 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International SD
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924937&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/297.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv SD
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924938&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/293.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv Solo
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=662601&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/294.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed SD
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=924939&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/290.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International HD
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=770554&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/298.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv HD
 http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=662602&extension=m3u8
