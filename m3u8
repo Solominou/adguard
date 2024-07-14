@@ -3,17 +3,16 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: LBCI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBCI
-http://138.201.201.122:8080/tdn/tdn/297.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International SD
 http://138.201.201.122:8080/tdn/tdn/297.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv SD
-http://138.201.201.122:8080/tdn/tdn/293.m3u8
+http://138.201.201.122:8080/tdn/tdn/291.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv Solo
-http://138.201.201.122:8080/tdn/tdn/294.m3u8
+http://138.201.201.122:8080/tdn/tdn/292.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed SD
 http://138.201.201.122:8080/tdn/tdn/290.m3u8
@@ -21,11 +20,8 @@ http://138.201.201.122:8080/tdn/tdn/290.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International HD
 http://138.201.201.122:8080/tdn/tdn/298.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv HD
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=662602&extension=m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed HD
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/289.m3u8
 
 
 
@@ -33,7 +29,7 @@ http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:05:FE:E4&stream=257498&exte
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=486175&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: OTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a4a3d117dc858a3d3b6cbd4b3eebd45b.png" group-title="Lebanon",OTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97722&extension=m3u8
+http://138.201.201.122:8080/tdn/tdn/293.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4e4d89c6d72085941fc59abc83b4b55b.png" group-title="Lebanon",Al Manar TV
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
@@ -42,7 +38,7 @@ https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",NBN
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/67.m3u8
+http://138.201.201.122:8080/tdn/tdn/299.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LB: NBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0ff969d75f57d6d270674fa00feaf9a.png" group-title="Lebanon",Future 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97724&extension=m3u8
@@ -74,37 +70,15 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NourMariam.lb" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Lebanon",Nour Mariam 
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv solo
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=662601&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",Mtv 
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",Mtv Hevc
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100430&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed Hevc
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100431&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LBC International Hevc
-http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:4D:BD:96&stream=100432&extension=m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" group-title="Lebanon",mtv
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97723&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7dede3ca7e9d55b0fcdec4648876883d.png" group-title="Lebanon",Al Jadeed
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97737&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LB: mtv" tvg-logo="" group-title="Lebanon",Mtv Test
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+
 
 
 
@@ -125,29 +99,30 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn ID
-http://line.rexiptv.ca:80/play/live.php?mac=00:1A:79:6F:7E:34&stream=724272&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", beIN Max1
+http://138.201.201.122:8080/tdn/tdn/117.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Ya Hala
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97905&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", beIN Max2
+http://138.201.201.122:8080/tdn/tdn/118.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Family mol
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97915&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", beIN 1
+http://138.201.201.122:8080/tdn/tdn/61.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Arabi
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97906&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Aflam
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97907&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", bein 2
+http://138.201.201.122:8080/tdn/tdn/65358.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Movie Hollywood
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97914&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", beIN 3
+http://138.201.201.122:8080/tdn/tdn/63.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Now
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97954&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", beIN 4
+http://138.201.201.122:8080/tdn/tdn/64.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Action
-http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97917&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", beIN 5
+http://138.201.201.122:8080/tdn/tdn/65.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Bein 6
+http://138.201.201.122:8080/tdn/tdn/66.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://img1.wikia.nocookie.net/__cb20111115104128/logopedia/images/6/63/OSN.png" group-title="Solo", Osn Movie Premiere
 http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B2:44:05&stream=97918&extension=m3u8
