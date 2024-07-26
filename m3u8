@@ -729,3 +729,1308 @@ http://138.201.201.122:8080/tdn/tdn/829
 http://138.201.201.122:8080/tdn/tdn/828
 #EXTINF:-1 group-title="KUWAIT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/funoon_tv_kw.png" tvg-id="821" ,FUNOON
 http://138.201.201.122:8080/tdn/tdn/821
+
+#EXTM3U
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://tvgo.re:8080/images/1ff23ff2a5ff608effd7a9fdcb97f15f.png" ,USA: American Heroes
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140635
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/RFD_TV.png" ,USA: RFD TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140636
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/QVC.png" ,USA: QVC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140637
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/FX_west.png" ,USA: FX West HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140638
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" ,USA: Food Network West
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140639
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Science.png" ,USA: Discovery Science HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140640
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Game_Plus.png" ,USA: Game Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140641
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Game_Show_Network.png" ,USA: Game Show Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140642
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Fusion_TV.png" ,USA: Fusion TV HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140643
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/DIY_Network.png" ,USA: DIY Network HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140644
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Discovery_velocty.png" ,USA: Discovery Velocity HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140645
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Discovery_Family.png" ,USA: Discovery Family
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140646
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://tvgo.re:8080/images/0c1edebd1c84f2996d70e8602979de63.png" ,USA: CW
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140647
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Buzzr_tv.png" ,USA: Buzzr TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140648
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" ,USA: Animal Planet East
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140649
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" ,USA: Animal Planet West
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140650
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://tvgo.re:8080/images/87f5a54c27efac30565710fd3b3f2c2d.png" ,USA: UP TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140651
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Court_TV.png" ,USA: Court
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140652
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Viceland.png" ,USA: Viceland HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140653
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/WGN_9.png" ,USA: WGN 9 HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140654
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/TV_Land.png" ,USA: TV Land HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140655
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" ,USA: TLC HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140656
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/TBS_WEST.png" ,USA: TBS West HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140657
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Revolt_TV.png" ,USA: Revolt HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140658
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Reelz.png" ,USA: Reelz HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140659
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Pop_TV.png" ,USA: Pop HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140660
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/PBS.png" ,USA: PBS HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140661
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Outside_tv.png" ,USA: Outside TV HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140662
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/sweden/National_Geographic_Channel.png" ,USA: NatGeo HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140663
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/sweden/Nat_Geo_Wild.png" ,USA: NatGeo Wild HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140664
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/NASA_TV.png" ,USA: Nasa TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140665
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://tvgo.re:8080/images/931babe325f2ac373817942ed5a4a581.png" ,USA: Logo TV HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140666
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Lifetime.png" ,USA: Lifetime HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140667
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/LAFF.png" ,USA: LAFF TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140668
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" ,USA: Investigation Discovery HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140669
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/ION_Television_.png" ,USA: ION TV HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140670
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/HSN.png" ,USA: HSN HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140671
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/HLN_TV.png" ,USA: HLN HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140672
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" ,USA: History Channel HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140673
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/HGTV_Tv.png" ,USA: HGTV East HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140674
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Heroes_&_Icons.png" ,USA: Heroes And Icons TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140675
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/GSN.png" ,USA: GSN HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140676
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://tvgo.re:8080/images/065665ce79099ec4e2f354997731b8eb.png" ,USA: Grit
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140677
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Great_American_Country.png" ,USA: Great American Country HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140678
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/FYI.png" ,USA: FYI HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140679
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Fuse.png" ,USA: Fuse HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140680
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" ,USA: Food Network HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140681
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/E!_Entertainment.png" ,USA: E! Entertainment West HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140682
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Discovery_life.png" ,USA: Discovery Life HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140683
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Discovery_Family.png" ,USA: Discovery Family HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140684
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" ,USA: Discovery Channel HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140685
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Destinat_america.png" ,USA: Destination America HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140686
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/KTLA_5.png" ,USA: KTLA 5 HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140687
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Crime_and_Investigation.png" ,USA: Crime & Investigation HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140688
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Court_TV.png" ,USA: Court TV HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140689
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Comet.png" ,USA: Comet HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140690
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" ,USA: Comedy Central HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140691
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Bounce.png" ,USA: Bounce
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140692
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/BET_Her.png" ,USA: BET Her FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140693
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://tvgo.re:8080/images/0c23eba97720c742fe3ad8210e57e13d.png" ,USA: BET FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140694
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Axs.png" ,USA: AXS HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140695
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/AWE.png" ,USA: AWE HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140696
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Aspire.png" ,USA: Aspire FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140697
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Antenna_TV.png" ,USA: Antenna TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140698
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" ,USA: Animal Planet HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140699
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/A&E_HD.png" ,USA: A&E HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140700
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Bravo.png" ,USA: Bravo FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140701
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/HGTV_Tv.png" ,USA: HGTV West HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140702
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Oxygen.png" ,USA: Oxygen HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140703
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/OWN.png" ,USA: OWN HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140704
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Outdoor_Channel.png" ,USA: Outdoor Channel HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140705
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" ,USA: Discovery Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140706
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/FX_west.png" ,USA: FX East HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140707
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" ,USA: Food Network FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140708
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/E!_Entertainment.png" ,USA: E! Entertainment East HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140709
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Cozi_TV_logo.png" ,USA: Cozi TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140710
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Cooking_Channel.png" ,USA: Cooking Channel HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140711
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Bravo.png" ,USA: Bravo HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140712
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/BBC_America.png" ,USA: BBC America
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140713
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Freeform.png" ,USA: Freeform HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140714
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Syfy.png" ,USA: Syfy FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140715
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/TNT.png" ,USA: TNT HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140716
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/TBS_WEST.png" ,USA: TBS East HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140717
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Travel_Channel.png" ,USA: Travel HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140718
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/USA_Network.png" ,USA: Usa Network HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140719
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/We_TV.png" ,USA: We TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140720
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Tru_TV.png" ,USA: Tru TV FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140721
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Nick_Music.png" ,USA: Nick Music
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140722
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Nickelodeon.png" ,USA: Nickelodeon  HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140723
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Nick_Jr.png" ,USA: Nick JR West
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140724
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Disney_Junior.png" ,USA: Disney Junior
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140725
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Disney_Junior.png" ,USA: Disney Junior West HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140726
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Disney.png" ,USA: Disney HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140727
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/CARTOON_NETWORK.png" ,USA: Cartoon Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140728
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Baby_first.png" ,USA: Baby First TV HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140729
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Universal_Kids.png" ,USA: Universal Kids FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140730
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/CARTOON_NETWORK.png" ,USA: Cartoon Network East
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140731
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/CARTOON_NETWORK.png" ,USA: Cartoon Network West
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140732
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Disney_Channel.png" ,USA: Disney Channel Paficic
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140733
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Boomerang.png" ,USA: Boomerang
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140734
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Disney_Channel.png" ,USA: Disney Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140735
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Universal_Kids.png" ,USA: Universal Kids FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140736
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="http://swedtv.vip/logos/Usa_kids/Baby_tv.png" ,USA: Baby TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140737
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,???--  USA ABC --???
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140739
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Orlando
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140740
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140741
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Roanoke
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140742
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Norfolk
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140743
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC El Paso
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140744
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Amarillo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140745
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Grenville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140746
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Charlestone
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140747
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Augusta
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140748
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Providence
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140749
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Philadelphia
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140750
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: Johnstown PA
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140751
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Sherman
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140752
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Zanesville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140753
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Wheeling
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140754
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Toledo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140755
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Lima
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140756
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Dayton
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140757
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Columbus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140758
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC BUffalo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140759
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Raleigh
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140760
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Greenville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140761
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC MIssoula
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140762
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Montana
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140763
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Billings
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140764
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC ST Louis
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140765
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Rochester
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140766
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: Traverse City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140767
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Jackson
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140768
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Flint
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140769
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Presque Isle
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140770
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Bangore
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140771
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Salisbury
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140772
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Monroe
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140773
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Lexington
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140774
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Fort Wayne
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140775
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Albany
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140776
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140777
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Jacksonville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140778
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC FT Meyers
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140779
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Washington DC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140780
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Santa Barbara
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140781
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Chico
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140782
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Fort Smith
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140783
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Montgomery
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140784
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Mobile
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140785
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Birmingham
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140786
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Fairbanks
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140787
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: ABC Anchorage
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140788
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD New York
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140789
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC 2 Baton Rouge LA (WBRZ)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140790
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Atlanta
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140791
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Boston
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140792
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC 8 Hartford
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140793
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC 8 Tulsa
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140794
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC 10 San Diego
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140795
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Los Angeles
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140796
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Denver
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140797
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD San Francisco
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140798
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Pittsburgh
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140799
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC Chicago
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140800
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Charlotte
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140801
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Portland
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140802
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Dallas
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140803
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD SaltLake City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140804
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Sacramento
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140805
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Miami
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140806
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Houston
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140807
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Fresno
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140808
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Washington
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140809
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Detroit
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140810
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Saint Paul
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140811
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Kansas City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140812
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD San Antonio
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140813
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Baltimore
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140814
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD San Luis
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140815
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Milwaukee
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140816
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Tampa Bay
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140817
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Phoenix
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140818
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,US: ABC HD Indiana
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140819
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,???--  USA CBS --???
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140820
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Harlingen
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140821
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS El Paso
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140822
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Tri-Cities
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140823
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Eugene
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140824
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Syracuse
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140825
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS St Louis
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140826
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Portland
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140827
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Bowling Green
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140828
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS  South Bend
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140829
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Evansville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140830
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS  Cedar Rapids
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140831
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Atlanta
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140832
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Palm Springs
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140833
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,USA: CBS Fresno
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140834
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Eureka
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140835
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Chico
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140836
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Montgomery
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140837
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA:  CBS Birmingham
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140838
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Fairbanks
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140839
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Anchorage
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140840
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Los Angeles KCBS
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140841
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Baltimore
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140842
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Boston
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140843
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Charlotte
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140844
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Chicago
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140845
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Cleveland
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140846
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Columbus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140847
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Dallas
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140848
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Denver
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140849
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Detroit
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140850
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Greensboro
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140851
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Hartford
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140852
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Houston
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140853
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Jacksonville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140854
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Kansas City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140855
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Los Angeles KCAL
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140856
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Miami
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140857
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Minneapolis
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140858
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Milwaukee
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140859
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Nashville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140860
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS New Orleans
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140861
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS New York
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140862
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Orlando
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140863
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Philadelphia
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140864
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-CBS/CBS.png" ,USA: CBS Phoenix
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140865
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS Pittsburgh
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140866
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS Sacramento
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140867
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS San Antonio
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140868
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS San Diego
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140869
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS San Francisco
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140870
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS Seattle
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140871
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_CBS/CBS.png" ,USA: CBS Washington
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140872
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" ,???-- USA NBC --???
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140873
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Orlando
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140874
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Cheyenne - Scottbluff
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140875
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Casper - Riverton
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140876
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Charleston - Huntington
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140877
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_milwaukee.png" ,USA: NBC Milwaukee
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140878
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Madison
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140879
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC La Crosse - Eau Claire
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140880
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Green_bay_appleton.png" ,USA: NBC Green Bay - Appleton
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140881
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Yakima - Pasco
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140882
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Seattle - Tacoma
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140883
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Roanoke
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140884
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Richmond - Petersburg
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140885
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Norfolk - Portsmouth
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140886
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Charlottesville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140887
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Waco - Temple
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140888
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_victoria.png" ,USA: NBC Victoria
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140889
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC San Angelo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140890
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Odessa - Midland
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140891
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Lubbock
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140892
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Laredo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140893
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_houston.png" ,USA: NBC Houston
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140894
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Harlingen - Brownsville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140895
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Dallas - Fort Worth
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140896
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Corpus_Christi.png" ,USA: NBC Corpus Christi
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140897
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC  Tri-Cities
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140898
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Nashville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140899
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_memphis.png" ,USA: NBC Memphis
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140900
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_knoxville.png" ,USA: NBC Knoxville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140901
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Chattanooga
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140902
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_sioux_falls.png" ,USA: NBC Sioux Falls
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140903
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Rapid_City.png" ,USA: NBC Rapid City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140904
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Myrtle_Beach_florence.png" ,USA: NBC Myrtle Beach - Florence
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140905
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Providence.png" ,USA: NBC Providence
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140906
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Wilkes_barre.png" ,USA: NBC Wilkes - Barre
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140907
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Pittsburg
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140908
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Johnstown.png" ,USA: NBC Johnstown
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140909
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Portland.png" ,USA: NBC Portland
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140910
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Medford
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140911
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Eugene.png" ,USA: NBC Eugene
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140912
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_bend.png" ,USA: NBC Bend
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140913
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Tulsa
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140914
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Oklanhoma City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140915
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Youngstown
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140916
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Toledo.png" ,USA: NBC Toledo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140917
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Steubenville.png" ,USA: NBC Steubenville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140918
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Dayton.png" ,USA: NBC Dayton
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140919
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Columbus.png" ,USA: NBC Columbus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140920
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Cleveland.png" ,USA: NBC Cleveland
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140921
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Cincinnati.png" ,USA: NBC Cincinnati
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140922
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Rochester.png" ,USA: NBC Rochester
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140923
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Elmira.png" ,USA: NBC Elmira
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140924
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Buffalo.png" ,USA: NBC Buffalo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140925
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Binghamton.png" ,USA: NBC Binghamton
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140926
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Albany.png" ,USA: NBC Albany
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140927
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_LAS_VEGAS.png" ,USA: NBC Las Vegas
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140928
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Alburquesque
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140929
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Omaha.png" ,USA: NBC Omaha
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140930
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Fargo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140931
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Raleigh - Durham
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140932
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Charlotte.png" ,USA: NBC Charlotte
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140933
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Missoula.png" ,USA: NBC Missoula
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140934
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Great Falls
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140935
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Butte.png" ,USA: NBC Butte
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140936
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Billings
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140937
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Meridian
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140938
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Laurel.png" ,USA: NBC Laurel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140939
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Jackson.png" ,USA: NBC Jackson
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140940
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Springfield
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140941
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Kansas_city.png" ,USA: NBC Kansas City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140942
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Columbia_Jefferson.png" ,USA: NBC Columbia - Jefferson
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140943
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Minneapolis - St. Paul
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140944
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Onondaga
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140945
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Grand Rapids
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140946
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Flint_saginaw.png" ,USA: NBC Flint - Saginaw
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140947
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC  Detroit
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140948
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Bangor
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140949
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Baltimore
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140950
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_Shevereport.png" ,USA: NBC Shereveport
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140951
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC_New_orlenas.png" ,USA: NBC New Orlenas
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140952
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA_NBC/NBC.png" ,USA: NBC Lake Charles
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140953
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_16_Lafayette.png" ,USA: NBC Lafayette
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140954
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_baton_rouge.png" ,USA: NBC Baton Rouge
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140955
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Alexandria
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140956
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Paducah.png" ,USA: NBC Paducah
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140957
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Louisville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140958
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Lexington.png" ,USA: NBC Lexington
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140959
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Bowling.png" ,USA: NBC Bowling Green
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140960
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Terre_haute.png" ,USA: NBC Terre Haute
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140961
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_South_bend.png" ,USA: NBC South Bend
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140962
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Indianapolis.png" ,USA: NBC Indianapolis
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140963
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC RockFord
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140964
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Peoria
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140965
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC | IL Decatur
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140966
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Chicago
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140967
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Twin Falls
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140968
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Boise
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140969
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Des_Moines.png" ,USA: NBC Des Moines - Ames
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140970
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Daveport.png" ,USA: NBC Daveport
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140971
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Honolulu.png" ,USA: NBC Honolulu
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140972
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Savannah.png" ,USA: NBC Savannah
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140973
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC CT NEW BRITAIN WVIT
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140974
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Augusta.png" ,USA: NBC  Augusta
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140975
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Atlanta.png" ,USA: NBC Atlanta
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140976
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_West_Palm_Beach.png" ,USA: NBC West Palm Beach - FT. Pierce
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140977
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Tampa.png" ,USA: NBC Tampa
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140978
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Panama_City.png" ,USA: NBC Panama City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140979
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Jacksonville.png" ,USA: NBC Jacksonville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140980
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Gainesville.png" ,USA: NBC Gainsville
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140981
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Fort_Myers.png" ,USA: NBC Fort Myers - Naples
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140982
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Washington_DC.png" ,USA: NBC Washington DC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140983
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Grand Junction - Montrose
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140984
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Denver.png" ,USA: NBC Denver
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140985
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Colorado_springs.png" ,USA: NBC Colorado Spints - Pueblo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140986
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Sacramento - Stockton
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140987
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Los_Angeles.png" ,USA: NBC Los Angeles
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140988
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Fresno.png" ,USA: NBC Fresno - Visalia
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140989
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Phoenix.png" ,USA: NBC Phoenix - Prescott
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140990
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Little Rock - Pine Bluff
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140991
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Montgomery.png" ,USA: NBC Montgomery - Selma
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140992
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Mobile.png" ,USA: NBC Mobile - Pensacola
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140993
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC.png" ,USA: NBC Juneau - Douglas
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140994
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Fairbanks.png" ,USA: NBC Fairbanks
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140995
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Anchorage.png" ,USA: NBC Anchorage
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140996
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_Boston.png" ,USA: NBC Boston
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140997
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="http://swedtv.vip/logos/USA-NBC/NBC_New_York.png" ,USA: NBC New York
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140998
+#EXTINF:-1 group-title="USA ABC,CBS,NBC" tvg-logo="https://i.postimg.cc/ZqwBk1XS/smithsonian.png" ,Smithsonian
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/211634
+#EXTINF:-1 group-title="USA SPORTS" ,???-- USA  Sports --???
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140545
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Tennis_Channel.png" ,SP: USA: Tennis Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140546
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG6.png" ,SP: USA: NBA TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140547
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NFL_RED_ZONE.png" ,SP: USA: NFL Red Zone
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140548
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NFL_Network.png" ,SP: USA: NFL Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140549
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NHL_Network.png" ,SP: USA: NHL Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140550
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Motor_Trend.png" ,SP: USA: Motor Trend HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140551
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/WWE_Network.png" ,SP: USA: WWE Network FHD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140552
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Washington.png" ,SP: USA: PAC 12 Oregon
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140553
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Washington.png" ,SP: USA: PAC 12 Mountain
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140554
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Washington.png" ,SP: USA: PAC 12 Arizona
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140555
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Washington.png" ,SP: USA: PAC 12 Bay Area
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140556
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Washington.png" ,SP: USA: PAC 12 Los Angeles
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140557
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Washington.png" ,SP: USA: PAC 12 Washington
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140558
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Pac_12_Network.png" ,SP: USA: PAC 12 Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140559
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fox_College_Football.png" ,SP: USA: Fox College Sport Pacific
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140560
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fox_College_Football.png" ,SP: USA: Fox College Sport Central
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140561
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fox_College_Football.png" ,SP: USA: Fox College Sports Central
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140562
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NBC_Sports_Chicago.png" ,SP: USA: NBCSN Chicago Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140563
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NBC_Sports_Philadelphia.png" ,SP: USA: NBCSN Philadelphia Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140564
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NBC_Bay_Area.png" ,SP: USA: NBCSN Bay Area Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140565
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NBC_Bay_Area.png" ,SP: USA: NBCSN Bay Area
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140566
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NBCSN_washington.png" ,SP: USA: NBCSN Washington Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140567
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/NBC_Sports_Washington.png" ,SP: USA: NBC Sports Washington Plus HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140568
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/b1fa06d3d8a779bc647d42d8b2e2b4fd.png" ,SP: USA: Sec Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140569
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1280px-SNY_logo.svg.png" ,SP: USA: SNY
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140570
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/2cc779e872f0af1e8cedfb0571768f33.png" ,SP: USA: Stadium 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140571
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Olympic_Channel.png" ,SP: USA: Olympic Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140572
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/msg-.png" ,SP: USA: MSG Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140573
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/msg-.png" ,SP: USA: MSG 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140574
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/msg-.png" ,SP: USA: MSG
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140575
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/nesn.png" ,SP: USA: NESN Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140576
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/nesn.png" ,SP: USA: NESN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140577
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Big_Ten_Network.png" ,SP: USA: Big Ten Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140578
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fight_network.png" ,SP: USA: Fight Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140579
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fox_Soccer_Plus.png" ,SP: USA: Fox Soccer Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140580
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fox_Sports_Prime_Ticket.png" ,SP: USA: Fox Sports Prime Ticket
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140581
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/FOX_SPORT_SUN.png" ,SP: USA: Fox Sports Sun
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140582
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Longhorn_Network.png" ,SP: USA: Longhorn Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140583
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Marquee_Sports_Network.png" ,SP: USA: Marquee Sports Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140584
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/bf109f164c04d484d0efce8444bf3404.png" ,SP: USA: MASN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140585
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/FS1.png" ,SP: USA: FS1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140586
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/FS2.png" ,SP: USA: FS2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140587
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/World_Fishing_Network.png" ,SP: USA: World Fishing Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140588
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Motor_Trend.png" ,SP: USA: MotorTrend
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140589
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/5e7e08b2cc2624f0b126447a80264f45.png" ,SP: USA: VSiN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140590
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Root_Sports.png" ,SP: USA: ROOT SPports
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140591
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/246f008b372bce0dcab6c10d4779a786.png" ,SP: USA: TVG NETWORK HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140592
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Tvg.png" ,SP: USA: TVG
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140593
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/TVG2.png" ,SP: USA: TVG2 HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140594
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/9cbe0dcbea283e71f04a57e33ef268d1.png" ,SP: USA: NBCSN California
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140595
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Arizona.png" ,SP: USA: Bally Sports Arizona
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140596
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Detroit.png" ,SP: USA: Bally Sports Detroit
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140597
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Florida.png" ,SP: USA: Bally Sports Florida
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140598
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Great_Lakes.png" ,SP: USA: Bally Sports Great Lakes
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140599
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Indiana.png" ,SP: USA: Bally Sports Indiana
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140600
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Kansas_City.png" ,SP: USA: Bally Sports Kansas City
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140601
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Midwest.png" ,SP: USA: Bally Sports MidWest
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140602
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_New_Orleans.png" ,SP: USA: Bally Sports New Orleans
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140603
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_North.png" ,SP: USA: Bally Sports North
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140604
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_North.png" ,SP: USA: Bally Sports North Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140605
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Ohio.png" ,SP: USA: Bally Sports Ohio
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140606
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Oklahoma.png" ,SP: USA: Bally Sports Oklahoma
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140607
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_San_Diego.png" ,SP: USA: Bally Sports San Diego
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140608
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_sports_socal.png" ,SP: USA: Bally Sports Socal
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140609
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_South.png" ,SP: USA: Bally Sports South
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140610
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Southeast.png" ,SP: USA: Bally Sports SouthEast
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140611
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Southwest.png" ,SP: USA: Bally Sports SouthWest
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140612
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Sun.png" ,SP: USA: Bally Sports Sun
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140613
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_sports_west.png" ,SP: USA: Bally Sports West
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140614
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Wisconsin.png" ,SP: USA: Bally Sports Wisconsin
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140615
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Espn_deportes.png" ,SP: USA: ESPN Deportes
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140616
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Arizona.png" ,SP: USA: Bally Sports Arizona Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140617
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Detroit.png" ,SP: USA: Bally Sports Detroit Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140618
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Indiana.png" ,SP: USA: Bally Sports Indiana Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140619
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Kansas_City.png" ,SP: USA: Bally Sports Kansas City Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140620
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Midwest.png" ,SP: USA: Bally Sports Midwest Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140621
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_New_Orleans.png" ,SP: USA: Bally Sports New Orleans Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140622
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Ohio.png" ,SP: USA: Bally Sports Ohio Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140623
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_San_Diego.png" ,SP: USA: Bally Sports San Diego Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140624
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_South.png" ,SP: USA: Bally Sports South Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140625
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Bally_Sports_Wisconsin.png" ,SP: USA: Bally Sports Wisconsin Plus
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140626
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/CBS_Sports_Network.png" ,SP: USA: CBS Sports HQ
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140627
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Fubo_TV.png" ,SP: USA: Fubo Sports Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140628
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://tvgo.re:8080/images/b59450408a01c020b054907e5b023b31.png" ,SP: USA: Next Level Sports
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140629
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/Ride_tv.png" ,SP: USA: Ride TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140630
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/FOX_Deportes.png" ,SP: USA: Fox Deportes HD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140631
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="http://swedtv.vip/logos/USA_Sports/World_Poker_Tour.png" ,SP: USA: World Poker Tour
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140632
+#EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/176/583/png-clipart-at-t-sportsnet-rocky-mountain-at-t-sportsnet-southwest-at-t-sportsnet-pittsburgh-rocky-mountain-logo-television-text.png" ,SP: USA: AT&T Sportsnet Southwest
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140633
+#EXTINF:-1 group-title="USA SPORTS" ,SP: USA: Fight Sports
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/140634
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCkRE-PEMC3xM68hgRxDPp2.png" ,CA: YTV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37926
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCZ5sHyAv5XLWxM4vN6lMG3.png" ,CA: YES TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37927
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBE5VWrpGkC8Rv2yTdBL1q43RtzcFJBRAlL37rjKI58PA.png" ,CA: W Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37928
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDGGgwmSE-2UDD_e9AC7E3tJ6nRGIggnQr9feP9oSdqFg.png" ,CA: Vision
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37929
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeA3SqQFRzK_1VD2cnqyeAdlXb9dTWA3_db9M96EITSSyw.png" ,CA: Nickelodeon
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37930
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDtqxmhX1xgoiMnQpKU6nXo.png" ,CA: FX
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37931
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeC8Kjuh6aWQuMLO-rnH58RVvtsOAkmLUXvbupJqL83rKw.png" ,CA: MovieTime
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37932
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAOmRXQl6Wghi-bvdJkEWC3F04-hV7K7cZ7WzaIGcl57g.png" ,CA: Treehouse
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37933
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://vaktar.vip:8080/images/4515f9546ea2a62400fc8fcfc73a8820.png" ,CA: NatGeo
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37934
+#EXTINF:-1 group-title="CANADA" ,CA: The Wather Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37935
+#EXTINF:-1 group-title="CANADA" ,CA: CTV SCI-FI
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37936
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCIyPnYJ3QhPpzA-_fwhDA9hbLc7RFj5d03zhsHT7-UEQ.png" ,CA: Global Halifax
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37937
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAyMzqE_Qm_dEPn0Cbuv8BC.png" ,CA: Showcase
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37938
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeApgsH9cdmjpTG5-nZvAYJe.png" ,CA: TSC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37939
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCMTl6CSWI-N00R3OPehP7xGogKhJMsFT84I6YtXilEug.png" ,CA: Adult Swim
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37940
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAspLmGy0NPE5TUS5WWRM8gK2RJ7OmW2X4VjYyjAnTx-Q.png" ,CA: Headline News
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37941
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyl4QfRYAdCUmEefTorjvMeORt8Sr2khMzPFLesLhU05A.png" ,CA: Food Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37942
+#EXTINF:-1 group-title="CANADA" ,CA: CTV Drama
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37943
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAVCL7Ek8Q8bCLMOVttpG6d.png" ,CA: CNBC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37944
+#EXTINF:-1 group-title="CANADA" ,CA: Peach Tree
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37945
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAVQX-NCd94C0NQ0nR_A0CjZ7Gw35yt4wpLWqUC7CsWvQ.png" ,CA: PBS Buffalo (WNED)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37946
+#EXTINF:-1 group-title="CANADA" ,CA: OWN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37947
+#EXTINF:-1 group-title="CANADA" ,CA: OMNI 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37948
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDWipCKVTbOTK85bMpSudSD.png" ,CA: OMNI 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37949
+#EXTINF:-1 group-title="CANADA" ,CA: OLN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37950
+#EXTINF:-1 group-title="CANADA" ,CA: Cable Pulse 24
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37951
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeA6EoSpVgWo1vsZNlDxtIzl.png" ,CA: MTV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37952
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDHtvmaAJ0v3fNDsaUprOeN-iWiC-4YXUQMhZyZbRA2TA.png" ,CA: Makeful
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37953
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCC20PPTlFUIwroSd7zbS-V.png" ,CA: Lifetime
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37954
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAEBybBQgThlGrNiVhfQq5o.png" ,CA: HLN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37955
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://vaktar.vip:8080/images/2ce124f0a3a2c8ca5358b6c7b10b0506.png" ,CA: History Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37956
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCKz_j-6qH6tCjXbuY5_OYI.png" ,CA: HGTV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37957
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeA_ZQzc6SdM5uUP1INUX5CU.png" ,CA: Game TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37958
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDtj3rJJiAC9j-wZxQHGfE2MM5YqUbCUh3ghRUDk7d30Q.png" ,CA: Family JR
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37959
+#EXTINF:-1 group-title="CANADA" ,CA: Family
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37960
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBC3F-uvfH5eW7oVQiM6J32.png" ,CA: DTOUR
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37961
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAMYWjZ7TJD5Hqa0eZDQgg0_dDmt3KRiwZZSUUZa7rzxw.png" ,CA: DIY Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37962
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeARVIrmvwWzn_ZI3N0v6jKf2liogrlxfAm6IwOnB28GGw.png" ,CA: Disney XD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37963
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://vaktar.vip:8080/images/98da911a6a7e9b677b03b2453b2befb1.png" ,CA: Disney Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37964
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyyip28y1MK0xZcAz1C81oXVZuIS4-VM_WRFGbF_CljCw.png" ,CA: Discovery Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37965
+#EXTINF:-1 group-title="CANADA" ,CA: CTV News Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37966
+#EXTINF:-1 group-title="CANADA" ,CA: CTV Comedy
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37967
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBMCu9fUhT7EJLr3lTDbS4e.png" ,CA: CPAC (ENG)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37968
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCNJY3ZvSTdyjBNvpVrXwCy.png" ,CA: CP24
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37969
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAOfb_IzSjOBbEZyBDEyOqZ.png" ,CA: CMT
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37970
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAWIsXygjEPM9Dz77rNEiHx.png" ,CA: CHCH
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37971
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCdxGaNm61YsAV073kVZUx_s_3SACfgDbvQ15YlYr5Zdg.png" ,CA: CBC News Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37972
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBBJWd9H-kdE5xvEaSw4_TfNJJm2gdD7omuWtJzwMELoQ.png" ,CA: Cartoon Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37973
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeA04zT9YojkxUhWMiyj6TTkkH9WXBRxbA55s8tNeyp4Gw.png" ,CA: BBC Canada
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37974
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCVw4AU2jnMknR5Jj8HlyTc.png" ,CA: Unis TV (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37975
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAMJYM50hh_IvKOJYaXnMu0.png" ,CA: AMC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37976
+#EXTINF:-1 group-title="CANADA" ,CA: TFO (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37977
+#EXTINF:-1 group-title="CANADA" ,CA: Teletoon (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37978
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDN4QVP-cY84LpLq-7wVum9nfQiEezpZxvOCBX_TF8-BQ.png" ,CA: Disney Junior
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37979
+#EXTINF:-1 group-title="CANADA" ,CA: BNN Bloomberg
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37980
+#EXTINF:-1 group-title="CANADA" ,CA: ABC Buffalo (WKBW)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37981
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBTnVvTLP0lTU9wueMp_ZpeEdBvK_6LQaQaP8rHotRYpA.png" ,CA: ABC Spark
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37982
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyyip28y1MK0xZcAz1C81oXX5i4ktxCPVBGwI2Qw3uMXA.png" ,CA: TLC
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37983
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDg0tK9HQPtVdJ1DR8xLszqTj6FJ2rOOQbeZ_wh62HZEw.png" ,CA: Crime & Investigation
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37984
+#EXTINF:-1 group-title="CANADA" ,CA: Much
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37985
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCJ7NMGuYZj7jVO6ZRP7k_C3iFUS3gXw7ZZgQzs6Jk0_w.png" ,CA: Love Nature
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37986
+#EXTINF:-1 group-title="CANADA" ,CA: Crave 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37987
+#EXTINF:-1 group-title="CANADA" ,CA: Crave 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37988
+#EXTINF:-1 group-title="CANADA" ,CA: Crave 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37989
+#EXTINF:-1 group-title="CANADA" ,CA: Crave 4
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37990
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAuNDJkbOQnY0YahS7Ofhp6.png" ,CA: HBO 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37991
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://tvgo.re:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" ,CA: HBO 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37992
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeB4XPzkBcUopCsSmIvxOnza.png" ,CA: Canal D (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37993
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBmk4u1NsJ6UU8baREtbX4n.png" ,CA: Cine POP (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37994
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAzQE8Wkxe_kCfv9wn6mSi6.png" ,CA: Evasion (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37995
+#EXTINF:-1 group-title="CANADA" ,CA: CBC Montreal
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37996
+#EXTINF:-1 group-title="CANADA" ,CA: CBC Calgary
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37997
+#EXTINF:-1 group-title="CANADA" ,CA: CBC Ottawa
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37998
+#EXTINF:-1 group-title="CANADA" ,CA: CBC Toronto
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/37999
+#EXTINF:-1 group-title="CANADA" ,CA: City Calgary
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38000
+#EXTINF:-1 group-title="CANADA" ,CA: City Toronto
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38001
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBrBCUVqehzpXkjmENL6gpuzo8_5X5gEawP6eQQMeg-8Q.png" ,CA: City Vancouver
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38002
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDia001bRsH3XTvlv3G9yBd.png" ,CA: CNN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38003
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDhENot5FMxQd-r-eFYcojfizeq_upziWGWKaRUGcZIKw.png" ,CA: Cooking Channel
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38004
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeB0x8jfadwLDRrr7LFR42u4B8xIOi9jcROac959YSK-3Q.png" ,CA: Cottage Life
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38005
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBxSOFYZ29k74NSN6lf2EKN.png" ,CA: CTV 2 Vancouver
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38006
+#EXTINF:-1 group-title="CANADA" ,CA: CTV Halifax
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38007
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBcIPf4rcM2dt7kaKyeFy-Qyyip28y1MK0xZcAz1C81oXsSy74sIjPgu1Xx9n_y54Xg.png" ,CA: Discovery Science
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38008
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeBkRoMRK7YD-VZFrSP0CEJHLC5-U22YeB-uBa6DOxqApA.png" ,CA: Global Toronto
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38009
+#EXTINF:-1 group-title="CANADA" ,CA: Global Vancouver
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38010
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeDWPFvCyDsGSfSkehe91tR3wozZDLnMIuCBBkuOI5i6TA.png" ,CA: Spike TV / Paramount
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38011
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeAlt96vEBdfBqHicsvSDT92sY0UU91GMHIR-m5AlFiXyg.png" ,CA: Travel Escape
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38012
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBU5AoYpf8H0hOq916z4lYeCrZxKzMheAP23yO0Fs8nA4.png" ,CA: TVO
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38013
+#EXTINF:-1 group-title="CANADA" ,CA: Super Ecran 2 (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38014
+#EXTINF:-1 group-title="CANADA" ,CA: Super Ecran 3 (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38015
+#EXTINF:-1 group-title="CANADA" ,CA: Super Ecran 4 (FR)
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38016
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBXXPvDGQTT42fikYpWRQmMGEDLGx2oZFEjmRQkq02mHOGRykzUmeL7ByuJl8BdA3iQ.png" ,SP: CA: Fox Sports Racing
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38017
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBXXPvDGQTT42fikYpWRQmMEJZoyxN0PV3JKJwQzN5SqjcN_6lSEk1SuMfqnHigeAxA.png" ,SP: CA: NFL Network
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38018
+#EXTINF:-1 group-title="CANADA" ,SP: CA: Sportsnet West
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38019
+#EXTINF:-1 group-title="CANADA" ,SP: CA: Sportsnet Ontario
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38020
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBXXPvDGQTT42fikYpWRQmMEEu5u20KP2ar4vS-Zz1-Ltbfkp8yVCI1dWJkpSdw-iKg.png" ,SP: CA: Sportsnet One
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38021
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBXXPvDGQTT42fikYpWRQmMEEu5u20KP2ar4vS-Zz1-Ltbs-XIG99wEdDxaG3QcYSNw.png" ,SP: CA: Sportsnet East
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38022
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://40.mastertv.pro:8080/images/IPipT31tafaSLBzN7UqRBXXPvDGQTT42fikYpWRQmMEEu5u20KP2ar4vS-Zz1-Ltp2bZRgqlN2oSJ_eIch6SGg.png" ,SP: CA: Sportsnet 360
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38023
+#EXTINF:-1 group-title="CANADA" ,SP: CA: Golf
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38024
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TSN 5
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38025
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TSN 4
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38026
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TSN 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38027
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TSN 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38028
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TSN 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38029
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TVA Sports 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38030
+#EXTINF:-1 group-title="CANADA" ,SP: CA: TVA Sports 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38031
+#EXTINF:-1 group-title="CANADA" ,???-- Canad? Sports --???
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/38032
+#EXTINF:-1 group-title="NBA" tvg-logo="http://40.mastertv.pro:8080/images/lBFW2HYCpgwXr3llJes4wyDVFjvkhtefsGIpZmbX3itSeVTcoLiDNhFIow0pQqQ9pF1j71rVK-l_QVTp6SUvoKTi8SM2sJOwZQVhFuBDAstgrdaT5K9R1acZDrhBPKYc4wt_7kW-SYJfaurWfqXWousrh4OeBdkzwmilk-U7p91sy0hTdHOp9XMiTZGRX4JR_yq0Ijwu14dp6lGa4iikKaVWrT5caRlS934sOALSCUI.jpg" ,NBA TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/47605
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182780
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182781
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182782
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 4
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182783
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 5
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182784
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 6
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182785
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 7
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182786
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 8
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182787
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 9
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182788
+#EXTINF:-1 group-title="NBA" tvg-logo="http://miarea.vip:8080/images/11ea92b66a24f772adcb89f6b7769f00.jpg" ,NBA PASS 10
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/182789
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" ,ADULT| PLAYBOY
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82663
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://telegato.xyz/wp-content/uploads/2020/07/ver-venus-tv-online-gratis.jpg" ,ADULT| VENUS
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82664
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| PINKO TV 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82652
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| PINKO TV 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82653
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| CENTO X
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82654
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| MILF TV
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82656
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| BLOWJOB
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82657
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| GAY
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82659
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| iNTERRACIAL
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82660
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| LATINA
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/82661
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| DANCING BEAR
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106077
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| PENTHOUSE
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106074
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT| PENTHOUSE GOLD
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106091
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT|  ANGELA WHITE
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106078
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT|  LISA ANN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106079
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT|  MIA KHALIFA
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106081
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT|  RILEU REID
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106082
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| NICOLE ANISTON
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106096
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| MIA MALKOVA
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106097
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| MADISON IVY
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106098
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| LENA PAUL
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106099
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| ABELLA DANGER
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106102
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| DANI JENSEN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106100
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| DANI DANIELS
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106101
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| ASIAN
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106076
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT| FAP TV 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106083
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT|  FAP TV 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106085
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT|  FAP TV 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106086
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT|  FAP TV 4
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106087
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT|  FAP TV 5
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106090
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT| FAP TV 6
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106094
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://emprendedoresnews.com/wp-content/uploads/2012/03/logo-xxx.png" ,ADULT| FAP TV 7
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106095
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="http://miarea.vip:8080/images/1792f5f05fb19ec4f0970808a798b0fd.png" ,ADULT| FAP TV 8
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106072
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106123
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106124
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106125
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 4
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106128
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 5
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106129
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 6
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106130
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 7
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106132
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 8
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106134
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 9
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106135
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 10
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106136
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 11
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106137
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 12
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106139
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 13
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106140
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 14
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106143
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 15
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106146
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 16
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106147
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 17
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106149
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 18
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106150
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| FAP VIP 19
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106153
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 1
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106103
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 2
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106104
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 3
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106105
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 4
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106106
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 5
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106107
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 6
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106108
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 7
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106110
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 8
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106111
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 9
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106113
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 10
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106114
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 11
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106115
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 12
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106116
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 13
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106117
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 14
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106118
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 15
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106120
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 16
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106121
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 17
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106122
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 18
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106127
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 19
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106133
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 20
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106138
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 21
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106141
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 22
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106142
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 23
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106144
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 24
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106145
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 25
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106148
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 26
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106151
+#EXTINF:-1 group-title="XXX ADULTOS" tvg-logo="https://i.imgur.com/99SbUR2.png" ,ADULT| 27
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/106152
+
