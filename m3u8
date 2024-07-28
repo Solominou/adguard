@@ -301,6 +301,9 @@ http://138.201.201.122:8080/tdn/tdn/54060
 http://138.201.201.122:8080/tdn/tdn/289
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/jadeed.jpg" tvg-id="290" ,ALJADEED *
 http://138.201.201.122:8080/tdn/tdn/290
+
+#EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/mtv.webp" tvg-id="291" ,MTV LEBANON
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/mtv.webp" tvg-id="291" ,MTV LEBANON
 http://138.201.201.122:8080/tdn/tdn/291
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/mtv.webp" tvg-id="292" ,MTV LEBANON *
@@ -317,8 +320,15 @@ http://138.201.201.122:8080/tdn/tdn/294
 http://138.201.201.122:8080/tdn/tdn/299
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/nbn.jpg" tvg-id="300" ,NBN *
 http://138.201.201.122:8080/tdn/tdn/300
+
+#EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/manar.png" tvg-id="302" ,ALMANAR
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/manar.png" tvg-id="302" ,ALMANAR
 http://138.201.201.122:8080/tdn/tdn/302
+#EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" tvg-id="301" ,ALMAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" tvg-id="301" ,ALMAYADEEN
 http://138.201.201.122:8080/tdn/tdn/301
 #EXTINF:-1 group-title="LEBANON" tvg-logo="http://teledunet.com/logos/tl.jpg" tvg-id="305" ,TELE LEBANON
