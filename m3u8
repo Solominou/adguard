@@ -4377,16 +4377,63 @@ http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201039
 http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201040
 #EXTINF:-1 group-title="KW | Kuwait" ,Marina TV (1080p)
 http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201041
+
+#EXTINF:-1 group-title="LB | Lebonan" , LBC INTERNATIONAL
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452136
+#EXTINF:-1 group-title="LB | Lebonan" , JADEED HD
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452134
+#EXTINF:-1 group-title="LB | Lebonan" , MTV HD
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452138
+
+
+
+#EXTINF:-1 group-title="LB | Lebonan" ,Al Manar (576p)
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201102
+#EXTINF:-1 group-title="LB | Lebonan" ,Al Mayadeen (576p)
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201104
+#EXTINF:-1 group-title="LB | Lebonan" , OTV HD
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452141
+#EXTINF:-1 group-title="LB | Lebonan" , TELE LIBAN
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452142
+
+#EXTINF:-1 group-title="LB | Lebonan" tvg-logo="http://teledunet.com/logos/manar.png" ,Al Manar (576p)
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="LB | Lebonan" , AGHANI
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452131
+#EXTINF:-1 group-title="LB | Lebonan" , ARABICA
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452132
+#EXTINF:-1 group-title="LB | Lebonan" , AL IMAN TV
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452133
+
+#EXTINF:-1 group-title="LB | Lebonan" , LBC HD
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452135
+
+#EXTINF:-1 group-title="LB | Lebonan" , AL ITTIHAD TV
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452137
+
+#EXTINF:-1 group-title="LB | Lebonan" , NBN HD
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452139
+#EXTINF:-1 group-title="LB | Lebonan" , ONE TV
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452140
+
+#EXTINF:-1 group-title="LB | Lebonan" , HALA LONDON
+http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/452143
+
+
+
+
 #EXTINF:-1 group-title="LB | Lebonan" ,Alhayat TV (720p)
 http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201098
 #EXTINF:-1 group-title="LB | Lebonan" ,Aliman TV (240p)
 http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201099
 #EXTINF:-1 group-title="LB | Lebonan" ,Al Ittihad (552p)
 http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201100
-#EXTINF:-1 group-title="LB | Lebonan" ,Al Manar (576p)
-http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201102
-#EXTINF:-1 group-title="LB | Lebonan" ,Al Mayadeen (576p)
-http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201104
+
 #EXTINF:-1 group-title="LB | Lebonan" ,Arabica TV (720p)
 http://beinplay.xyz:8080/gokce1407/pLYVKreRjU/201105
 #EXTINF:-1 group-title="LB | Lebonan" ,CharityTV (1080p)
