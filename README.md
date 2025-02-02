@@ -1257,4 +1257,18 @@ www.showfha.online###sp-header
 www.showfha.online##.Awlsora
 ! 2023-04-30 https://movie-web.app
 
-
+||www.faselhds.care/aimgs/l2.jpg$image
+www.faselhds.care##.social-block
+www.faselhds.care##.alert-danger.alert
+www.faselhds.care##.downloadLinks
+www.faselhds.care##.postElse
+www.faselhds.care###streamBox > .streamHeader
+www.faselhds.care###a3BVWR6VaPnSN
+www.faselhds.care###aHQryvWabZ1dI
+www.faselhds.care###anzcZxEMmFv4O
+www.faselhds.care###abK7tnSDdUhGM
+www.faselhds.care###aqsJagPEDFN9W
+www.faselhds.care###aAofaLsvz9WQz
+||www.faselhds.care/aimgs/l4.jpg$image
+www.faselhds.care###a9MOIVzgWNLG6 > div
+www.faselhds.care###agz1RwsQyZx5O > div
